@@ -145,6 +145,8 @@ Because the functions are inside the private network, they need a controlled pat
 | S3 gateway endpoint | Gateway (no charge) | The S3 bucket |
 | Bedrock runtime endpoint | Interface (hourly charge) | Both Bedrock models |
 
+There is one gateway endpoint and one interface endpoint in the deployment. The architecture diagram shows an endpoint on each connection to make the paths easier to follow, but all Lambda functions share the same two endpoints.
+
 ### Who can reach what
 
 | From | To | Allowed |
