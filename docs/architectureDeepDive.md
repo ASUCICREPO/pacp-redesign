@@ -2,8 +2,6 @@
 
 This document describes the proposed AWS architecture for the Pan-American Ceramics Project (PACP) platform. It explains what each part of the system does, how the parts work together, and why the main design choices were made.
 
-It is written for both technical and non-technical readers. Technical detail is kept to what is needed to understand and build the system.
-
 ---
 
 ## 1. What the platform needs to do
@@ -60,6 +58,8 @@ When a user signs in, Cognito issues a signed token that carries the user's grou
 ### Front door: Amazon API Gateway
 
 API Gateway is the single entry point for all requests from the web application. It verifies the Cognito token before anything else runs, rejects requests that are not allowed, and forwards valid requests to the right Lambda function. It also enforces a 10 MB limit on any single request, which is enough for web-size images, CSV files, and PDF reports uploaded through the application.
+
+Larger files can be supported later without changing the architecture. The web application would split the file into chunks of under 10 MB and send each chunk through API Gateway to the `API` function, which writes them to S3 as parts of a multipart upload and completes the upload once all parts have arrived. Files still enter S3 only through the `API` function.
 
 ### Compute: four AWS Lambda functions
 
@@ -145,8 +145,6 @@ Because the functions are inside the private network, they need a controlled pat
 | S3 gateway endpoint | Gateway (no charge) | The S3 bucket |
 | Bedrock runtime endpoint | Interface (hourly charge) | Both Bedrock models |
 
-A NAT Gateway is not used. It would cost more and is not needed because the functions only call S3 and Bedrock.
-
 ### Who can reach what
 
 | From | To | Allowed |
@@ -227,56 +225,12 @@ Contributor profiles (ORCID, affiliation, biography) live in the Contributor tab
 
 **Consequences.** The model ID is one setting per Lambda function. It can be changed without code changes if a better or cheaper option appears.
 
-### Decision 3: No Amazon Textract
-
-**Status:** Accepted
-
-**Context.** Textract converts PDF pages to text and tables before a language model reads them. It is accurate on dense tables but adds a service, a VPC endpoint, and a per-page charge.
-
-**Decision.** Read PDFs inside the `Doc` function with the PyMuPDF library. When a page has a text layer, send the text to Claude. When a page is a scanned image, send the page image to Claude, which reads it directly.
-
-**Rationale.** Claude Sonnet reads page images itself, so a separate reading step is not needed. The cost per page is lower. All extracted records go to the review queue as drafts, so a reviewer catches any misread cell before it is published.
-
-**Consequences.** Very dense tables may occasionally lose a cell alignment. If reviewers correct these often, Textract can be added back as one extra call inside `Doc`.
-
-### Decision 4: Lambda inside the VPC with endpoints, no NAT Gateway
-
-**Status:** Accepted
-
-**Context.** The database has no public address, so the functions that use it must be in the same private network. Functions inside a private network need a path to S3 and Bedrock.
-
-**Decision.** Use one S3 gateway endpoint (no charge) and one Bedrock interface endpoint (about 7 dollars per month). Do not use a NAT Gateway (about 32 dollars per month).
-
-**Rationale.** The functions call only S3 and Bedrock. Endpoints cover both at lower cost and keep traffic off the public internet.
-
-**Consequences.** The functions cannot reach other external services. Cognito administration and external identifier services (PeriodO, gazetteers, ARK resolvers) are therefore handled outside the functions in the proof of concept.
-
-### Decision 5: Human review on every AI output
-
-**Status:** Accepted
-
-**Context.** The project scope excludes automated interpretation and moderation without human review.
-
-**Decision.** No AI output is published directly. Records extracted from documents, records suggested from images, and assistant answers are either drafts awaiting review or displayed to the user as suggestions with the source shown. Moderation of community content is done by reviewers without AI scoring.
-
-**Rationale.** This matches the project scope and keeps the platform's stance clear: the system narrows possibilities and shows its reasoning, people decide.
-
-### Decision 6: Similarity ranking by counted attributes
-
-**Status:** Accepted
-
-**Context.** Users need to understand why a match was suggested. A single similarity score from a model does not explain itself.
-
-**Decision.** Image and description similarity is used to find candidate records. The displayed ranking then counts how many catalogued attributes (form, surface treatment, temper, region, period) each candidate shares with the query, and the interface shows which ones matched.
-
-**Rationale.** "Four of five attributes align" is a statement a user can check. It supports defensible narrowing rather than forced certainty, which the scope document asks for.
-
 ---
 
 ## 9. Known limits of this design
 
 - Single database instance in one availability zone. Suitable for a proof of concept, not for production uptime requirements.
-- Uploads through the application are limited to 10 MB per file. Larger files, and the initial bulk load of the existing image collection, go directly to S3 with the AWS command line.
+- Uploads through the application are limited to 10 MB per file. Larger files, and the initial bulk load of the existing image collection, go directly to S3 with the AWS command line. Chunked uploads through the `API` function using S3 multipart upload can lift this limit later (see section 4, API Gateway).
 - Newly uploaded images are searchable by similarity only after `Media` has processed them, usually within a minute.
 - The Lambda functions cannot call services outside AWS. Live synchronization with external identifier registries is deferred.
 - Role changes require an administrator to use the Cognito console.
@@ -287,4 +241,3 @@ Contributor profiles (ORCID, affiliation, biography) live in the Contributor tab
 
 - [User Flows](./userFlow.md) describes each user story and how the architecture supports it.
 - [Cost Estimation](./costEstimation.md) gives the expected monthly and one-time costs.
-- [Deployment Guide](./deploymentGuide.md) covers how to deploy the stack.
