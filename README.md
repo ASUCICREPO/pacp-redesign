@@ -86,10 +86,7 @@ The `backend/` and `frontend/` folders contain the starting scaffolds for the CD
 
 ## Credits
 
-This architecture was developed by the ASU Artificial Intelligence Cloud Innovation Center (AI CIC) powered by AWS, in collaboration with the Pan-American Ceramics Project team.
-
-- [Contributor name](LinkedIn URL)
-- [Contributor name](LinkedIn URL)
+This application was architected by [Shaashvat Mittal](https://www.linkedin.com/in/shaashvatm156/), [Collins Kimutai](https://www.linkedin.com/in/collins-kimutai-135922b2/), and [Jenny Nguyen](https://www.linkedin.com/in/jennnyen/) with solutions architect [Arun Arunachalam](https://www.linkedin.com/in/arunarunachalam/), program manager [Shawna Piper](https://www.linkedin.com/in/shawna-piper-6117b242/) and product manager [Rachel Hayden](https://www.linkedin.com/in/rachelhayden/). Thanks to the ASU Cloud Innovation Center Technical and Project Management teams for their guidance and support.
 
 ---
 
