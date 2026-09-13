@@ -266,15 +266,3 @@ Claude never reads the database directly. It only gets what the tools return, an
 | 13 Visual exploration | `API` | | RDS | `derivatives/` | |
 | 14 Homepage tasks | `API` | | RDS | | |
 | 15 Initial load | | `Media`, `Doc` | RDS | `originals/`, `derivatives/`, `docs/` | Nova Embeddings |
-
----
-
-## Deferred to a later phase
-
-The following appear in project discussions but are not part of this design:
-
-- Instructor-assigned coursework with student submissions and instructor review.
-- Live synchronization with external identifier registries (PeriodO, site gazetteers). Identifiers are stored as links in this phase.
-- Minting DOIs. ARK identifiers can be assigned by the platform once PACP registers a Name Assigning Authority Number.
-- Role changes from within the application. These are done in the Cognito console in this phase.
-- Reputation systems and community endorsement workflows.
