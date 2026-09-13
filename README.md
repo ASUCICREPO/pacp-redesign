@@ -4,6 +4,18 @@ The Pan-American Ceramics Project (PACP) is an archaeological initiative buildin
 
 This repository holds the architecture design for the redesigned PACP platform, produced by the ASU Artificial Intelligence Cloud Innovation Center (AI CIC) powered by AWS. It describes a serverless AWS architecture that gives archaeologists, CRM professionals, and students structured records, fuzzy and faceted search, image-based sherd identification, version history, human review, AI-assisted document extraction, and a plain-language assistant, at a cost suited to a proof of concept.
 
+## Demo Video
+
+Watch the complete reimagination of PACP platform:
+
+<div align="center">
+  <a href="">
+    <img src="./docs/media/demo-thumbnail.png" alt="PACP Demo" width="650">
+  </a>
+  <p><em>Click the image above to watch the demo (opens in Google Drive)</em></p>
+</div>
+
+
 ## Disclaimers
 
 Customers are responsible for making their own independent assessment of the information in this document. This document:
