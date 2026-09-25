@@ -9,7 +9,7 @@ This repository holds the architecture design for the redesigned PACP platform, 
 Watch the complete reimagination of PACP platform:
 
 <div align="center">
-  <a href="">
+  <a href="https://drive.google.com/file/d/1PRHNilcDDpW04i8st-Wu0kDRTNt9T1go/view?usp=sharing">
     <img src="./docs/media/demo-thumbnail.png" alt="PACP Demo" width="650">
   </a>
   <p><em>Click the image above to watch the demo (opens in Google Drive)</em></p>
