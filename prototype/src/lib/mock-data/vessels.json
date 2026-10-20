@@ -1,0 +1,4130 @@
+[
+  {
+    "vessel_id": "ves-lq-v-112",
+    "registration_number": "LQ-V-112",
+    "name_or_label": "La Quemada V-112",
+    "site_id": "site-la-quemada",
+    "assemblage_id": "asm-lq-terrace-18",
+    "archaeological_context": "Terrace 18, Structure 3, floor contact",
+    "region_id": "reg-mx-zac",
+    "country": "Mexico",
+    "period_id": "per-epiclassic",
+    "date_bce_ce": "600–900 CE",
+    "date_range_start": 600,
+    "date_range_end": 900,
+    "ware_id": "ware-buff",
+    "type_id": "type-zacatecas-red-on-buff",
+    "petro_fabric_id": "pf-volcanic-plagioclase",
+    "kiln_workshop_id": null,
+    "morphology": {
+      "shape": "bowl",
+      "shape_type": "Open hemispherical bowl",
+      "shape_family": "Open forms",
+      "functional_category": "Serving",
+      "vessel_height_cm": 9.4,
+      "max_diameter_cm": 25.9,
+      "rim_diameter_cm": 24.2,
+      "rim_percent_preserved": 100.0,
+      "base_diameter_cm": 10.4,
+      "base_percent_preserved": 98.0,
+      "wall_thickness_mm": 5.1,
+      "rim_thickness_mm": 8.1,
+      "rim_direction": "Out",
+      "rim_angle_deg": 34.0,
+      "rim_shape": "Everted, rounded lip",
+      "base_shape": "Flat",
+      "parts_present": [
+        "Rim",
+        "Neck",
+        "Body",
+        "Base"
+      ]
+    },
+    "technology": {
+      "fabric_description_color": "Light yellowish-brown paste (10YR 6/4) with visible angular white and grey inclusions",
+      "forming_method": "Coiling with paddle-and-anvil thinning",
+      "primary_finish": "Scraping",
+      "secondary_finish": "Smoothing, light burnishing",
+      "firing_atmosphere": "Oxidising",
+      "exterior_color": "10YR 7/3 very pale brown",
+      "interior_color": "10YR 6/4 light yellowish brown",
+      "core_color": "10YR 5/2 greyish brown",
+      "multiple_cores": false,
+      "estimated_firing_temp": "750–850 °C",
+      "hardness": "Moderately hard (Mohs 3–4)",
+      "pitch": "Medium",
+      "cooling": "Moderate",
+      "surface_core_boundary": "Gradual",
+      "inclusion_orientation": "Parallel to vessel wall",
+      "decorative_technique": "Painted — red geometric band of opposed triangles below the rim",
+      "drying_cracks": "Fine radial cracks on base"
+    },
+    "images": [
+      {
+        "vessel_image_id": "img-lq-v-112-1",
+        "image_type": "exterior",
+        "media_url": null,
+        "caption": "La Quemada V-112 — exterior",
+        "credit": "Andrea Torvinen",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-lq-v-112-2",
+        "image_type": "interior",
+        "media_url": null,
+        "caption": "La Quemada V-112 — interior",
+        "credit": "Andrea Torvinen",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-lq-v-112-3",
+        "image_type": "profile",
+        "media_url": null,
+        "caption": "La Quemada V-112 — profile",
+        "credit": "Andrea Torvinen",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-lq-v-112-4",
+        "image_type": "rim detail",
+        "media_url": null,
+        "caption": "La Quemada V-112 — rim detail",
+        "credit": "Andrea Torvinen",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-lq-v-112-5",
+        "image_type": "break section",
+        "media_url": null,
+        "caption": "La Quemada V-112 — break section",
+        "credit": "Andrea Torvinen",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-lq-v-112-6",
+        "image_type": "thin section",
+        "media_url": null,
+        "caption": "La Quemada V-112 — thin section",
+        "credit": "Andrea Torvinen",
+        "created_at": "2026-02-01"
+      }
+    ],
+    "bibliography_ids": [
+      "bib-003",
+      "bib-016"
+    ],
+    "contributor_id": "contrib-torvinen",
+    "housing_location": "Instituto Hondureño de Antropología e Historia",
+    "external_data": null,
+    "acknowledgements": "Recorded with the support of the host institution and project field crew.",
+    "privacy_level": "public",
+    "doi_ark_id": "ark:/99999/pacp-lq-v-112",
+    "stewardship_status": "stewarded",
+    "completeness_percent": 100,
+    "versions": [
+      {
+        "version": 1,
+        "updated_at": "2026-01-10",
+        "updated_by": "contrib-torvinen",
+        "change_summary": "Initial record created.",
+        "reviewer_comments": null
+      },
+      {
+        "version": 2,
+        "updated_at": "2026-02-13",
+        "updated_by": "contrib-torvinen",
+        "change_summary": "Added full morphological and technological description.",
+        "reviewer_comments": null
+      },
+      {
+        "version": 3,
+        "updated_at": "2026-03-16",
+        "updated_by": "contrib-torvinen",
+        "change_summary": "Petrographic sample analysed and cross-referenced to the regional fabric series.",
+        "reviewer_comments": "Fabric matches the published reference group. Documentation is reproducible."
+      },
+      {
+        "version": 4,
+        "updated_at": "2026-04-19",
+        "updated_by": "contrib-torvinen",
+        "change_summary": "Bibliographic references and image credits completed.",
+        "reviewer_comments": "Citation set is complete and image credits verified."
+      },
+      {
+        "version": 5,
+        "updated_at": "2026-05-22",
+        "updated_by": "contrib-torvinen",
+        "change_summary": "Record endorsed following specialist review.",
+        "reviewer_comments": "Endorsed as a reference example for this type. Note that this endorsement reflects informed confidence, not final authority — alternate readings remain open."
+      }
+    ],
+    "alternate_interpretations": [],
+    "discussion": [
+      {
+        "contributor_id": "contrib-michelaki",
+        "comment": "The plagioclase laths here are noticeably coarser than in the other Terrace 18 material. Has anyone compared this against the Terrace 12 fabric series?",
+        "date": "2026-03-11",
+        "replies": [
+          {
+            "contributor_id": "contrib-torvinen",
+            "comment": "Good catch. The Terrace 12 series runs finer on average. I have added the comparison note to the fabric description rather than changing the assignment, since the range overlaps.",
+            "date": "2026-03-13"
+          }
+        ]
+      }
+    ],
+    "created_at": "2026-01-10",
+    "updated_at": "2026-05-22"
+  },
+  {
+    "vessel_id": "ves-lq-v-118",
+    "registration_number": "LQ-V-118",
+    "name_or_label": "La Quemada V-118",
+    "site_id": "site-la-quemada",
+    "assemblage_id": "asm-lq-terrace-18",
+    "archaeological_context": "Hall of Columns, midden deposit",
+    "region_id": "reg-mx-zac",
+    "country": "Mexico",
+    "period_id": "per-epiclassic",
+    "date_bce_ce": "600–900 CE",
+    "date_range_start": 600,
+    "date_range_end": 900,
+    "ware_id": "ware-storage",
+    "type_id": "type-la-quemada-storage",
+    "petro_fabric_id": "pf-volcanic-plagioclase",
+    "kiln_workshop_id": null,
+    "morphology": {
+      "shape": "olla",
+      "shape_type": "Short-necked olla",
+      "shape_family": "Restricted forms",
+      "functional_category": "Cooking / storage",
+      "vessel_height_cm": 37.0,
+      "max_diameter_cm": 31.5,
+      "rim_diameter_cm": 23.1,
+      "rim_percent_preserved": 94.0,
+      "base_diameter_cm": 10.8,
+      "base_percent_preserved": 84.0,
+      "wall_thickness_mm": 10.1,
+      "rim_thickness_mm": 10.0,
+      "rim_direction": "Out",
+      "rim_angle_deg": 17.0,
+      "rim_shape": "Everted, T-shaped",
+      "base_shape": "Round",
+      "parts_present": [
+        "Rim",
+        "Neck",
+        "Body"
+      ]
+    },
+    "technology": {
+      "fabric_description_color": "Light yellowish-brown paste (10YR 6/4) with visible angular white and grey inclusions",
+      "forming_method": "Coiling with paddle-and-anvil thinning",
+      "primary_finish": "Scraping",
+      "secondary_finish": "Smoothing, light burnishing",
+      "firing_atmosphere": "Oxidising",
+      "exterior_color": "10YR 7/3 very pale brown",
+      "interior_color": "10YR 6/4 light yellowish brown",
+      "core_color": "10YR 5/2 greyish brown",
+      "multiple_cores": false,
+      "estimated_firing_temp": "750–850 °C",
+      "hardness": "Moderately hard (Mohs 3–4)",
+      "pitch": "Medium",
+      "cooling": "Moderate",
+      "surface_core_boundary": "Gradual",
+      "inclusion_orientation": "Parallel to vessel wall",
+      "decorative_technique": "Undecorated",
+      "drying_cracks": "None observed"
+    },
+    "images": [
+      {
+        "vessel_image_id": "img-lq-v-118-1",
+        "image_type": "exterior",
+        "media_url": null,
+        "caption": "La Quemada V-118 — exterior",
+        "credit": "Andrea Torvinen",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-lq-v-118-2",
+        "image_type": "interior",
+        "media_url": null,
+        "caption": "La Quemada V-118 — interior",
+        "credit": "Andrea Torvinen",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-lq-v-118-3",
+        "image_type": "profile",
+        "media_url": null,
+        "caption": "La Quemada V-118 — profile",
+        "credit": "Andrea Torvinen",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-lq-v-118-4",
+        "image_type": "rim detail",
+        "media_url": null,
+        "caption": "La Quemada V-118 — rim detail",
+        "credit": "Andrea Torvinen",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-lq-v-118-5",
+        "image_type": "break section",
+        "media_url": null,
+        "caption": "La Quemada V-118 — break section",
+        "credit": "Andrea Torvinen",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-lq-v-118-6",
+        "image_type": "thin section",
+        "media_url": null,
+        "caption": "La Quemada V-118 — thin section",
+        "credit": "Andrea Torvinen",
+        "created_at": "2026-02-01"
+      }
+    ],
+    "bibliography_ids": [
+      "bib-003",
+      "bib-005"
+    ],
+    "contributor_id": "contrib-torvinen",
+    "housing_location": "Peabody Museum, Harvard University",
+    "external_data": null,
+    "acknowledgements": "Recorded with the support of the host institution and project field crew.",
+    "privacy_level": "public",
+    "doi_ark_id": "ark:/99999/pacp-lq-v-118",
+    "stewardship_status": "community_reviewed",
+    "completeness_percent": 100,
+    "versions": [
+      {
+        "version": 1,
+        "updated_at": "2026-01-10",
+        "updated_by": "contrib-torvinen",
+        "change_summary": "Initial record created.",
+        "reviewer_comments": null
+      },
+      {
+        "version": 2,
+        "updated_at": "2026-02-13",
+        "updated_by": "contrib-torvinen",
+        "change_summary": "Added technological description and firing observations.",
+        "reviewer_comments": null
+      },
+      {
+        "version": 3,
+        "updated_at": "2026-03-16",
+        "updated_by": "contrib-torvinen",
+        "change_summary": "Thin section examined; petro-fabric assigned.",
+        "reviewer_comments": "Fabric assignment is consistent with the regional reference group. Type attribution is well supported by the rim profile."
+      },
+      {
+        "version": 4,
+        "updated_at": "2026-04-19",
+        "updated_by": "contrib-torvinen",
+        "change_summary": "Chronology narrowed following review.",
+        "reviewer_comments": "Agreed with the narrowed date range. Recommend noting the residual possibility of a later date."
+      }
+    ],
+    "alternate_interpretations": [],
+    "discussion": [],
+    "created_at": "2026-01-10",
+    "updated_at": "2026-04-19"
+  },
+  {
+    "vessel_id": "ves-lq-v-131",
+    "registration_number": "LQ-V-131",
+    "name_or_label": "La Quemada V-131",
+    "site_id": "site-la-quemada",
+    "assemblage_id": "asm-lq-terrace-18",
+    "archaeological_context": "Terrace 12, fill above plaza surface",
+    "region_id": "reg-mx-zac",
+    "country": "Mexico",
+    "period_id": "per-epiclassic",
+    "date_bce_ce": "600–900 CE",
+    "date_range_start": 600,
+    "date_range_end": 900,
+    "ware_id": "ware-buff",
+    "type_id": "type-zacatecas-red-on-buff",
+    "petro_fabric_id": "pf-volcanic-plagioclase",
+    "kiln_workshop_id": null,
+    "morphology": {
+      "shape": "bowl",
+      "shape_type": "Open hemispherical bowl",
+      "shape_family": "Open forms",
+      "functional_category": "Serving",
+      "vessel_height_cm": 9.2,
+      "max_diameter_cm": 19.6,
+      "rim_diameter_cm": 21.4,
+      "rim_percent_preserved": 61.0,
+      "base_diameter_cm": 8.9,
+      "base_percent_preserved": 58.0,
+      "wall_thickness_mm": 5.8,
+      "rim_thickness_mm": 8.3,
+      "rim_direction": "Out",
+      "rim_angle_deg": 49.0,
+      "rim_shape": "Everted, rounded lip",
+      "base_shape": "Flat",
+      "parts_present": [
+        "Rim",
+        "Body"
+      ]
+    },
+    "technology": {
+      "fabric_description_color": "Light yellowish-brown paste (10YR 6/4) with visible angular white and grey inclusions",
+      "forming_method": "Coiling with paddle-and-anvil thinning",
+      "primary_finish": "Scraping",
+      "secondary_finish": "Smoothing, light burnishing",
+      "firing_atmosphere": "Oxidising",
+      "exterior_color": "10YR 7/3 very pale brown",
+      "interior_color": "10YR 6/4 light yellowish brown",
+      "core_color": "10YR 5/2 greyish brown",
+      "multiple_cores": false,
+      "estimated_firing_temp": "750–850 °C",
+      "hardness": "Moderately hard (Mohs 3–4)",
+      "pitch": "Medium",
+      "cooling": "Moderate",
+      "surface_core_boundary": "Gradual",
+      "inclusion_orientation": "Parallel to vessel wall",
+      "decorative_technique": "Painted — red geometric band of opposed triangles below the rim",
+      "drying_cracks": "Fine radial cracks on base"
+    },
+    "images": [
+      {
+        "vessel_image_id": "img-lq-v-131-1",
+        "image_type": "exterior",
+        "media_url": null,
+        "caption": "La Quemada V-131 — exterior",
+        "credit": "Diego Brenes",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-lq-v-131-2",
+        "image_type": "interior",
+        "media_url": null,
+        "caption": "La Quemada V-131 — interior",
+        "credit": "Diego Brenes",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-lq-v-131-3",
+        "image_type": "profile",
+        "media_url": null,
+        "caption": "La Quemada V-131 — profile",
+        "credit": "Diego Brenes",
+        "created_at": "2026-02-01"
+      }
+    ],
+    "bibliography_ids": [
+      "bib-003",
+      "bib-016"
+    ],
+    "contributor_id": "contrib-brenes",
+    "housing_location": "Universidad de Panamá, ceramic reference collection",
+    "external_data": null,
+    "acknowledgements": "Recorded with the support of the host institution and project field crew.",
+    "privacy_level": "public",
+    "doi_ark_id": null,
+    "stewardship_status": "needs_review",
+    "completeness_percent": 90,
+    "versions": [
+      {
+        "version": 1,
+        "updated_at": "2026-01-10",
+        "updated_by": "contrib-brenes",
+        "change_summary": "Initial draft created from field notes.",
+        "reviewer_comments": null
+      },
+      {
+        "version": 2,
+        "updated_at": "2026-02-13",
+        "updated_by": "contrib-michelaki",
+        "change_summary": "Added morphological measurements and fabric description. Requesting review of the type attribution.",
+        "reviewer_comments": null
+      }
+    ],
+    "alternate_interpretations": [
+      {
+        "contributor_id": "contrib-michelaki",
+        "suggested_ware": "ware-storage",
+        "suggested_type": null,
+        "reasoning": "The wall thickness and rim bolstering sit outside the published range for Zacatecas Red-on-Buff. The red band may be residual from an earlier surface rather than deliberate decoration on this vessel. I would keep the type attribution open.",
+        "confidence": "tentative",
+        "date_added": "2026-04-18"
+      }
+    ],
+    "discussion": [],
+    "created_at": "2026-01-10",
+    "updated_at": "2026-02-13"
+  },
+  {
+    "vessel_id": "ves-lq-v-144",
+    "registration_number": "LQ-V-144",
+    "name_or_label": "La Quemada V-144",
+    "site_id": "site-la-quemada",
+    "assemblage_id": "asm-lq-terrace-18",
+    "archaeological_context": "Surface collection, north slope",
+    "region_id": "reg-mx-zac",
+    "country": "Mexico",
+    "period_id": "per-epiclassic",
+    "date_bce_ce": "600–900 CE",
+    "date_range_start": 600,
+    "date_range_end": 900,
+    "ware_id": "ware-storage",
+    "type_id": "type-la-quemada-storage",
+    "petro_fabric_id": null,
+    "kiln_workshop_id": null,
+    "morphology": {
+      "shape": "olla",
+      "shape_type": "Short-necked olla",
+      "shape_family": "Restricted forms",
+      "functional_category": "Cooking / storage",
+      "vessel_height_cm": 30.8,
+      "max_diameter_cm": 29.8,
+      "rim_diameter_cm": 20.8,
+      "rim_percent_preserved": 9.0,
+      "base_diameter_cm": null,
+      "base_percent_preserved": null,
+      "wall_thickness_mm": 8.4,
+      "rim_thickness_mm": null,
+      "rim_direction": "Out",
+      "rim_angle_deg": null,
+      "rim_shape": "Everted, T-shaped",
+      "base_shape": "Round",
+      "parts_present": [
+        "Rim",
+        "Body",
+        "Base"
+      ]
+    },
+    "technology": {
+      "fabric_description_color": null,
+      "forming_method": null,
+      "primary_finish": null,
+      "secondary_finish": null,
+      "firing_atmosphere": null,
+      "exterior_color": null,
+      "interior_color": null,
+      "core_color": null,
+      "multiple_cores": null,
+      "estimated_firing_temp": null,
+      "hardness": null,
+      "pitch": null,
+      "cooling": null,
+      "surface_core_boundary": null,
+      "inclusion_orientation": null,
+      "decorative_technique": "Undecorated",
+      "drying_cracks": null
+    },
+    "images": [],
+    "bibliography_ids": [],
+    "contributor_id": "contrib-alvarez",
+    "housing_location": null,
+    "external_data": null,
+    "acknowledgements": null,
+    "privacy_level": "public",
+    "doi_ark_id": null,
+    "stewardship_status": "draft",
+    "completeness_percent": 52,
+    "versions": [
+      {
+        "version": 1,
+        "updated_at": "2026-01-10",
+        "updated_by": "contrib-alvarez",
+        "change_summary": "Initial draft created from field notes.",
+        "reviewer_comments": null
+      }
+    ],
+    "alternate_interpretations": [],
+    "discussion": [],
+    "created_at": "2026-01-10",
+    "updated_at": "2026-01-10"
+  },
+  {
+    "vessel_id": "ves-ma-v-207",
+    "registration_number": "MA-V-207",
+    "name_or_label": "Monte Albán V-207",
+    "site_id": "site-monte-alban",
+    "assemblage_id": "asm-ma-north-platform",
+    "archaeological_context": "Tomb 7 antechamber, offering context",
+    "region_id": "reg-mx-oax",
+    "country": "Mexico",
+    "period_id": "per-classic",
+    "date_bce_ce": "200–800 BCE",
+    "date_range_start": -200,
+    "date_range_end": 800,
+    "ware_id": "ware-gray",
+    "type_id": "type-monte-alban-gray-bowl",
+    "petro_fabric_id": "pf-micaceous",
+    "kiln_workshop_id": null,
+    "morphology": {
+      "shape": "bowl",
+      "shape_type": "Open hemispherical bowl",
+      "shape_family": "Open forms",
+      "functional_category": "Serving",
+      "vessel_height_cm": 9.6,
+      "max_diameter_cm": 20.8,
+      "rim_diameter_cm": 22.3,
+      "rim_percent_preserved": 51.0,
+      "base_diameter_cm": 8.0,
+      "base_percent_preserved": 10.0,
+      "wall_thickness_mm": 5.6,
+      "rim_thickness_mm": 6.1,
+      "rim_direction": "Out",
+      "rim_angle_deg": 75.0,
+      "rim_shape": "Everted, rounded lip",
+      "base_shape": "Flat",
+      "parts_present": [
+        "Rim",
+        "Neck",
+        "Body"
+      ]
+    },
+    "technology": {
+      "fabric_description_color": "Greyish-brown paste (2.5Y 5/2) with visible platy mica reflecting in raking light",
+      "forming_method": "Coiling with slow-wheel finishing",
+      "primary_finish": "Scraping",
+      "secondary_finish": "Polishing",
+      "firing_atmosphere": "Reducing",
+      "exterior_color": "2.5Y 4/1 dark grey",
+      "interior_color": "2.5Y 4/1 dark grey",
+      "core_color": "2.5Y 3/1 very dark grey",
+      "multiple_cores": false,
+      "estimated_firing_temp": "850–900 °C",
+      "hardness": "Hard (Mohs 4–5)",
+      "pitch": "High",
+      "cooling": "Slow, in reducing atmosphere",
+      "surface_core_boundary": "None — evenly reduced",
+      "inclusion_orientation": "Parallel to vessel wall",
+      "decorative_technique": "Incised — single horizontal band above the basal angle",
+      "drying_cracks": "None observed"
+    },
+    "images": [
+      {
+        "vessel_image_id": "img-ma-v-207-1",
+        "image_type": "exterior",
+        "media_url": null,
+        "caption": "Monte Albán V-207 — exterior",
+        "credit": "Konstantina-Eleni Michelaki",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-ma-v-207-2",
+        "image_type": "interior",
+        "media_url": null,
+        "caption": "Monte Albán V-207 — interior",
+        "credit": "Konstantina-Eleni Michelaki",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-ma-v-207-3",
+        "image_type": "profile",
+        "media_url": null,
+        "caption": "Monte Albán V-207 — profile",
+        "credit": "Konstantina-Eleni Michelaki",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-ma-v-207-4",
+        "image_type": "rim detail",
+        "media_url": null,
+        "caption": "Monte Albán V-207 — rim detail",
+        "credit": "Konstantina-Eleni Michelaki",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-ma-v-207-5",
+        "image_type": "break section",
+        "media_url": null,
+        "caption": "Monte Albán V-207 — break section",
+        "credit": "Konstantina-Eleni Michelaki",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-ma-v-207-6",
+        "image_type": "thin section",
+        "media_url": null,
+        "caption": "Monte Albán V-207 — thin section",
+        "credit": "Konstantina-Eleni Michelaki",
+        "created_at": "2026-02-01"
+      }
+    ],
+    "bibliography_ids": [
+      "bib-007",
+      "bib-017"
+    ],
+    "contributor_id": "contrib-michelaki",
+    "housing_location": "Peabody Museum, Harvard University",
+    "external_data": null,
+    "acknowledgements": "Recorded with the support of the host institution and project field crew.",
+    "privacy_level": "public",
+    "doi_ark_id": "ark:/99999/pacp-ma-v-207",
+    "stewardship_status": "stewarded",
+    "completeness_percent": 100,
+    "versions": [
+      {
+        "version": 1,
+        "updated_at": "2026-01-10",
+        "updated_by": "contrib-michelaki",
+        "change_summary": "Initial record created.",
+        "reviewer_comments": null
+      },
+      {
+        "version": 2,
+        "updated_at": "2026-02-13",
+        "updated_by": "contrib-michelaki",
+        "change_summary": "Added full morphological and technological description.",
+        "reviewer_comments": null
+      },
+      {
+        "version": 3,
+        "updated_at": "2026-03-16",
+        "updated_by": "contrib-michelaki",
+        "change_summary": "Petrographic sample analysed and cross-referenced to the regional fabric series.",
+        "reviewer_comments": "Fabric matches the published reference group. Documentation is reproducible."
+      },
+      {
+        "version": 4,
+        "updated_at": "2026-04-19",
+        "updated_by": "contrib-michelaki",
+        "change_summary": "Bibliographic references and image credits completed.",
+        "reviewer_comments": "Citation set is complete and image credits verified."
+      },
+      {
+        "version": 5,
+        "updated_at": "2026-05-22",
+        "updated_by": "contrib-michelaki",
+        "change_summary": "Record endorsed following specialist review.",
+        "reviewer_comments": "Endorsed as a reference example for this type. Note that this endorsement reflects informed confidence, not final authority — alternate readings remain open."
+      }
+    ],
+    "alternate_interpretations": [],
+    "discussion": [],
+    "created_at": "2026-01-10",
+    "updated_at": "2026-05-22"
+  },
+  {
+    "vessel_id": "ves-ma-v-219",
+    "registration_number": "MA-V-219",
+    "name_or_label": "Monte Albán V-219",
+    "site_id": "site-monte-alban",
+    "assemblage_id": "asm-ma-north-platform",
+    "archaeological_context": "North Platform, construction fill",
+    "region_id": "reg-mx-oax",
+    "country": "Mexico",
+    "period_id": "per-classic",
+    "date_bce_ce": "200–800 BCE",
+    "date_range_start": -200,
+    "date_range_end": 800,
+    "ware_id": "ware-gray",
+    "type_id": "type-monte-alban-gray-bowl",
+    "petro_fabric_id": "pf-micaceous",
+    "kiln_workshop_id": null,
+    "morphology": {
+      "shape": "bowl",
+      "shape_type": "Open hemispherical bowl",
+      "shape_family": "Open forms",
+      "functional_category": "Serving",
+      "vessel_height_cm": 10.1,
+      "max_diameter_cm": 22.7,
+      "rim_diameter_cm": 22.7,
+      "rim_percent_preserved": 55.0,
+      "base_diameter_cm": 9.7,
+      "base_percent_preserved": 48.0,
+      "wall_thickness_mm": 5.4,
+      "rim_thickness_mm": 7.5,
+      "rim_direction": "Out",
+      "rim_angle_deg": 46.0,
+      "rim_shape": "Everted, rounded lip",
+      "base_shape": "Flat",
+      "parts_present": [
+        "Rim",
+        "Body",
+        "Base"
+      ]
+    },
+    "technology": {
+      "fabric_description_color": "Greyish-brown paste (2.5Y 5/2) with visible platy mica reflecting in raking light",
+      "forming_method": "Coiling with slow-wheel finishing",
+      "primary_finish": "Scraping",
+      "secondary_finish": "Polishing",
+      "firing_atmosphere": "Reducing",
+      "exterior_color": "2.5Y 4/1 dark grey",
+      "interior_color": "2.5Y 4/1 dark grey",
+      "core_color": "2.5Y 3/1 very dark grey",
+      "multiple_cores": false,
+      "estimated_firing_temp": "850–900 °C",
+      "hardness": "Hard (Mohs 4–5)",
+      "pitch": "High",
+      "cooling": "Slow, in reducing atmosphere",
+      "surface_core_boundary": "None — evenly reduced",
+      "inclusion_orientation": "Weakly aligned",
+      "decorative_technique": "Incised — single horizontal band above the basal angle",
+      "drying_cracks": "None observed"
+    },
+    "images": [
+      {
+        "vessel_image_id": "img-ma-v-219-1",
+        "image_type": "exterior",
+        "media_url": null,
+        "caption": "Monte Albán V-219 — exterior",
+        "credit": "Konstantina-Eleni Michelaki",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-ma-v-219-2",
+        "image_type": "interior",
+        "media_url": null,
+        "caption": "Monte Albán V-219 — interior",
+        "credit": "Konstantina-Eleni Michelaki",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-ma-v-219-3",
+        "image_type": "profile",
+        "media_url": null,
+        "caption": "Monte Albán V-219 — profile",
+        "credit": "Konstantina-Eleni Michelaki",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-ma-v-219-4",
+        "image_type": "rim detail",
+        "media_url": null,
+        "caption": "Monte Albán V-219 — rim detail",
+        "credit": "Konstantina-Eleni Michelaki",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-ma-v-219-5",
+        "image_type": "break section",
+        "media_url": null,
+        "caption": "Monte Albán V-219 — break section",
+        "credit": "Konstantina-Eleni Michelaki",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-ma-v-219-6",
+        "image_type": "thin section",
+        "media_url": null,
+        "caption": "Monte Albán V-219 — thin section",
+        "credit": "Konstantina-Eleni Michelaki",
+        "created_at": "2026-02-01"
+      }
+    ],
+    "bibliography_ids": [
+      "bib-007",
+      "bib-017"
+    ],
+    "contributor_id": "contrib-michelaki",
+    "housing_location": "Instituto Hondureño de Antropología e Historia",
+    "external_data": null,
+    "acknowledgements": "Recorded with the support of the host institution and project field crew.",
+    "privacy_level": "public",
+    "doi_ark_id": "ark:/99999/pacp-ma-v-219",
+    "stewardship_status": "community_reviewed",
+    "completeness_percent": 100,
+    "versions": [
+      {
+        "version": 1,
+        "updated_at": "2026-01-10",
+        "updated_by": "contrib-michelaki",
+        "change_summary": "Initial record created.",
+        "reviewer_comments": null
+      },
+      {
+        "version": 2,
+        "updated_at": "2026-02-13",
+        "updated_by": "contrib-michelaki",
+        "change_summary": "Added technological description and firing observations.",
+        "reviewer_comments": null
+      },
+      {
+        "version": 3,
+        "updated_at": "2026-03-16",
+        "updated_by": "contrib-michelaki",
+        "change_summary": "Thin section examined; petro-fabric assigned.",
+        "reviewer_comments": "Fabric assignment is consistent with the regional reference group. Type attribution is well supported by the rim profile."
+      },
+      {
+        "version": 4,
+        "updated_at": "2026-04-19",
+        "updated_by": "contrib-michelaki",
+        "change_summary": "Chronology narrowed following review.",
+        "reviewer_comments": "Agreed with the narrowed date range. Recommend noting the residual possibility of a later date."
+      }
+    ],
+    "alternate_interpretations": [],
+    "discussion": [],
+    "created_at": "2026-01-10",
+    "updated_at": "2026-04-19"
+  },
+  {
+    "vessel_id": "ves-ma-v-233",
+    "registration_number": "MA-V-233",
+    "name_or_label": "Monte Albán V-233",
+    "site_id": "site-monte-alban",
+    "assemblage_id": null,
+    "archaeological_context": "System IV patio, mixed deposit",
+    "region_id": "reg-mx-oax",
+    "country": "Mexico",
+    "period_id": "per-classic",
+    "date_bce_ce": "250–900 CE",
+    "date_range_start": 250,
+    "date_range_end": 900,
+    "ware_id": "ware-gray",
+    "type_id": null,
+    "petro_fabric_id": "pf-micaceous",
+    "kiln_workshop_id": null,
+    "morphology": {
+      "shape": "jar",
+      "shape_type": "Restricted neck jar",
+      "shape_family": "Restricted forms",
+      "functional_category": "Storage / transport",
+      "vessel_height_cm": 22.0,
+      "max_diameter_cm": 21.9,
+      "rim_diameter_cm": 14.2,
+      "rim_percent_preserved": 28.0,
+      "base_diameter_cm": 12.4,
+      "base_percent_preserved": 96.0,
+      "wall_thickness_mm": 9.5,
+      "rim_thickness_mm": 6.6,
+      "rim_direction": "Out",
+      "rim_angle_deg": 34.0,
+      "rim_shape": "Everted, thickened lip",
+      "base_shape": "Round",
+      "parts_present": [
+        "Rim",
+        "Body",
+        "Base"
+      ]
+    },
+    "technology": {
+      "fabric_description_color": "Greyish-brown paste (2.5Y 5/2) with visible platy mica reflecting in raking light",
+      "forming_method": "Coiling with slow-wheel finishing",
+      "primary_finish": "Scraping",
+      "secondary_finish": "Polishing",
+      "firing_atmosphere": "Reducing",
+      "exterior_color": "2.5Y 4/1 dark grey",
+      "interior_color": "2.5Y 4/1 dark grey",
+      "core_color": "2.5Y 3/1 very dark grey",
+      "multiple_cores": false,
+      "estimated_firing_temp": "850–900 °C",
+      "hardness": "Hard (Mohs 4–5)",
+      "pitch": "High",
+      "cooling": "Slow, in reducing atmosphere",
+      "surface_core_boundary": "None — evenly reduced",
+      "inclusion_orientation": "Parallel to vessel wall",
+      "decorative_technique": null,
+      "drying_cracks": "None observed"
+    },
+    "images": [
+      {
+        "vessel_image_id": "img-ma-v-233-1",
+        "image_type": "exterior",
+        "media_url": null,
+        "caption": "Monte Albán V-233 — exterior",
+        "credit": "Ana Vásquez",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-ma-v-233-2",
+        "image_type": "interior",
+        "media_url": null,
+        "caption": "Monte Albán V-233 — interior",
+        "credit": "Ana Vásquez",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-ma-v-233-3",
+        "image_type": "profile",
+        "media_url": null,
+        "caption": "Monte Albán V-233 — profile",
+        "credit": "Ana Vásquez",
+        "created_at": "2026-02-01"
+      }
+    ],
+    "bibliography_ids": [
+      "bib-007"
+    ],
+    "contributor_id": "contrib-vasquez",
+    "housing_location": "Peabody Museum, Harvard University",
+    "external_data": null,
+    "acknowledgements": "Recorded with the support of the host institution and project field crew.",
+    "privacy_level": "public",
+    "doi_ark_id": null,
+    "stewardship_status": "needs_review",
+    "completeness_percent": 90,
+    "versions": [
+      {
+        "version": 1,
+        "updated_at": "2026-01-10",
+        "updated_by": "contrib-vasquez",
+        "change_summary": "Initial draft created from field notes.",
+        "reviewer_comments": null
+      },
+      {
+        "version": 2,
+        "updated_at": "2026-02-13",
+        "updated_by": "contrib-michelaki",
+        "change_summary": "Added morphological measurements and fabric description. Requesting review of the type attribution.",
+        "reviewer_comments": null
+      }
+    ],
+    "alternate_interpretations": [
+      {
+        "contributor_id": "contrib-michelaki",
+        "suggested_ware": "ware-gray",
+        "suggested_type": "type-monte-alban-gray-bowl",
+        "reasoning": "Reduction firing and micaceous fabric are consistent with the local grey ware series, but the restricted jar form is not represented in the published G-12 corpus. This may be an unclassified utilitarian variant.",
+        "confidence": "possible",
+        "date_added": "2026-05-02"
+      },
+      {
+        "contributor_id": "contrib-vasquez",
+        "suggested_ware": null,
+        "suggested_type": null,
+        "reasoning": "Deposit is mixed. I would not assign a type until the stratigraphic association is resolved.",
+        "confidence": "insufficient evidence",
+        "date_added": "2026-05-09"
+      }
+    ],
+    "discussion": [],
+    "created_at": "2026-01-10",
+    "updated_at": "2026-02-13"
+  },
+  {
+    "vessel_id": "ves-te-v-301",
+    "registration_number": "TE-V-301",
+    "name_or_label": "Teotihuacan V-301",
+    "site_id": "site-teotihuacan",
+    "assemblage_id": "asm-te-tlajinga",
+    "archaeological_context": "Tlajinga 33, apartment compound floor",
+    "region_id": "reg-mx-mex",
+    "country": "Mexico",
+    "period_id": "per-early-classic",
+    "date_bce_ce": "200–550 CE",
+    "date_range_start": 200,
+    "date_range_end": 550,
+    "ware_id": "ware-thin-orange",
+    "type_id": "type-thin-orange-bowl",
+    "petro_fabric_id": "pf-fine-orange-paste",
+    "kiln_workshop_id": null,
+    "morphology": {
+      "shape": "bowl",
+      "shape_type": "Open hemispherical bowl",
+      "shape_family": "Open forms",
+      "functional_category": "Serving",
+      "vessel_height_cm": 10.2,
+      "max_diameter_cm": 20.0,
+      "rim_diameter_cm": 20.2,
+      "rim_percent_preserved": 13.0,
+      "base_diameter_cm": 7.9,
+      "base_percent_preserved": 57.0,
+      "wall_thickness_mm": 5.8,
+      "rim_thickness_mm": 6.7,
+      "rim_direction": "Out",
+      "rim_angle_deg": 54.0,
+      "rim_shape": "Everted, rounded lip",
+      "base_shape": "Flat",
+      "parts_present": [
+        "Rim",
+        "Neck",
+        "Body",
+        "Base"
+      ]
+    },
+    "technology": {
+      "fabric_description_color": "Fine reddish-yellow paste (5YR 6/8), inclusions not visible at 10x",
+      "forming_method": "Moulding with finished rim coil",
+      "primary_finish": "Scraping",
+      "secondary_finish": "High burnishing",
+      "firing_atmosphere": "Oxidising",
+      "exterior_color": "5YR 6/8 reddish yellow",
+      "interior_color": "5YR 6/8 reddish yellow",
+      "core_color": "None visible",
+      "multiple_cores": false,
+      "estimated_firing_temp": "900–1000 °C",
+      "hardness": "Hard (Mohs 5)",
+      "pitch": "High",
+      "cooling": "Slow",
+      "surface_core_boundary": "None — fully oxidised",
+      "inclusion_orientation": "Parallel to vessel wall",
+      "decorative_technique": "Undecorated; occasional shallow ring-base groove",
+      "drying_cracks": "None observed"
+    },
+    "images": [
+      {
+        "vessel_image_id": "img-te-v-301-1",
+        "image_type": "exterior",
+        "media_url": null,
+        "caption": "Teotihuacan V-301 — exterior",
+        "credit": "Ben Nelson",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-te-v-301-2",
+        "image_type": "interior",
+        "media_url": null,
+        "caption": "Teotihuacan V-301 — interior",
+        "credit": "Ben Nelson",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-te-v-301-3",
+        "image_type": "profile",
+        "media_url": null,
+        "caption": "Teotihuacan V-301 — profile",
+        "credit": "Ben Nelson",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-te-v-301-4",
+        "image_type": "rim detail",
+        "media_url": null,
+        "caption": "Teotihuacan V-301 — rim detail",
+        "credit": "Ben Nelson",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-te-v-301-5",
+        "image_type": "break section",
+        "media_url": null,
+        "caption": "Teotihuacan V-301 — break section",
+        "credit": "Ben Nelson",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-te-v-301-6",
+        "image_type": "thin section",
+        "media_url": null,
+        "caption": "Teotihuacan V-301 — thin section",
+        "credit": "Ben Nelson",
+        "created_at": "2026-02-01"
+      }
+    ],
+    "bibliography_ids": [
+      "bib-006"
+    ],
+    "contributor_id": "contrib-nelson",
+    "housing_location": "Peabody Museum, Harvard University",
+    "external_data": null,
+    "acknowledgements": "Recorded with the support of the host institution and project field crew.",
+    "privacy_level": "public",
+    "doi_ark_id": "ark:/99999/pacp-te-v-301",
+    "stewardship_status": "stewarded",
+    "completeness_percent": 100,
+    "versions": [
+      {
+        "version": 1,
+        "updated_at": "2026-01-10",
+        "updated_by": "contrib-nelson",
+        "change_summary": "Initial record created.",
+        "reviewer_comments": null
+      },
+      {
+        "version": 2,
+        "updated_at": "2026-02-13",
+        "updated_by": "contrib-nelson",
+        "change_summary": "Added full morphological and technological description.",
+        "reviewer_comments": null
+      },
+      {
+        "version": 3,
+        "updated_at": "2026-03-16",
+        "updated_by": "contrib-nelson",
+        "change_summary": "Petrographic sample analysed and cross-referenced to the regional fabric series.",
+        "reviewer_comments": "Fabric matches the published reference group. Documentation is reproducible."
+      },
+      {
+        "version": 4,
+        "updated_at": "2026-04-19",
+        "updated_by": "contrib-nelson",
+        "change_summary": "Bibliographic references and image credits completed.",
+        "reviewer_comments": "Citation set is complete and image credits verified."
+      },
+      {
+        "version": 5,
+        "updated_at": "2026-05-22",
+        "updated_by": "contrib-nelson",
+        "change_summary": "Record endorsed following specialist review.",
+        "reviewer_comments": "Endorsed as a reference example for this type. Note that this endorsement reflects informed confidence, not final authority — alternate readings remain open."
+      }
+    ],
+    "alternate_interpretations": [],
+    "discussion": [
+      {
+        "contributor_id": "contrib-nelson",
+        "comment": "Ring base is unusually well finished for Tlajinga material. Possibly a higher-quality import than the compound norm.",
+        "date": "2026-01-29",
+        "replies": []
+      }
+    ],
+    "created_at": "2026-01-10",
+    "updated_at": "2026-05-22"
+  },
+  {
+    "vessel_id": "ves-te-v-308",
+    "registration_number": "TE-V-308",
+    "name_or_label": "Teotihuacan V-308",
+    "site_id": "site-teotihuacan",
+    "assemblage_id": "asm-te-tlajinga",
+    "archaeological_context": "La Ventilla, patio fill",
+    "region_id": "reg-mx-mex",
+    "country": "Mexico",
+    "period_id": "per-early-classic",
+    "date_bce_ce": "200–550 CE",
+    "date_range_start": 200,
+    "date_range_end": 550,
+    "ware_id": "ware-thin-orange",
+    "type_id": "type-thin-orange-bowl",
+    "petro_fabric_id": "pf-fine-orange-paste",
+    "kiln_workshop_id": null,
+    "morphology": {
+      "shape": "bowl",
+      "shape_type": "Open hemispherical bowl",
+      "shape_family": "Open forms",
+      "functional_category": "Serving",
+      "vessel_height_cm": 8.8,
+      "max_diameter_cm": 20.4,
+      "rim_diameter_cm": 23.4,
+      "rim_percent_preserved": 61.0,
+      "base_diameter_cm": 9.5,
+      "base_percent_preserved": 49.0,
+      "wall_thickness_mm": 5.2,
+      "rim_thickness_mm": 6.8,
+      "rim_direction": "Out",
+      "rim_angle_deg": 16.0,
+      "rim_shape": "Everted, rounded lip",
+      "base_shape": "Flat",
+      "parts_present": [
+        "Body",
+        "Base"
+      ]
+    },
+    "technology": {
+      "fabric_description_color": "Fine reddish-yellow paste (5YR 6/8), inclusions not visible at 10x",
+      "forming_method": "Moulding with finished rim coil",
+      "primary_finish": "Scraping",
+      "secondary_finish": "High burnishing",
+      "firing_atmosphere": "Oxidising",
+      "exterior_color": "5YR 6/8 reddish yellow",
+      "interior_color": "5YR 6/8 reddish yellow",
+      "core_color": "None visible",
+      "multiple_cores": false,
+      "estimated_firing_temp": "900–1000 °C",
+      "hardness": "Hard (Mohs 5)",
+      "pitch": "High",
+      "cooling": "Slow",
+      "surface_core_boundary": "None — fully oxidised",
+      "inclusion_orientation": "Parallel to vessel wall",
+      "decorative_technique": "Undecorated; occasional shallow ring-base groove",
+      "drying_cracks": "None observed"
+    },
+    "images": [
+      {
+        "vessel_image_id": "img-te-v-308-1",
+        "image_type": "exterior",
+        "media_url": null,
+        "caption": "Teotihuacan V-308 — exterior",
+        "credit": "Ben Nelson",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-te-v-308-2",
+        "image_type": "interior",
+        "media_url": null,
+        "caption": "Teotihuacan V-308 — interior",
+        "credit": "Ben Nelson",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-te-v-308-3",
+        "image_type": "profile",
+        "media_url": null,
+        "caption": "Teotihuacan V-308 — profile",
+        "credit": "Ben Nelson",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-te-v-308-4",
+        "image_type": "rim detail",
+        "media_url": null,
+        "caption": "Teotihuacan V-308 — rim detail",
+        "credit": "Ben Nelson",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-te-v-308-5",
+        "image_type": "break section",
+        "media_url": null,
+        "caption": "Teotihuacan V-308 — break section",
+        "credit": "Ben Nelson",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-te-v-308-6",
+        "image_type": "thin section",
+        "media_url": null,
+        "caption": "Teotihuacan V-308 — thin section",
+        "credit": "Ben Nelson",
+        "created_at": "2026-02-01"
+      }
+    ],
+    "bibliography_ids": [
+      "bib-006"
+    ],
+    "contributor_id": "contrib-nelson",
+    "housing_location": "Peabody Museum, Harvard University",
+    "external_data": null,
+    "acknowledgements": "Recorded with the support of the host institution and project field crew.",
+    "privacy_level": "public",
+    "doi_ark_id": "ark:/99999/pacp-te-v-308",
+    "stewardship_status": "community_reviewed",
+    "completeness_percent": 100,
+    "versions": [
+      {
+        "version": 1,
+        "updated_at": "2026-01-10",
+        "updated_by": "contrib-nelson",
+        "change_summary": "Initial record created.",
+        "reviewer_comments": null
+      },
+      {
+        "version": 2,
+        "updated_at": "2026-02-13",
+        "updated_by": "contrib-nelson",
+        "change_summary": "Added technological description and firing observations.",
+        "reviewer_comments": null
+      },
+      {
+        "version": 3,
+        "updated_at": "2026-03-16",
+        "updated_by": "contrib-nelson",
+        "change_summary": "Thin section examined; petro-fabric assigned.",
+        "reviewer_comments": "Fabric assignment is consistent with the regional reference group. Type attribution is well supported by the rim profile."
+      },
+      {
+        "version": 4,
+        "updated_at": "2026-04-19",
+        "updated_by": "contrib-nelson",
+        "change_summary": "Chronology narrowed following review.",
+        "reviewer_comments": "Agreed with the narrowed date range. Recommend noting the residual possibility of a later date."
+      }
+    ],
+    "alternate_interpretations": [],
+    "discussion": [],
+    "created_at": "2026-01-10",
+    "updated_at": "2026-04-19"
+  },
+  {
+    "vessel_id": "ves-te-v-316",
+    "registration_number": "TE-V-316",
+    "name_or_label": "Teotihuacan V-316",
+    "site_id": "site-teotihuacan",
+    "assemblage_id": "asm-te-tlajinga",
+    "archaeological_context": "Xalla complex, ritual deposit",
+    "region_id": "reg-mx-mex",
+    "country": "Mexico",
+    "period_id": "per-early-classic",
+    "date_bce_ce": "200–600 CE",
+    "date_range_start": 200,
+    "date_range_end": 600,
+    "ware_id": "ware-orange",
+    "type_id": "type-teotihuacan-florero",
+    "petro_fabric_id": "pf-fine-orange-paste",
+    "kiln_workshop_id": null,
+    "morphology": {
+      "shape": "florero",
+      "shape_type": "Flaring-necked miniature jar",
+      "shape_family": "Restricted forms",
+      "functional_category": "Ritual",
+      "vessel_height_cm": 10.9,
+      "max_diameter_cm": 11.5,
+      "rim_diameter_cm": 7.1,
+      "rim_percent_preserved": 87.0,
+      "base_diameter_cm": 5.3,
+      "base_percent_preserved": 96.0,
+      "wall_thickness_mm": 4.5,
+      "rim_thickness_mm": 4.9,
+      "rim_direction": "Out",
+      "rim_angle_deg": 42.0,
+      "rim_shape": "Flaring, rounded lip",
+      "base_shape": "Flat",
+      "parts_present": [
+        "Rim",
+        "Neck",
+        "Body"
+      ]
+    },
+    "technology": {
+      "fabric_description_color": "Fine reddish-yellow paste (5YR 6/8), inclusions not visible at 10x",
+      "forming_method": "Moulding with finished rim coil",
+      "primary_finish": "Scraping",
+      "secondary_finish": "High burnishing",
+      "firing_atmosphere": "Oxidising",
+      "exterior_color": "5YR 6/8 reddish yellow",
+      "interior_color": "5YR 6/8 reddish yellow",
+      "core_color": "None visible",
+      "multiple_cores": false,
+      "estimated_firing_temp": "900–1000 °C",
+      "hardness": "Hard (Mohs 5)",
+      "pitch": "High",
+      "cooling": "Slow",
+      "surface_core_boundary": "None — fully oxidised",
+      "inclusion_orientation": "Weakly aligned",
+      "decorative_technique": "Undecorated, burnished",
+      "drying_cracks": "None observed"
+    },
+    "images": [
+      {
+        "vessel_image_id": "img-te-v-316-1",
+        "image_type": "exterior",
+        "media_url": null,
+        "caption": "Teotihuacan V-316 — exterior",
+        "credit": "Ben Nelson",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-te-v-316-2",
+        "image_type": "interior",
+        "media_url": null,
+        "caption": "Teotihuacan V-316 — interior",
+        "credit": "Ben Nelson",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-te-v-316-3",
+        "image_type": "profile",
+        "media_url": null,
+        "caption": "Teotihuacan V-316 — profile",
+        "credit": "Ben Nelson",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-te-v-316-4",
+        "image_type": "rim detail",
+        "media_url": null,
+        "caption": "Teotihuacan V-316 — rim detail",
+        "credit": "Ben Nelson",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-te-v-316-5",
+        "image_type": "break section",
+        "media_url": null,
+        "caption": "Teotihuacan V-316 — break section",
+        "credit": "Ben Nelson",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-te-v-316-6",
+        "image_type": "thin section",
+        "media_url": null,
+        "caption": "Teotihuacan V-316 — thin section",
+        "credit": "Ben Nelson",
+        "created_at": "2026-02-01"
+      }
+    ],
+    "bibliography_ids": [
+      "bib-006"
+    ],
+    "contributor_id": "contrib-nelson",
+    "housing_location": "Field laboratory, project storage",
+    "external_data": null,
+    "acknowledgements": "Recorded with the support of the host institution and project field crew.",
+    "privacy_level": "public",
+    "doi_ark_id": "ark:/99999/pacp-te-v-316",
+    "stewardship_status": "community_reviewed",
+    "completeness_percent": 100,
+    "versions": [
+      {
+        "version": 1,
+        "updated_at": "2026-01-10",
+        "updated_by": "contrib-nelson",
+        "change_summary": "Initial record created.",
+        "reviewer_comments": null
+      },
+      {
+        "version": 2,
+        "updated_at": "2026-02-13",
+        "updated_by": "contrib-nelson",
+        "change_summary": "Added technological description and firing observations.",
+        "reviewer_comments": null
+      },
+      {
+        "version": 3,
+        "updated_at": "2026-03-16",
+        "updated_by": "contrib-nelson",
+        "change_summary": "Thin section examined; petro-fabric assigned.",
+        "reviewer_comments": "Fabric assignment is consistent with the regional reference group. Type attribution is well supported by the rim profile."
+      },
+      {
+        "version": 4,
+        "updated_at": "2026-04-19",
+        "updated_by": "contrib-nelson",
+        "change_summary": "Chronology narrowed following review.",
+        "reviewer_comments": "Agreed with the narrowed date range. Recommend noting the residual possibility of a later date."
+      }
+    ],
+    "alternate_interpretations": [],
+    "discussion": [],
+    "created_at": "2026-01-10",
+    "updated_at": "2026-04-19"
+  },
+  {
+    "vessel_id": "ves-te-v-322",
+    "registration_number": "TE-V-322",
+    "name_or_label": "Teotihuacan V-322",
+    "site_id": "site-teotihuacan",
+    "assemblage_id": "asm-te-tlajinga",
+    "archaeological_context": "Museum collection, context unrecorded",
+    "region_id": "reg-mx-mex",
+    "country": "Mexico",
+    "period_id": "per-early-classic",
+    "date_bce_ce": "200–600 CE",
+    "date_range_start": 200,
+    "date_range_end": 600,
+    "ware_id": "ware-orange",
+    "type_id": "type-teotihuacan-florero",
+    "petro_fabric_id": null,
+    "kiln_workshop_id": null,
+    "morphology": {
+      "shape": "florero",
+      "shape_type": "Flaring-necked miniature jar",
+      "shape_family": "Restricted forms",
+      "functional_category": "Ritual",
+      "vessel_height_cm": 13.0,
+      "max_diameter_cm": 9.6,
+      "rim_diameter_cm": 8.5,
+      "rim_percent_preserved": 18.0,
+      "base_diameter_cm": null,
+      "base_percent_preserved": null,
+      "wall_thickness_mm": 3.7,
+      "rim_thickness_mm": null,
+      "rim_direction": "Out",
+      "rim_angle_deg": null,
+      "rim_shape": "Flaring, rounded lip",
+      "base_shape": "Flat",
+      "parts_present": [
+        "Rim",
+        "Body"
+      ]
+    },
+    "technology": {
+      "fabric_description_color": null,
+      "forming_method": null,
+      "primary_finish": null,
+      "secondary_finish": null,
+      "firing_atmosphere": null,
+      "exterior_color": null,
+      "interior_color": null,
+      "core_color": null,
+      "multiple_cores": null,
+      "estimated_firing_temp": null,
+      "hardness": null,
+      "pitch": null,
+      "cooling": null,
+      "surface_core_boundary": null,
+      "inclusion_orientation": null,
+      "decorative_technique": "Undecorated, burnished",
+      "drying_cracks": null
+    },
+    "images": [],
+    "bibliography_ids": [],
+    "contributor_id": "contrib-vasquez",
+    "housing_location": null,
+    "external_data": null,
+    "acknowledgements": null,
+    "privacy_level": "public",
+    "doi_ark_id": null,
+    "stewardship_status": "draft",
+    "completeness_percent": 52,
+    "versions": [
+      {
+        "version": 1,
+        "updated_at": "2026-01-10",
+        "updated_by": "contrib-vasquez",
+        "change_summary": "Initial draft created from field notes.",
+        "reviewer_comments": null
+      }
+    ],
+    "alternate_interpretations": [],
+    "discussion": [],
+    "created_at": "2026-01-10",
+    "updated_at": "2026-01-10"
+  },
+  {
+    "vessel_id": "ves-ci-v-401",
+    "registration_number": "CI-V-401",
+    "name_or_label": "Chichén Itzá V-401",
+    "site_id": "site-chichen-itza",
+    "assemblage_id": null,
+    "archaeological_context": "Sacbe 1 terminus, surface deposit",
+    "region_id": "reg-mx-yuc",
+    "country": "Mexico",
+    "period_id": "per-terminal-classic",
+    "date_bce_ce": "800–1100 CE",
+    "date_range_start": 800,
+    "date_range_end": 1100,
+    "ware_id": "ware-fine",
+    "type_id": "type-chichen-slate-basin",
+    "petro_fabric_id": "pf-calcareous",
+    "kiln_workshop_id": null,
+    "morphology": {
+      "shape": "basin",
+      "shape_type": "Wide open basin",
+      "shape_family": "Open forms",
+      "functional_category": "Food preparation",
+      "vessel_height_cm": 12.1,
+      "max_diameter_cm": 43.6,
+      "rim_diameter_cm": 39.6,
+      "rim_percent_preserved": 33.0,
+      "base_diameter_cm": 16.8,
+      "base_percent_preserved": 22.0,
+      "wall_thickness_mm": 10.5,
+      "rim_thickness_mm": 10.7,
+      "rim_direction": "Out",
+      "rim_angle_deg": 33.0,
+      "rim_shape": "Everted, bolstered",
+      "base_shape": "Flat",
+      "parts_present": [
+        "Rim",
+        "Body",
+        "Base"
+      ]
+    },
+    "technology": {
+      "fabric_description_color": "Very pale brown paste (10YR 7/3) with abundant sparkling cleaved calcite",
+      "forming_method": "Coiling",
+      "primary_finish": "Scraping",
+      "secondary_finish": "Smoothing, slip application",
+      "firing_atmosphere": "Oxidising",
+      "exterior_color": "10YR 8/2 very pale brown",
+      "interior_color": "10YR 7/3 very pale brown",
+      "core_color": "10YR 6/1 grey",
+      "multiple_cores": true,
+      "estimated_firing_temp": "650–750 °C",
+      "hardness": "Soft (Mohs 2–3)",
+      "pitch": "Low",
+      "cooling": "Fast",
+      "surface_core_boundary": "Sharp",
+      "inclusion_orientation": "Random",
+      "decorative_technique": "Slipped — waxy grey slate slip, no painted decoration",
+      "drying_cracks": "Fine radial cracks on base"
+    },
+    "images": [
+      {
+        "vessel_image_id": "img-ci-v-401-1",
+        "image_type": "exterior",
+        "media_url": null,
+        "caption": "Chichén Itzá V-401 — exterior",
+        "credit": "Ana Vásquez",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-ci-v-401-2",
+        "image_type": "interior",
+        "media_url": null,
+        "caption": "Chichén Itzá V-401 — interior",
+        "credit": "Ana Vásquez",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-ci-v-401-3",
+        "image_type": "profile",
+        "media_url": null,
+        "caption": "Chichén Itzá V-401 — profile",
+        "credit": "Ana Vásquez",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-ci-v-401-4",
+        "image_type": "rim detail",
+        "media_url": null,
+        "caption": "Chichén Itzá V-401 — rim detail",
+        "credit": "Ana Vásquez",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-ci-v-401-5",
+        "image_type": "break section",
+        "media_url": null,
+        "caption": "Chichén Itzá V-401 — break section",
+        "credit": "Ana Vásquez",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-ci-v-401-6",
+        "image_type": "thin section",
+        "media_url": null,
+        "caption": "Chichén Itzá V-401 — thin section",
+        "credit": "Ana Vásquez",
+        "created_at": "2026-02-01"
+      }
+    ],
+    "bibliography_ids": [
+      "bib-014",
+      "bib-024"
+    ],
+    "contributor_id": "contrib-vasquez",
+    "housing_location": "Instituto Hondureño de Antropología e Historia",
+    "external_data": null,
+    "acknowledgements": "Recorded with the support of the host institution and project field crew.",
+    "privacy_level": "public",
+    "doi_ark_id": "ark:/99999/pacp-ci-v-401",
+    "stewardship_status": "community_reviewed",
+    "completeness_percent": 100,
+    "versions": [
+      {
+        "version": 1,
+        "updated_at": "2026-01-10",
+        "updated_by": "contrib-vasquez",
+        "change_summary": "Initial record created.",
+        "reviewer_comments": null
+      },
+      {
+        "version": 2,
+        "updated_at": "2026-02-13",
+        "updated_by": "contrib-vasquez",
+        "change_summary": "Added technological description and firing observations.",
+        "reviewer_comments": null
+      },
+      {
+        "version": 3,
+        "updated_at": "2026-03-16",
+        "updated_by": "contrib-vasquez",
+        "change_summary": "Thin section examined; petro-fabric assigned.",
+        "reviewer_comments": "Fabric assignment is consistent with the regional reference group. Type attribution is well supported by the rim profile."
+      },
+      {
+        "version": 4,
+        "updated_at": "2026-04-19",
+        "updated_by": "contrib-vasquez",
+        "change_summary": "Chronology narrowed following review.",
+        "reviewer_comments": "Agreed with the narrowed date range. Recommend noting the residual possibility of a later date."
+      }
+    ],
+    "alternate_interpretations": [],
+    "discussion": [],
+    "created_at": "2026-01-10",
+    "updated_at": "2026-04-19"
+  },
+  {
+    "vessel_id": "ves-ci-v-409",
+    "registration_number": "CI-V-409",
+    "name_or_label": "Chichén Itzá V-409",
+    "site_id": "site-chichen-itza",
+    "assemblage_id": null,
+    "archaeological_context": "Group of the Thousand Columns, fill",
+    "region_id": "reg-mx-yuc",
+    "country": "Mexico",
+    "period_id": "per-terminal-classic",
+    "date_bce_ce": "800–1100 CE",
+    "date_range_start": 800,
+    "date_range_end": 1100,
+    "ware_id": "ware-fine",
+    "type_id": "type-chichen-slate-basin",
+    "petro_fabric_id": "pf-calcareous",
+    "kiln_workshop_id": null,
+    "morphology": {
+      "shape": "basin",
+      "shape_type": "Wide open basin",
+      "shape_family": "Open forms",
+      "functional_category": "Food preparation",
+      "vessel_height_cm": 17.6,
+      "max_diameter_cm": 36.6,
+      "rim_diameter_cm": 37.0,
+      "rim_percent_preserved": 10.0,
+      "base_diameter_cm": 17.6,
+      "base_percent_preserved": 23.0,
+      "wall_thickness_mm": 8.9,
+      "rim_thickness_mm": 9.0,
+      "rim_direction": "Out",
+      "rim_angle_deg": 18.0,
+      "rim_shape": "Everted, bolstered",
+      "base_shape": "Flat",
+      "parts_present": [
+        "Body",
+        "Base"
+      ]
+    },
+    "technology": {
+      "fabric_description_color": "Very pale brown paste (10YR 7/3) with abundant sparkling cleaved calcite",
+      "forming_method": "Coiling",
+      "primary_finish": "Scraping",
+      "secondary_finish": "Smoothing, slip application",
+      "firing_atmosphere": "Oxidising",
+      "exterior_color": "10YR 8/2 very pale brown",
+      "interior_color": "10YR 7/3 very pale brown",
+      "core_color": "10YR 6/1 grey",
+      "multiple_cores": true,
+      "estimated_firing_temp": "650–750 °C",
+      "hardness": "Soft (Mohs 2–3)",
+      "pitch": "Low",
+      "cooling": "Fast",
+      "surface_core_boundary": "Sharp",
+      "inclusion_orientation": "Random",
+      "decorative_technique": "Slipped — waxy grey slate slip, no painted decoration",
+      "drying_cracks": "None observed"
+    },
+    "images": [
+      {
+        "vessel_image_id": "img-ci-v-409-1",
+        "image_type": "exterior",
+        "media_url": null,
+        "caption": "Chichén Itzá V-409 — exterior",
+        "credit": "Ana Vásquez",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-ci-v-409-2",
+        "image_type": "interior",
+        "media_url": null,
+        "caption": "Chichén Itzá V-409 — interior",
+        "credit": "Ana Vásquez",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-ci-v-409-3",
+        "image_type": "profile",
+        "media_url": null,
+        "caption": "Chichén Itzá V-409 — profile",
+        "credit": "Ana Vásquez",
+        "created_at": "2026-02-01"
+      }
+    ],
+    "bibliography_ids": [
+      "bib-014",
+      "bib-024"
+    ],
+    "contributor_id": "contrib-vasquez",
+    "housing_location": "Peabody Museum, Harvard University",
+    "external_data": null,
+    "acknowledgements": "Recorded with the support of the host institution and project field crew.",
+    "privacy_level": "public",
+    "doi_ark_id": null,
+    "stewardship_status": "needs_review",
+    "completeness_percent": 90,
+    "versions": [
+      {
+        "version": 1,
+        "updated_at": "2026-01-10",
+        "updated_by": "contrib-vasquez",
+        "change_summary": "Initial draft created from field notes.",
+        "reviewer_comments": null
+      },
+      {
+        "version": 2,
+        "updated_at": "2026-02-13",
+        "updated_by": "contrib-ixchel",
+        "change_summary": "Added morphological measurements and fabric description. Requesting review of the type attribution.",
+        "reviewer_comments": null
+      }
+    ],
+    "alternate_interpretations": [
+      {
+        "contributor_id": "contrib-ixchel",
+        "suggested_ware": "ware-fine",
+        "suggested_type": null,
+        "reasoning": "Slip is consistent with slate ware, but the paste lacks the palygorskite signature reported for Dzitas Slate. Worth a thin section before the type is fixed.",
+        "confidence": "tentative",
+        "date_added": "2026-06-03"
+      }
+    ],
+    "discussion": [],
+    "created_at": "2026-01-10",
+    "updated_at": "2026-02-13"
+  },
+  {
+    "vessel_id": "ves-ci-v-415",
+    "registration_number": "CI-V-415",
+    "name_or_label": "Chichén Itzá V-415",
+    "site_id": "site-chichen-itza",
+    "assemblage_id": null,
+    "archaeological_context": "Compliance survey, Lot 22",
+    "region_id": "reg-mx-yuc",
+    "country": "Mexico",
+    "period_id": "per-terminal-classic",
+    "date_bce_ce": "800–1000 CE",
+    "date_range_start": 800,
+    "date_range_end": 1000,
+    "ware_id": "ware-fine",
+    "type_id": null,
+    "petro_fabric_id": null,
+    "kiln_workshop_id": null,
+    "morphology": {
+      "shape": "jar",
+      "shape_type": "Restricted neck jar",
+      "shape_family": "Restricted forms",
+      "functional_category": "Storage / transport",
+      "vessel_height_cm": 28.4,
+      "max_diameter_cm": 27.3,
+      "rim_diameter_cm": 12.7,
+      "rim_percent_preserved": 24.0,
+      "base_diameter_cm": null,
+      "base_percent_preserved": null,
+      "wall_thickness_mm": 7.7,
+      "rim_thickness_mm": null,
+      "rim_direction": "Out",
+      "rim_angle_deg": null,
+      "rim_shape": "Everted, thickened lip",
+      "base_shape": "Round",
+      "parts_present": [
+        "Rim",
+        "Neck",
+        "Body"
+      ]
+    },
+    "technology": {
+      "fabric_description_color": null,
+      "forming_method": null,
+      "primary_finish": null,
+      "secondary_finish": null,
+      "firing_atmosphere": null,
+      "exterior_color": null,
+      "interior_color": null,
+      "core_color": null,
+      "multiple_cores": null,
+      "estimated_firing_temp": null,
+      "hardness": null,
+      "pitch": null,
+      "cooling": null,
+      "surface_core_boundary": null,
+      "inclusion_orientation": null,
+      "decorative_technique": null,
+      "drying_cracks": null
+    },
+    "images": [],
+    "bibliography_ids": [],
+    "contributor_id": "contrib-alvarez",
+    "housing_location": null,
+    "external_data": null,
+    "acknowledgements": null,
+    "privacy_level": "public",
+    "doi_ark_id": null,
+    "stewardship_status": "draft",
+    "completeness_percent": 52,
+    "versions": [
+      {
+        "version": 1,
+        "updated_at": "2026-01-10",
+        "updated_by": "contrib-alvarez",
+        "change_summary": "Initial draft created from field notes.",
+        "reviewer_comments": null
+      }
+    ],
+    "alternate_interpretations": [],
+    "discussion": [],
+    "created_at": "2026-01-10",
+    "updated_at": "2026-01-10"
+  },
+  {
+    "vessel_id": "ves-tk-v-502",
+    "registration_number": "TK-V-502",
+    "name_or_label": "Tikal V-502",
+    "site_id": "site-tikal",
+    "assemblage_id": "asm-tk-group-g",
+    "archaeological_context": "Structure 5D-46, burial offering",
+    "region_id": "reg-gt-pet",
+    "country": "Guatemala",
+    "period_id": "per-late-classic",
+    "date_bce_ce": "600–900 CE",
+    "date_range_start": 600,
+    "date_range_end": 900,
+    "ware_id": "ware-fine",
+    "type_id": "type-tikal-cream-polychrome",
+    "petro_fabric_id": "pf-calcareous",
+    "kiln_workshop_id": null,
+    "morphology": {
+      "shape": "cylinder vase",
+      "shape_type": "Straight-sided cylinder vase",
+      "shape_family": "Closed forms",
+      "functional_category": "Elite serving",
+      "vessel_height_cm": 22.7,
+      "max_diameter_cm": 15.5,
+      "rim_diameter_cm": 12.4,
+      "rim_percent_preserved": 67.0,
+      "base_diameter_cm": 13.5,
+      "base_percent_preserved": 20.0,
+      "wall_thickness_mm": 6.2,
+      "rim_thickness_mm": 5.6,
+      "rim_direction": "Up",
+      "rim_angle_deg": 29.0,
+      "rim_shape": "Direct, flat lip",
+      "base_shape": "Flat",
+      "parts_present": [
+        "Rim",
+        "Neck",
+        "Body"
+      ]
+    },
+    "technology": {
+      "fabric_description_color": "Very pale brown paste (10YR 7/3) with abundant sparkling cleaved calcite",
+      "forming_method": "Coiling",
+      "primary_finish": "Scraping",
+      "secondary_finish": "Smoothing, slip application",
+      "firing_atmosphere": "Oxidising",
+      "exterior_color": "10YR 8/2 very pale brown",
+      "interior_color": "10YR 7/3 very pale brown",
+      "core_color": "10YR 6/1 grey",
+      "multiple_cores": true,
+      "estimated_firing_temp": "650–750 °C",
+      "hardness": "Soft (Mohs 2–3)",
+      "pitch": "Low",
+      "cooling": "Fast",
+      "surface_core_boundary": "Sharp",
+      "inclusion_orientation": "Parallel to vessel wall",
+      "decorative_technique": "Painted — red-brown pseudo-glyphic band over cream ground",
+      "drying_cracks": "None observed"
+    },
+    "images": [
+      {
+        "vessel_image_id": "img-tk-v-502-1",
+        "image_type": "exterior",
+        "media_url": null,
+        "caption": "Tikal V-502 — exterior",
+        "credit": "Ixchel Rivera",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-tk-v-502-2",
+        "image_type": "interior",
+        "media_url": null,
+        "caption": "Tikal V-502 — interior",
+        "credit": "Ixchel Rivera",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-tk-v-502-3",
+        "image_type": "profile",
+        "media_url": null,
+        "caption": "Tikal V-502 — profile",
+        "credit": "Ixchel Rivera",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-tk-v-502-4",
+        "image_type": "rim detail",
+        "media_url": null,
+        "caption": "Tikal V-502 — rim detail",
+        "credit": "Ixchel Rivera",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-tk-v-502-5",
+        "image_type": "break section",
+        "media_url": null,
+        "caption": "Tikal V-502 — break section",
+        "credit": "Ixchel Rivera",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-tk-v-502-6",
+        "image_type": "thin section",
+        "media_url": null,
+        "caption": "Tikal V-502 — thin section",
+        "credit": "Ixchel Rivera",
+        "created_at": "2026-02-01"
+      }
+    ],
+    "bibliography_ids": [
+      "bib-008",
+      "bib-019"
+    ],
+    "contributor_id": "contrib-ixchel",
+    "housing_location": "Museo Nacional de Antropología, Mexico City",
+    "external_data": null,
+    "acknowledgements": "Recorded with the support of the host institution and project field crew.",
+    "privacy_level": "public",
+    "doi_ark_id": "ark:/99999/pacp-tk-v-502",
+    "stewardship_status": "stewarded",
+    "completeness_percent": 100,
+    "versions": [
+      {
+        "version": 1,
+        "updated_at": "2026-01-10",
+        "updated_by": "contrib-ixchel",
+        "change_summary": "Initial record created.",
+        "reviewer_comments": null
+      },
+      {
+        "version": 2,
+        "updated_at": "2026-02-13",
+        "updated_by": "contrib-ixchel",
+        "change_summary": "Added full morphological and technological description.",
+        "reviewer_comments": null
+      },
+      {
+        "version": 3,
+        "updated_at": "2026-03-16",
+        "updated_by": "contrib-ixchel",
+        "change_summary": "Petrographic sample analysed and cross-referenced to the regional fabric series.",
+        "reviewer_comments": "Fabric matches the published reference group. Documentation is reproducible."
+      },
+      {
+        "version": 4,
+        "updated_at": "2026-04-19",
+        "updated_by": "contrib-ixchel",
+        "change_summary": "Bibliographic references and image credits completed.",
+        "reviewer_comments": "Citation set is complete and image credits verified."
+      },
+      {
+        "version": 5,
+        "updated_at": "2026-05-22",
+        "updated_by": "contrib-ixchel",
+        "change_summary": "Record endorsed following specialist review.",
+        "reviewer_comments": "Endorsed as a reference example for this type. Note that this endorsement reflects informed confidence, not final authority — alternate readings remain open."
+      }
+    ],
+    "alternate_interpretations": [],
+    "discussion": [
+      {
+        "contributor_id": "contrib-vasquez",
+        "comment": "Is the glyphic band legible enough to attempt a reading, or is it purely pseudo-glyphic?",
+        "date": "2026-04-05",
+        "replies": [
+          {
+            "contributor_id": "contrib-ixchel",
+            "comment": "Pseudo-glyphic in my assessment — the signs repeat without a coherent syntactic structure. I have noted this in the decoration field rather than asserting it as fact.",
+            "date": "2026-04-07"
+          }
+        ]
+      }
+    ],
+    "created_at": "2026-01-10",
+    "updated_at": "2026-05-22"
+  },
+  {
+    "vessel_id": "ves-tk-v-511",
+    "registration_number": "TK-V-511",
+    "name_or_label": "Tikal V-511",
+    "site_id": "site-tikal",
+    "assemblage_id": "asm-tk-group-g",
+    "archaeological_context": "Group G, residential midden",
+    "region_id": "reg-gt-pet",
+    "country": "Guatemala",
+    "period_id": "per-late-classic",
+    "date_bce_ce": "600–900 CE",
+    "date_range_start": 600,
+    "date_range_end": 900,
+    "ware_id": "ware-fine",
+    "type_id": "type-tikal-cream-polychrome",
+    "petro_fabric_id": "pf-calcareous",
+    "kiln_workshop_id": null,
+    "morphology": {
+      "shape": "dish",
+      "shape_type": "Tripod dish",
+      "shape_family": "Open forms",
+      "functional_category": "Serving",
+      "vessel_height_cm": 6.4,
+      "max_diameter_cm": 25.9,
+      "rim_diameter_cm": 27.3,
+      "rim_percent_preserved": 21.0,
+      "base_diameter_cm": 13.3,
+      "base_percent_preserved": 64.0,
+      "wall_thickness_mm": 5.1,
+      "rim_thickness_mm": 7.1,
+      "rim_direction": "Out",
+      "rim_angle_deg": 26.0,
+      "rim_shape": "Everted, rounded lip",
+      "base_shape": "Flat with tripod supports",
+      "parts_present": [
+        "Body",
+        "Base"
+      ]
+    },
+    "technology": {
+      "fabric_description_color": "Very pale brown paste (10YR 7/3) with abundant sparkling cleaved calcite",
+      "forming_method": "Coiling",
+      "primary_finish": "Scraping",
+      "secondary_finish": "Smoothing, slip application",
+      "firing_atmosphere": "Oxidising",
+      "exterior_color": "10YR 8/2 very pale brown",
+      "interior_color": "10YR 7/3 very pale brown",
+      "core_color": "10YR 6/1 grey",
+      "multiple_cores": true,
+      "estimated_firing_temp": "650–750 °C",
+      "hardness": "Soft (Mohs 2–3)",
+      "pitch": "Low",
+      "cooling": "Fast",
+      "surface_core_boundary": "Sharp",
+      "inclusion_orientation": "Random",
+      "decorative_technique": "Painted — red-brown pseudo-glyphic band over cream ground",
+      "drying_cracks": "None observed"
+    },
+    "images": [
+      {
+        "vessel_image_id": "img-tk-v-511-1",
+        "image_type": "exterior",
+        "media_url": null,
+        "caption": "Tikal V-511 — exterior",
+        "credit": "Ixchel Rivera",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-tk-v-511-2",
+        "image_type": "interior",
+        "media_url": null,
+        "caption": "Tikal V-511 — interior",
+        "credit": "Ixchel Rivera",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-tk-v-511-3",
+        "image_type": "profile",
+        "media_url": null,
+        "caption": "Tikal V-511 — profile",
+        "credit": "Ixchel Rivera",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-tk-v-511-4",
+        "image_type": "rim detail",
+        "media_url": null,
+        "caption": "Tikal V-511 — rim detail",
+        "credit": "Ixchel Rivera",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-tk-v-511-5",
+        "image_type": "break section",
+        "media_url": null,
+        "caption": "Tikal V-511 — break section",
+        "credit": "Ixchel Rivera",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-tk-v-511-6",
+        "image_type": "thin section",
+        "media_url": null,
+        "caption": "Tikal V-511 — thin section",
+        "credit": "Ixchel Rivera",
+        "created_at": "2026-02-01"
+      }
+    ],
+    "bibliography_ids": [
+      "bib-008",
+      "bib-019"
+    ],
+    "contributor_id": "contrib-ixchel",
+    "housing_location": "Instituto Hondureño de Antropología e Historia",
+    "external_data": null,
+    "acknowledgements": "Recorded with the support of the host institution and project field crew.",
+    "privacy_level": "public",
+    "doi_ark_id": "ark:/99999/pacp-tk-v-511",
+    "stewardship_status": "community_reviewed",
+    "completeness_percent": 100,
+    "versions": [
+      {
+        "version": 1,
+        "updated_at": "2026-01-10",
+        "updated_by": "contrib-ixchel",
+        "change_summary": "Initial record created.",
+        "reviewer_comments": null
+      },
+      {
+        "version": 2,
+        "updated_at": "2026-02-13",
+        "updated_by": "contrib-ixchel",
+        "change_summary": "Added technological description and firing observations.",
+        "reviewer_comments": null
+      },
+      {
+        "version": 3,
+        "updated_at": "2026-03-16",
+        "updated_by": "contrib-ixchel",
+        "change_summary": "Thin section examined; petro-fabric assigned.",
+        "reviewer_comments": "Fabric assignment is consistent with the regional reference group. Type attribution is well supported by the rim profile."
+      },
+      {
+        "version": 4,
+        "updated_at": "2026-04-19",
+        "updated_by": "contrib-ixchel",
+        "change_summary": "Chronology narrowed following review.",
+        "reviewer_comments": "Agreed with the narrowed date range. Recommend noting the residual possibility of a later date."
+      }
+    ],
+    "alternate_interpretations": [],
+    "discussion": [],
+    "created_at": "2026-01-10",
+    "updated_at": "2026-04-19"
+  },
+  {
+    "vessel_id": "ves-tk-v-520",
+    "registration_number": "TK-V-520",
+    "name_or_label": "Tikal V-520",
+    "site_id": "site-tikal",
+    "assemblage_id": null,
+    "archaeological_context": "North Acropolis, disturbed context",
+    "region_id": "reg-gt-pet",
+    "country": "Guatemala",
+    "period_id": "per-postclassic",
+    "date_bce_ce": "900–1200 CE",
+    "date_range_start": 900,
+    "date_range_end": 1200,
+    "ware_id": "ware-plumbate",
+    "type_id": "type-plumbate-effigy",
+    "petro_fabric_id": "pf-calcareous",
+    "kiln_workshop_id": null,
+    "morphology": {
+      "shape": "effigy jar",
+      "shape_type": "Modelled effigy jar",
+      "shape_family": "Closed forms",
+      "functional_category": "Ritual / exchange",
+      "vessel_height_cm": 19.3,
+      "max_diameter_cm": 16.2,
+      "rim_diameter_cm": 9.2,
+      "rim_percent_preserved": 14.0,
+      "base_diameter_cm": 8.1,
+      "base_percent_preserved": 22.0,
+      "wall_thickness_mm": 6.1,
+      "rim_thickness_mm": 7.8,
+      "rim_direction": "Up",
+      "rim_angle_deg": 54.0,
+      "rim_shape": "Direct, rounded lip",
+      "base_shape": "Round",
+      "parts_present": [
+        "Rim",
+        "Neck",
+        "Body",
+        "Base"
+      ]
+    },
+    "technology": {
+      "fabric_description_color": "Very pale brown paste (10YR 7/3) with abundant sparkling cleaved calcite",
+      "forming_method": "Coiling",
+      "primary_finish": "Scraping",
+      "secondary_finish": "Smoothing, slip application",
+      "firing_atmosphere": "Oxidising",
+      "exterior_color": "10YR 8/2 very pale brown",
+      "interior_color": "10YR 7/3 very pale brown",
+      "core_color": "10YR 6/1 grey",
+      "multiple_cores": true,
+      "estimated_firing_temp": "650–750 °C",
+      "hardness": "Soft (Mohs 2–3)",
+      "pitch": "Low",
+      "cooling": "Fast",
+      "surface_core_boundary": "Sharp",
+      "inclusion_orientation": "Parallel to vessel wall",
+      "decorative_technique": "Modelled and slipped — vitrified grey-green surface",
+      "drying_cracks": "None observed"
+    },
+    "images": [
+      {
+        "vessel_image_id": "img-tk-v-520-1",
+        "image_type": "exterior",
+        "media_url": null,
+        "caption": "Tikal V-520 — exterior",
+        "credit": "Ixchel Rivera",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-tk-v-520-2",
+        "image_type": "interior",
+        "media_url": null,
+        "caption": "Tikal V-520 — interior",
+        "credit": "Ixchel Rivera",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-tk-v-520-3",
+        "image_type": "profile",
+        "media_url": null,
+        "caption": "Tikal V-520 — profile",
+        "credit": "Ixchel Rivera",
+        "created_at": "2026-02-01"
+      }
+    ],
+    "bibliography_ids": [
+      "bib-013"
+    ],
+    "contributor_id": "contrib-ixchel",
+    "housing_location": "Universidad de Panamá, ceramic reference collection",
+    "external_data": null,
+    "acknowledgements": "Recorded with the support of the host institution and project field crew.",
+    "privacy_level": "public",
+    "doi_ark_id": null,
+    "stewardship_status": "needs_review",
+    "completeness_percent": 90,
+    "versions": [
+      {
+        "version": 1,
+        "updated_at": "2026-01-10",
+        "updated_by": "contrib-ixchel",
+        "change_summary": "Initial draft created from field notes.",
+        "reviewer_comments": null
+      },
+      {
+        "version": 2,
+        "updated_at": "2026-02-13",
+        "updated_by": "contrib-nelson",
+        "change_summary": "Added morphological measurements and fabric description. Requesting review of the type attribution.",
+        "reviewer_comments": null
+      }
+    ],
+    "alternate_interpretations": [
+      {
+        "contributor_id": "contrib-nelson",
+        "suggested_ware": "ware-plumbate",
+        "suggested_type": "type-plumbate-effigy",
+        "reasoning": "The vitrified surface is diagnostic, but Tohil Plumbate is normally a Postclassic import here. Given the disturbed context I would treat the Postclassic date as provisional pending a compositional check.",
+        "confidence": "tentative",
+        "date_added": "2026-03-27"
+      }
+    ],
+    "discussion": [],
+    "created_at": "2026-01-10",
+    "updated_at": "2026-02-13"
+  },
+  {
+    "vessel_id": "ves-tk-v-527",
+    "registration_number": "TK-V-527",
+    "name_or_label": "Tikal V-527",
+    "site_id": "site-tikal",
+    "assemblage_id": null,
+    "archaeological_context": "Test pit 14, level 3",
+    "region_id": "reg-gt-pet",
+    "country": "Guatemala",
+    "period_id": "per-late-classic",
+    "date_bce_ce": "600–900 CE",
+    "date_range_start": 600,
+    "date_range_end": 900,
+    "ware_id": "ware-fine",
+    "type_id": null,
+    "petro_fabric_id": "pf-calcareous",
+    "kiln_workshop_id": null,
+    "morphology": {
+      "shape": "dish",
+      "shape_type": "Tripod dish",
+      "shape_family": "Open forms",
+      "functional_category": "Serving",
+      "vessel_height_cm": 7.0,
+      "max_diameter_cm": 24.6,
+      "rim_diameter_cm": 28.5,
+      "rim_percent_preserved": 41.0,
+      "base_diameter_cm": null,
+      "base_percent_preserved": null,
+      "wall_thickness_mm": 5.2,
+      "rim_thickness_mm": null,
+      "rim_direction": "Out",
+      "rim_angle_deg": null,
+      "rim_shape": "Everted, rounded lip",
+      "base_shape": "Flat with tripod supports",
+      "parts_present": [
+        "Body",
+        "Base"
+      ]
+    },
+    "technology": {
+      "fabric_description_color": "Very pale brown paste (10YR 7/3) with abundant sparkling cleaved calcite",
+      "forming_method": "Coiling",
+      "primary_finish": "Scraping",
+      "secondary_finish": "Smoothing, slip application",
+      "firing_atmosphere": "Oxidising",
+      "exterior_color": "10YR 8/2 very pale brown",
+      "interior_color": "10YR 7/3 very pale brown",
+      "core_color": "10YR 6/1 grey",
+      "multiple_cores": true,
+      "estimated_firing_temp": "650–750 °C",
+      "hardness": "Soft (Mohs 2–3)",
+      "pitch": "Low",
+      "cooling": "Fast",
+      "surface_core_boundary": "Sharp",
+      "inclusion_orientation": null,
+      "decorative_technique": null,
+      "drying_cracks": null
+    },
+    "images": [
+      {
+        "vessel_image_id": "img-tk-v-527-1",
+        "image_type": "exterior",
+        "media_url": null,
+        "caption": "Tikal V-527 — exterior",
+        "credit": "Diego Brenes",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-tk-v-527-2",
+        "image_type": "interior",
+        "media_url": null,
+        "caption": "Tikal V-527 — interior",
+        "credit": "Diego Brenes",
+        "created_at": "2026-02-01"
+      }
+    ],
+    "bibliography_ids": [],
+    "contributor_id": "contrib-brenes",
+    "housing_location": null,
+    "external_data": null,
+    "acknowledgements": null,
+    "privacy_level": "public",
+    "doi_ark_id": null,
+    "stewardship_status": "draft",
+    "completeness_percent": 67,
+    "versions": [
+      {
+        "version": 1,
+        "updated_at": "2026-01-10",
+        "updated_by": "contrib-brenes",
+        "change_summary": "Initial draft created from field notes.",
+        "reviewer_comments": null
+      }
+    ],
+    "alternate_interpretations": [],
+    "discussion": [],
+    "created_at": "2026-01-10",
+    "updated_at": "2026-01-10"
+  },
+  {
+    "vessel_id": "ves-cp-v-601",
+    "registration_number": "CP-V-601",
+    "name_or_label": "Copán V-601",
+    "site_id": "site-copan",
+    "assemblage_id": "asm-cp-las-sepulturas",
+    "archaeological_context": "Group 9N-8, Patio A floor",
+    "region_id": "reg-hn-cop",
+    "country": "Honduras",
+    "period_id": "per-late-classic",
+    "date_bce_ce": "600–900 CE",
+    "date_range_start": 600,
+    "date_range_end": 900,
+    "ware_id": "ware-red-slipped",
+    "type_id": "type-copador-polychrome",
+    "petro_fabric_id": "pf-vesicular-ash",
+    "kiln_workshop_id": null,
+    "morphology": {
+      "shape": "bowl",
+      "shape_type": "Open hemispherical bowl",
+      "shape_family": "Open forms",
+      "functional_category": "Serving",
+      "vessel_height_cm": 8.5,
+      "max_diameter_cm": 18.0,
+      "rim_diameter_cm": 18.0,
+      "rim_percent_preserved": 80.0,
+      "base_diameter_cm": 8.5,
+      "base_percent_preserved": 15.0,
+      "wall_thickness_mm": 6.7,
+      "rim_thickness_mm": 7.0,
+      "rim_direction": "Out",
+      "rim_angle_deg": 69.0,
+      "rim_shape": "Everted, rounded lip",
+      "base_shape": "Flat",
+      "parts_present": [
+        "Rim",
+        "Body"
+      ]
+    },
+    "technology": {
+      "fabric_description_color": "Reddish-brown paste (5YR 5/4), vesicular, with fine cream inclusions",
+      "forming_method": "Coiling",
+      "primary_finish": "Scraping",
+      "secondary_finish": "Smoothing, slip application, light burnishing",
+      "firing_atmosphere": "Oxidising",
+      "exterior_color": "5YR 6/6 reddish yellow",
+      "interior_color": "5YR 5/4 reddish brown",
+      "core_color": "None visible",
+      "multiple_cores": false,
+      "estimated_firing_temp": "850–950 °C",
+      "hardness": "Hard (Mohs 4)",
+      "pitch": "High",
+      "cooling": "Moderate",
+      "surface_core_boundary": "None — fully oxidised",
+      "inclusion_orientation": "Weakly aligned",
+      "decorative_technique": "Painted — pseudo-glyphic band with dancing figures in red and black",
+      "drying_cracks": "Fine radial cracks on base"
+    },
+    "images": [
+      {
+        "vessel_image_id": "img-cp-v-601-1",
+        "image_type": "exterior",
+        "media_url": null,
+        "caption": "Copán V-601 — exterior",
+        "credit": "Marisol Álvarez",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-cp-v-601-2",
+        "image_type": "interior",
+        "media_url": null,
+        "caption": "Copán V-601 — interior",
+        "credit": "Marisol Álvarez",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-cp-v-601-3",
+        "image_type": "profile",
+        "media_url": null,
+        "caption": "Copán V-601 — profile",
+        "credit": "Marisol Álvarez",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-cp-v-601-4",
+        "image_type": "rim detail",
+        "media_url": null,
+        "caption": "Copán V-601 — rim detail",
+        "credit": "Marisol Álvarez",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-cp-v-601-5",
+        "image_type": "break section",
+        "media_url": null,
+        "caption": "Copán V-601 — break section",
+        "credit": "Marisol Álvarez",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-cp-v-601-6",
+        "image_type": "thin section",
+        "media_url": null,
+        "caption": "Copán V-601 — thin section",
+        "credit": "Marisol Álvarez",
+        "created_at": "2026-02-01"
+      }
+    ],
+    "bibliography_ids": [
+      "bib-009",
+      "bib-023"
+    ],
+    "contributor_id": "contrib-alvarez",
+    "housing_location": "Field laboratory, project storage",
+    "external_data": null,
+    "acknowledgements": "Recorded with the support of the host institution and project field crew.",
+    "privacy_level": "public",
+    "doi_ark_id": "ark:/99999/pacp-cp-v-601",
+    "stewardship_status": "stewarded",
+    "completeness_percent": 100,
+    "versions": [
+      {
+        "version": 1,
+        "updated_at": "2026-01-10",
+        "updated_by": "contrib-alvarez",
+        "change_summary": "Initial record created.",
+        "reviewer_comments": null
+      },
+      {
+        "version": 2,
+        "updated_at": "2026-02-13",
+        "updated_by": "contrib-alvarez",
+        "change_summary": "Added full morphological and technological description.",
+        "reviewer_comments": null
+      },
+      {
+        "version": 3,
+        "updated_at": "2026-03-16",
+        "updated_by": "contrib-alvarez",
+        "change_summary": "Petrographic sample analysed and cross-referenced to the regional fabric series.",
+        "reviewer_comments": "Fabric matches the published reference group. Documentation is reproducible."
+      },
+      {
+        "version": 4,
+        "updated_at": "2026-04-19",
+        "updated_by": "contrib-alvarez",
+        "change_summary": "Bibliographic references and image credits completed.",
+        "reviewer_comments": "Citation set is complete and image credits verified."
+      },
+      {
+        "version": 5,
+        "updated_at": "2026-05-22",
+        "updated_by": "contrib-alvarez",
+        "change_summary": "Record endorsed following specialist review.",
+        "reviewer_comments": "Endorsed as a reference example for this type. Note that this endorsement reflects informed confidence, not final authority — alternate readings remain open."
+      }
+    ],
+    "alternate_interpretations": [],
+    "discussion": [],
+    "created_at": "2026-01-10",
+    "updated_at": "2026-05-22"
+  },
+  {
+    "vessel_id": "ves-cp-v-612",
+    "registration_number": "CP-V-612",
+    "name_or_label": "Copán V-612",
+    "site_id": "site-copan",
+    "assemblage_id": "asm-cp-las-sepulturas",
+    "archaeological_context": "Las Sepulturas, household midden",
+    "region_id": "reg-hn-cop",
+    "country": "Honduras",
+    "period_id": "per-late-classic",
+    "date_bce_ce": "600–900 CE",
+    "date_range_start": 600,
+    "date_range_end": 900,
+    "ware_id": "ware-red-slipped",
+    "type_id": "type-copador-polychrome",
+    "petro_fabric_id": "pf-vesicular-ash",
+    "kiln_workshop_id": null,
+    "morphology": {
+      "shape": "bowl",
+      "shape_type": "Open hemispherical bowl",
+      "shape_family": "Open forms",
+      "functional_category": "Serving",
+      "vessel_height_cm": 8.5,
+      "max_diameter_cm": 20.5,
+      "rim_diameter_cm": 19.7,
+      "rim_percent_preserved": 58.0,
+      "base_diameter_cm": 8.5,
+      "base_percent_preserved": 63.0,
+      "wall_thickness_mm": 5.7,
+      "rim_thickness_mm": 7.9,
+      "rim_direction": "Out",
+      "rim_angle_deg": 69.0,
+      "rim_shape": "Everted, rounded lip",
+      "base_shape": "Flat",
+      "parts_present": [
+        "Rim",
+        "Body"
+      ]
+    },
+    "technology": {
+      "fabric_description_color": "Reddish-brown paste (5YR 5/4), vesicular, with fine cream inclusions",
+      "forming_method": "Coiling",
+      "primary_finish": "Scraping",
+      "secondary_finish": "Smoothing, slip application, light burnishing",
+      "firing_atmosphere": "Oxidising",
+      "exterior_color": "5YR 6/6 reddish yellow",
+      "interior_color": "5YR 5/4 reddish brown",
+      "core_color": "None visible",
+      "multiple_cores": false,
+      "estimated_firing_temp": "850–950 °C",
+      "hardness": "Hard (Mohs 4)",
+      "pitch": "High",
+      "cooling": "Moderate",
+      "surface_core_boundary": "None — fully oxidised",
+      "inclusion_orientation": "Random",
+      "decorative_technique": "Painted — pseudo-glyphic band with dancing figures in red and black",
+      "drying_cracks": "None observed"
+    },
+    "images": [
+      {
+        "vessel_image_id": "img-cp-v-612-1",
+        "image_type": "exterior",
+        "media_url": null,
+        "caption": "Copán V-612 — exterior",
+        "credit": "Marisol Álvarez",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-cp-v-612-2",
+        "image_type": "interior",
+        "media_url": null,
+        "caption": "Copán V-612 — interior",
+        "credit": "Marisol Álvarez",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-cp-v-612-3",
+        "image_type": "profile",
+        "media_url": null,
+        "caption": "Copán V-612 — profile",
+        "credit": "Marisol Álvarez",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-cp-v-612-4",
+        "image_type": "rim detail",
+        "media_url": null,
+        "caption": "Copán V-612 — rim detail",
+        "credit": "Marisol Álvarez",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-cp-v-612-5",
+        "image_type": "break section",
+        "media_url": null,
+        "caption": "Copán V-612 — break section",
+        "credit": "Marisol Álvarez",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-cp-v-612-6",
+        "image_type": "thin section",
+        "media_url": null,
+        "caption": "Copán V-612 — thin section",
+        "credit": "Marisol Álvarez",
+        "created_at": "2026-02-01"
+      }
+    ],
+    "bibliography_ids": [
+      "bib-009",
+      "bib-023"
+    ],
+    "contributor_id": "contrib-alvarez",
+    "housing_location": "Universidad de Panamá, ceramic reference collection",
+    "external_data": null,
+    "acknowledgements": "Recorded with the support of the host institution and project field crew.",
+    "privacy_level": "public",
+    "doi_ark_id": "ark:/99999/pacp-cp-v-612",
+    "stewardship_status": "community_reviewed",
+    "completeness_percent": 100,
+    "versions": [
+      {
+        "version": 1,
+        "updated_at": "2026-01-10",
+        "updated_by": "contrib-alvarez",
+        "change_summary": "Initial record created.",
+        "reviewer_comments": null
+      },
+      {
+        "version": 2,
+        "updated_at": "2026-02-13",
+        "updated_by": "contrib-alvarez",
+        "change_summary": "Added technological description and firing observations.",
+        "reviewer_comments": null
+      },
+      {
+        "version": 3,
+        "updated_at": "2026-03-16",
+        "updated_by": "contrib-alvarez",
+        "change_summary": "Thin section examined; petro-fabric assigned.",
+        "reviewer_comments": "Fabric assignment is consistent with the regional reference group. Type attribution is well supported by the rim profile."
+      },
+      {
+        "version": 4,
+        "updated_at": "2026-04-19",
+        "updated_by": "contrib-alvarez",
+        "change_summary": "Chronology narrowed following review.",
+        "reviewer_comments": "Agreed with the narrowed date range. Recommend noting the residual possibility of a later date."
+      }
+    ],
+    "alternate_interpretations": [],
+    "discussion": [],
+    "created_at": "2026-01-10",
+    "updated_at": "2026-04-19"
+  },
+  {
+    "vessel_id": "ves-cp-v-618",
+    "registration_number": "CP-V-618",
+    "name_or_label": "Copán V-618",
+    "site_id": "site-copan",
+    "assemblage_id": null,
+    "archaeological_context": "Copán valley survey, Site 11D-6",
+    "region_id": "reg-hn-cop",
+    "country": "Honduras",
+    "period_id": "per-late-classic",
+    "date_bce_ce": "600–900 CE",
+    "date_range_start": 600,
+    "date_range_end": 900,
+    "ware_id": "ware-red-slipped",
+    "type_id": null,
+    "petro_fabric_id": "pf-vesicular-ash",
+    "kiln_workshop_id": null,
+    "morphology": {
+      "shape": "jar",
+      "shape_type": "Restricted neck jar",
+      "shape_family": "Restricted forms",
+      "functional_category": "Storage / transport",
+      "vessel_height_cm": 29.4,
+      "max_diameter_cm": 23.5,
+      "rim_diameter_cm": 17.4,
+      "rim_percent_preserved": 90.0,
+      "base_diameter_cm": 10.3,
+      "base_percent_preserved": 78.0,
+      "wall_thickness_mm": 7.1,
+      "rim_thickness_mm": 9.9,
+      "rim_direction": "Out",
+      "rim_angle_deg": 36.0,
+      "rim_shape": "Everted, thickened lip",
+      "base_shape": "Round",
+      "parts_present": [
+        "Rim",
+        "Neck",
+        "Body"
+      ]
+    },
+    "technology": {
+      "fabric_description_color": "Reddish-brown paste (5YR 5/4), vesicular, with fine cream inclusions",
+      "forming_method": "Coiling",
+      "primary_finish": "Scraping",
+      "secondary_finish": "Smoothing, slip application, light burnishing",
+      "firing_atmosphere": "Oxidising",
+      "exterior_color": "5YR 6/6 reddish yellow",
+      "interior_color": "5YR 5/4 reddish brown",
+      "core_color": "None visible",
+      "multiple_cores": false,
+      "estimated_firing_temp": "850–950 °C",
+      "hardness": "Hard (Mohs 4)",
+      "pitch": "High",
+      "cooling": "Moderate",
+      "surface_core_boundary": "None — fully oxidised",
+      "inclusion_orientation": "Random",
+      "decorative_technique": null,
+      "drying_cracks": "None observed"
+    },
+    "images": [
+      {
+        "vessel_image_id": "img-cp-v-618-1",
+        "image_type": "exterior",
+        "media_url": null,
+        "caption": "Copán V-618 — exterior",
+        "credit": "Marisol Álvarez",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-cp-v-618-2",
+        "image_type": "interior",
+        "media_url": null,
+        "caption": "Copán V-618 — interior",
+        "credit": "Marisol Álvarez",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-cp-v-618-3",
+        "image_type": "profile",
+        "media_url": null,
+        "caption": "Copán V-618 — profile",
+        "credit": "Marisol Álvarez",
+        "created_at": "2026-02-01"
+      }
+    ],
+    "bibliography_ids": [
+      "bib-009"
+    ],
+    "contributor_id": "contrib-alvarez",
+    "housing_location": "Field laboratory, project storage",
+    "external_data": null,
+    "acknowledgements": "Recorded with the support of the host institution and project field crew.",
+    "privacy_level": "public",
+    "doi_ark_id": null,
+    "stewardship_status": "needs_review",
+    "completeness_percent": 90,
+    "versions": [
+      {
+        "version": 1,
+        "updated_at": "2026-01-10",
+        "updated_by": "contrib-alvarez",
+        "change_summary": "Initial draft created from field notes.",
+        "reviewer_comments": null
+      },
+      {
+        "version": 2,
+        "updated_at": "2026-02-13",
+        "updated_by": "contrib-ixchel",
+        "change_summary": "Added morphological measurements and fabric description. Requesting review of the type attribution.",
+        "reviewer_comments": null
+      }
+    ],
+    "alternate_interpretations": [
+      {
+        "contributor_id": "contrib-ixchel",
+        "suggested_ware": "ware-red-slipped",
+        "suggested_type": "type-copador-polychrome",
+        "reasoning": "The pseudo-glyphic band fragment is suggestive, but on a jar form rather than the usual bowl. Copador jars are rare and this would be worth reporting if confirmed.",
+        "confidence": "possible",
+        "date_added": "2026-05-22"
+      }
+    ],
+    "discussion": [],
+    "created_at": "2026-01-10",
+    "updated_at": "2026-02-13"
+  },
+  {
+    "vessel_id": "ves-cs-v-701",
+    "registration_number": "CS-V-701",
+    "name_or_label": "Cerro Sechín V-701",
+    "site_id": "site-cerro-sechin",
+    "assemblage_id": null,
+    "archaeological_context": "Plaza sector, Initial Period floor",
+    "region_id": "reg-pe-anc",
+    "country": "Peru",
+    "period_id": "per-initial-peru",
+    "date_bce_ce": "1600–800 BCE",
+    "date_range_start": -1600,
+    "date_range_end": -800,
+    "ware_id": "ware-coarse",
+    "type_id": "type-sechin-coarse-olla",
+    "petro_fabric_id": "pf-coarse-quartz",
+    "kiln_workshop_id": null,
+    "morphology": {
+      "shape": "olla",
+      "shape_type": "Short-necked olla",
+      "shape_family": "Restricted forms",
+      "functional_category": "Cooking / storage",
+      "vessel_height_cm": 37.5,
+      "max_diameter_cm": 36.4,
+      "rim_diameter_cm": 16.7,
+      "rim_percent_preserved": 77.0,
+      "base_diameter_cm": 10.1,
+      "base_percent_preserved": 69.0,
+      "wall_thickness_mm": 11.9,
+      "rim_thickness_mm": 8.4,
+      "rim_direction": "Out",
+      "rim_angle_deg": 61.0,
+      "rim_shape": "Everted, T-shaped",
+      "base_shape": "Round",
+      "parts_present": [
+        "Rim",
+        "Body"
+      ]
+    },
+    "technology": {
+      "fabric_description_color": "Strong brown paste (7.5YR 5/6) with abundant coarse angular quartz",
+      "forming_method": "Coiling, no wheel finishing",
+      "primary_finish": "Scraping (interior striations visible)",
+      "secondary_finish": "Wiping only",
+      "firing_atmosphere": "Neutral to reducing",
+      "exterior_color": "7.5YR 4/2 brown, heavily sooted",
+      "interior_color": "7.5YR 5/6 strong brown",
+      "core_color": "10YR 3/1 very dark grey",
+      "multiple_cores": true,
+      "estimated_firing_temp": "600–750 °C",
+      "hardness": "Soft (Mohs 2–3)",
+      "pitch": "Low",
+      "cooling": "Fast",
+      "surface_core_boundary": "Sharp",
+      "inclusion_orientation": "Parallel to vessel wall",
+      "decorative_technique": "Undecorated; exterior sooting from use",
+      "drying_cracks": "Fine radial cracks on base"
+    },
+    "images": [
+      {
+        "vessel_image_id": "img-cs-v-701-1",
+        "image_type": "exterior",
+        "media_url": null,
+        "caption": "Cerro Sechín V-701 — exterior",
+        "credit": "Rosa Quispe",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-cs-v-701-2",
+        "image_type": "interior",
+        "media_url": null,
+        "caption": "Cerro Sechín V-701 — interior",
+        "credit": "Rosa Quispe",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-cs-v-701-3",
+        "image_type": "profile",
+        "media_url": null,
+        "caption": "Cerro Sechín V-701 — profile",
+        "credit": "Rosa Quispe",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-cs-v-701-4",
+        "image_type": "rim detail",
+        "media_url": null,
+        "caption": "Cerro Sechín V-701 — rim detail",
+        "credit": "Rosa Quispe",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-cs-v-701-5",
+        "image_type": "break section",
+        "media_url": null,
+        "caption": "Cerro Sechín V-701 — break section",
+        "credit": "Rosa Quispe",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-cs-v-701-6",
+        "image_type": "thin section",
+        "media_url": null,
+        "caption": "Cerro Sechín V-701 — thin section",
+        "credit": "Rosa Quispe",
+        "created_at": "2026-02-01"
+      }
+    ],
+    "bibliography_ids": [
+      "bib-015"
+    ],
+    "contributor_id": "contrib-quispe",
+    "housing_location": "Universidad de Panamá, ceramic reference collection",
+    "external_data": null,
+    "acknowledgements": "Recorded with the support of the host institution and project field crew.",
+    "privacy_level": "public",
+    "doi_ark_id": "ark:/99999/pacp-cs-v-701",
+    "stewardship_status": "community_reviewed",
+    "completeness_percent": 100,
+    "versions": [
+      {
+        "version": 1,
+        "updated_at": "2026-01-10",
+        "updated_by": "contrib-quispe",
+        "change_summary": "Initial record created.",
+        "reviewer_comments": null
+      },
+      {
+        "version": 2,
+        "updated_at": "2026-02-13",
+        "updated_by": "contrib-quispe",
+        "change_summary": "Added technological description and firing observations.",
+        "reviewer_comments": null
+      },
+      {
+        "version": 3,
+        "updated_at": "2026-03-16",
+        "updated_by": "contrib-quispe",
+        "change_summary": "Thin section examined; petro-fabric assigned.",
+        "reviewer_comments": "Fabric assignment is consistent with the regional reference group. Type attribution is well supported by the rim profile."
+      },
+      {
+        "version": 4,
+        "updated_at": "2026-04-19",
+        "updated_by": "contrib-quispe",
+        "change_summary": "Chronology narrowed following review.",
+        "reviewer_comments": "Agreed with the narrowed date range. Recommend noting the residual possibility of a later date."
+      }
+    ],
+    "alternate_interpretations": [],
+    "discussion": [],
+    "created_at": "2026-01-10",
+    "updated_at": "2026-04-19"
+  },
+  {
+    "vessel_id": "ves-cs-v-709",
+    "registration_number": "CS-V-709",
+    "name_or_label": "Cerro Sechín V-709",
+    "site_id": "site-cerro-sechin",
+    "assemblage_id": null,
+    "archaeological_context": "Domestic terrace, hearth-adjacent",
+    "region_id": "reg-pe-anc",
+    "country": "Peru",
+    "period_id": "per-initial-peru",
+    "date_bce_ce": "1600–800 BCE",
+    "date_range_start": -1600,
+    "date_range_end": -800,
+    "ware_id": "ware-coarse",
+    "type_id": "type-sechin-coarse-olla",
+    "petro_fabric_id": "pf-coarse-quartz",
+    "kiln_workshop_id": null,
+    "morphology": {
+      "shape": "olla",
+      "shape_type": "Short-necked olla",
+      "shape_family": "Restricted forms",
+      "functional_category": "Cooking / storage",
+      "vessel_height_cm": 40.4,
+      "max_diameter_cm": 33.3,
+      "rim_diameter_cm": 21.0,
+      "rim_percent_preserved": 42.0,
+      "base_diameter_cm": 11.0,
+      "base_percent_preserved": 59.0,
+      "wall_thickness_mm": 8.6,
+      "rim_thickness_mm": 10.2,
+      "rim_direction": "Out",
+      "rim_angle_deg": 56.0,
+      "rim_shape": "Everted, T-shaped",
+      "base_shape": "Round",
+      "parts_present": [
+        "Rim",
+        "Neck",
+        "Body",
+        "Base"
+      ]
+    },
+    "technology": {
+      "fabric_description_color": "Strong brown paste (7.5YR 5/6) with abundant coarse angular quartz",
+      "forming_method": "Coiling, no wheel finishing",
+      "primary_finish": "Scraping (interior striations visible)",
+      "secondary_finish": "Wiping only",
+      "firing_atmosphere": "Neutral to reducing",
+      "exterior_color": "7.5YR 4/2 brown, heavily sooted",
+      "interior_color": "7.5YR 5/6 strong brown",
+      "core_color": "10YR 3/1 very dark grey",
+      "multiple_cores": true,
+      "estimated_firing_temp": "600–750 °C",
+      "hardness": "Soft (Mohs 2–3)",
+      "pitch": "Low",
+      "cooling": "Fast",
+      "surface_core_boundary": "Sharp",
+      "inclusion_orientation": "Parallel to vessel wall",
+      "decorative_technique": "Undecorated; exterior sooting from use",
+      "drying_cracks": "None observed"
+    },
+    "images": [
+      {
+        "vessel_image_id": "img-cs-v-709-1",
+        "image_type": "exterior",
+        "media_url": null,
+        "caption": "Cerro Sechín V-709 — exterior",
+        "credit": "Rosa Quispe",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-cs-v-709-2",
+        "image_type": "interior",
+        "media_url": null,
+        "caption": "Cerro Sechín V-709 — interior",
+        "credit": "Rosa Quispe",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-cs-v-709-3",
+        "image_type": "profile",
+        "media_url": null,
+        "caption": "Cerro Sechín V-709 — profile",
+        "credit": "Rosa Quispe",
+        "created_at": "2026-02-01"
+      }
+    ],
+    "bibliography_ids": [
+      "bib-015"
+    ],
+    "contributor_id": "contrib-quispe",
+    "housing_location": "Peabody Museum, Harvard University",
+    "external_data": null,
+    "acknowledgements": "Recorded with the support of the host institution and project field crew.",
+    "privacy_level": "public",
+    "doi_ark_id": null,
+    "stewardship_status": "needs_review",
+    "completeness_percent": 90,
+    "versions": [
+      {
+        "version": 1,
+        "updated_at": "2026-01-10",
+        "updated_by": "contrib-quispe",
+        "change_summary": "Initial draft created from field notes.",
+        "reviewer_comments": null
+      },
+      {
+        "version": 2,
+        "updated_at": "2026-02-13",
+        "updated_by": "contrib-quispe",
+        "change_summary": "Added morphological measurements and fabric description. Requesting review of the type attribution.",
+        "reviewer_comments": null
+      }
+    ],
+    "alternate_interpretations": [],
+    "discussion": [
+      {
+        "contributor_id": "contrib-quispe",
+        "comment": "Heavy exterior sooting and a sharp core boundary both point to repeated low-temperature use rather than a single firing event.",
+        "date": "2026-05-30",
+        "replies": []
+      }
+    ],
+    "created_at": "2026-01-10",
+    "updated_at": "2026-02-13"
+  },
+  {
+    "vessel_id": "ves-cs-v-714",
+    "registration_number": "CS-V-714",
+    "name_or_label": "Cerro Sechín V-714",
+    "site_id": "site-cerro-sechin",
+    "assemblage_id": null,
+    "archaeological_context": "Erosion cut, unstratified",
+    "region_id": "reg-pe-anc",
+    "country": "Peru",
+    "period_id": "per-initial-peru",
+    "date_bce_ce": "1800–800 BCE",
+    "date_range_start": -1800,
+    "date_range_end": -800,
+    "ware_id": "ware-coarse",
+    "type_id": null,
+    "petro_fabric_id": "pf-coarse-quartz",
+    "kiln_workshop_id": null,
+    "morphology": {
+      "shape": "tecomate",
+      "shape_type": "Neckless globular tecomate",
+      "shape_family": "Restricted forms",
+      "functional_category": "Cooking / storage",
+      "vessel_height_cm": 14.1,
+      "max_diameter_cm": 20.5,
+      "rim_diameter_cm": 13.5,
+      "rim_percent_preserved": 98.0,
+      "base_diameter_cm": null,
+      "base_percent_preserved": null,
+      "wall_thickness_mm": 9.0,
+      "rim_thickness_mm": null,
+      "rim_direction": "In",
+      "rim_angle_deg": null,
+      "rim_shape": "Inverted, rounded lip",
+      "base_shape": "Round, continuous",
+      "parts_present": [
+        "Rim",
+        "Neck",
+        "Body"
+      ]
+    },
+    "technology": {
+      "fabric_description_color": "Strong brown paste (7.5YR 5/6) with abundant coarse angular quartz",
+      "forming_method": "Coiling, no wheel finishing",
+      "primary_finish": "Scraping (interior striations visible)",
+      "secondary_finish": "Wiping only",
+      "firing_atmosphere": "Neutral to reducing",
+      "exterior_color": "7.5YR 4/2 brown, heavily sooted",
+      "interior_color": "7.5YR 5/6 strong brown",
+      "core_color": "10YR 3/1 very dark grey",
+      "multiple_cores": true,
+      "estimated_firing_temp": "600–750 °C",
+      "hardness": "Soft (Mohs 2–3)",
+      "pitch": "Low",
+      "cooling": "Fast",
+      "surface_core_boundary": "Sharp",
+      "inclusion_orientation": null,
+      "decorative_technique": null,
+      "drying_cracks": null
+    },
+    "images": [
+      {
+        "vessel_image_id": "img-cs-v-714-1",
+        "image_type": "exterior",
+        "media_url": null,
+        "caption": "Cerro Sechín V-714 — exterior",
+        "credit": "Rosa Quispe",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-cs-v-714-2",
+        "image_type": "interior",
+        "media_url": null,
+        "caption": "Cerro Sechín V-714 — interior",
+        "credit": "Rosa Quispe",
+        "created_at": "2026-02-01"
+      }
+    ],
+    "bibliography_ids": [],
+    "contributor_id": "contrib-quispe",
+    "housing_location": null,
+    "external_data": null,
+    "acknowledgements": null,
+    "privacy_level": "public",
+    "doi_ark_id": null,
+    "stewardship_status": "draft",
+    "completeness_percent": 67,
+    "versions": [
+      {
+        "version": 1,
+        "updated_at": "2026-01-10",
+        "updated_by": "contrib-quispe",
+        "change_summary": "Initial draft created from field notes.",
+        "reviewer_comments": null
+      }
+    ],
+    "alternate_interpretations": [],
+    "discussion": [],
+    "created_at": "2026-01-10",
+    "updated_at": "2026-01-10"
+  },
+  {
+    "vessel_id": "ves-sc-v-801",
+    "registration_number": "SC-V-801",
+    "name_or_label": "Sitio Conte V-801",
+    "site_id": "site-sitio-conte",
+    "assemblage_id": "asm-sc-graves",
+    "archaeological_context": "Grave 26, principal interment",
+    "region_id": "reg-pa-coc",
+    "country": "Panama",
+    "period_id": "per-conte",
+    "date_bce_ce": "700–900 CE",
+    "date_range_start": 700,
+    "date_range_end": 900,
+    "ware_id": "ware-polychrome",
+    "type_id": "type-conte-polychrome",
+    "petro_fabric_id": "pf-vesicular-ash",
+    "kiln_workshop_id": null,
+    "morphology": {
+      "shape": "plate",
+      "shape_type": "Shallow open plate",
+      "shape_family": "Open forms",
+      "functional_category": "Serving / mortuary",
+      "vessel_height_cm": 4.6,
+      "max_diameter_cm": 32.9,
+      "rim_diameter_cm": 25.3,
+      "rim_percent_preserved": 98.0,
+      "base_diameter_cm": 11.7,
+      "base_percent_preserved": 79.0,
+      "wall_thickness_mm": 5.4,
+      "rim_thickness_mm": 5.5,
+      "rim_direction": "Out",
+      "rim_angle_deg": 45.0,
+      "rim_shape": "Direct, rounded lip",
+      "base_shape": "Low pedestal",
+      "parts_present": [
+        "Rim",
+        "Neck",
+        "Body",
+        "Base"
+      ]
+    },
+    "technology": {
+      "fabric_description_color": "Reddish-brown paste (5YR 5/4), vesicular, with fine cream inclusions",
+      "forming_method": "Coiling",
+      "primary_finish": "Scraping",
+      "secondary_finish": "Smoothing, slip application, light burnishing",
+      "firing_atmosphere": "Oxidising",
+      "exterior_color": "5YR 6/6 reddish yellow",
+      "interior_color": "5YR 5/4 reddish brown",
+      "core_color": "None visible",
+      "multiple_cores": false,
+      "estimated_firing_temp": "850–950 °C",
+      "hardness": "Hard (Mohs 4)",
+      "pitch": "High",
+      "cooling": "Moderate",
+      "surface_core_boundary": "None — fully oxidised",
+      "inclusion_orientation": "Random",
+      "decorative_technique": "Painted — black-outlined zoomorphic motifs in red and black on cream",
+      "drying_cracks": "None observed"
+    },
+    "images": [
+      {
+        "vessel_image_id": "img-sc-v-801-1",
+        "image_type": "exterior",
+        "media_url": null,
+        "caption": "Sitio Conte V-801 — exterior",
+        "credit": "Diego Brenes",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-sc-v-801-2",
+        "image_type": "interior",
+        "media_url": null,
+        "caption": "Sitio Conte V-801 — interior",
+        "credit": "Diego Brenes",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-sc-v-801-3",
+        "image_type": "profile",
+        "media_url": null,
+        "caption": "Sitio Conte V-801 — profile",
+        "credit": "Diego Brenes",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-sc-v-801-4",
+        "image_type": "rim detail",
+        "media_url": null,
+        "caption": "Sitio Conte V-801 — rim detail",
+        "credit": "Diego Brenes",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-sc-v-801-5",
+        "image_type": "break section",
+        "media_url": null,
+        "caption": "Sitio Conte V-801 — break section",
+        "credit": "Diego Brenes",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-sc-v-801-6",
+        "image_type": "thin section",
+        "media_url": null,
+        "caption": "Sitio Conte V-801 — thin section",
+        "credit": "Diego Brenes",
+        "created_at": "2026-02-01"
+      }
+    ],
+    "bibliography_ids": [
+      "bib-010",
+      "bib-011"
+    ],
+    "contributor_id": "contrib-brenes",
+    "housing_location": "Peabody Museum, Harvard University",
+    "external_data": null,
+    "acknowledgements": "Recorded with the support of the host institution and project field crew.",
+    "privacy_level": "public",
+    "doi_ark_id": "ark:/99999/pacp-sc-v-801",
+    "stewardship_status": "stewarded",
+    "completeness_percent": 100,
+    "versions": [
+      {
+        "version": 1,
+        "updated_at": "2026-01-10",
+        "updated_by": "contrib-brenes",
+        "change_summary": "Initial record created.",
+        "reviewer_comments": null
+      },
+      {
+        "version": 2,
+        "updated_at": "2026-02-13",
+        "updated_by": "contrib-brenes",
+        "change_summary": "Added full morphological and technological description.",
+        "reviewer_comments": null
+      },
+      {
+        "version": 3,
+        "updated_at": "2026-03-16",
+        "updated_by": "contrib-brenes",
+        "change_summary": "Petrographic sample analysed and cross-referenced to the regional fabric series.",
+        "reviewer_comments": "Fabric matches the published reference group. Documentation is reproducible."
+      },
+      {
+        "version": 4,
+        "updated_at": "2026-04-19",
+        "updated_by": "contrib-brenes",
+        "change_summary": "Bibliographic references and image credits completed.",
+        "reviewer_comments": "Citation set is complete and image credits verified."
+      },
+      {
+        "version": 5,
+        "updated_at": "2026-05-22",
+        "updated_by": "contrib-brenes",
+        "change_summary": "Record endorsed following specialist review.",
+        "reviewer_comments": "Endorsed as a reference example for this type. Note that this endorsement reflects informed confidence, not final authority — alternate readings remain open."
+      }
+    ],
+    "alternate_interpretations": [],
+    "discussion": [],
+    "created_at": "2026-01-10",
+    "updated_at": "2026-05-22"
+  },
+  {
+    "vessel_id": "ves-sc-v-808",
+    "registration_number": "SC-V-808",
+    "name_or_label": "Sitio Conte V-808",
+    "site_id": "site-sitio-conte",
+    "assemblage_id": "asm-sc-graves",
+    "archaeological_context": "Grave 32, secondary offering",
+    "region_id": "reg-pa-coc",
+    "country": "Panama",
+    "period_id": "per-conte",
+    "date_bce_ce": "550–700 CE",
+    "date_range_start": 550,
+    "date_range_end": 700,
+    "ware_id": "ware-polychrome",
+    "type_id": "type-cubita-polychrome",
+    "petro_fabric_id": "pf-vesicular-ash",
+    "kiln_workshop_id": null,
+    "morphology": {
+      "shape": "pedestal bowl",
+      "shape_type": "Pedestal-based bowl",
+      "shape_family": "Open forms",
+      "functional_category": "Serving / mortuary",
+      "vessel_height_cm": 17.3,
+      "max_diameter_cm": 20.6,
+      "rim_diameter_cm": 22.3,
+      "rim_percent_preserved": 31.0,
+      "base_diameter_cm": 12.9,
+      "base_percent_preserved": 18.0,
+      "wall_thickness_mm": 5.6,
+      "rim_thickness_mm": 7.5,
+      "rim_direction": "Up",
+      "rim_angle_deg": 40.0,
+      "rim_shape": "Direct, tapered lip",
+      "base_shape": "Pedestal",
+      "parts_present": [
+        "Rim",
+        "Neck",
+        "Body",
+        "Base"
+      ]
+    },
+    "technology": {
+      "fabric_description_color": "Reddish-brown paste (5YR 5/4), vesicular, with fine cream inclusions",
+      "forming_method": "Coiling",
+      "primary_finish": "Scraping",
+      "secondary_finish": "Smoothing, slip application, light burnishing",
+      "firing_atmosphere": "Oxidising",
+      "exterior_color": "5YR 6/6 reddish yellow",
+      "interior_color": "5YR 5/4 reddish brown",
+      "core_color": "None visible",
+      "multiple_cores": false,
+      "estimated_firing_temp": "850–950 °C",
+      "hardness": "Hard (Mohs 4)",
+      "pitch": "High",
+      "cooling": "Moderate",
+      "surface_core_boundary": "None — fully oxidised",
+      "inclusion_orientation": "Parallel to vessel wall",
+      "decorative_technique": "Painted — black-outlined red curvilinear scrolls on cream slip",
+      "drying_cracks": "None observed"
+    },
+    "images": [
+      {
+        "vessel_image_id": "img-sc-v-808-1",
+        "image_type": "exterior",
+        "media_url": null,
+        "caption": "Sitio Conte V-808 — exterior",
+        "credit": "Diego Brenes",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-sc-v-808-2",
+        "image_type": "interior",
+        "media_url": null,
+        "caption": "Sitio Conte V-808 — interior",
+        "credit": "Diego Brenes",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-sc-v-808-3",
+        "image_type": "profile",
+        "media_url": null,
+        "caption": "Sitio Conte V-808 — profile",
+        "credit": "Diego Brenes",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-sc-v-808-4",
+        "image_type": "rim detail",
+        "media_url": null,
+        "caption": "Sitio Conte V-808 — rim detail",
+        "credit": "Diego Brenes",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-sc-v-808-5",
+        "image_type": "break section",
+        "media_url": null,
+        "caption": "Sitio Conte V-808 — break section",
+        "credit": "Diego Brenes",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-sc-v-808-6",
+        "image_type": "thin section",
+        "media_url": null,
+        "caption": "Sitio Conte V-808 — thin section",
+        "credit": "Diego Brenes",
+        "created_at": "2026-02-01"
+      }
+    ],
+    "bibliography_ids": [
+      "bib-010"
+    ],
+    "contributor_id": "contrib-brenes",
+    "housing_location": "Instituto Hondureño de Antropología e Historia",
+    "external_data": null,
+    "acknowledgements": "Recorded with the support of the host institution and project field crew.",
+    "privacy_level": "public",
+    "doi_ark_id": "ark:/99999/pacp-sc-v-808",
+    "stewardship_status": "community_reviewed",
+    "completeness_percent": 100,
+    "versions": [
+      {
+        "version": 1,
+        "updated_at": "2026-01-10",
+        "updated_by": "contrib-brenes",
+        "change_summary": "Initial record created.",
+        "reviewer_comments": null
+      },
+      {
+        "version": 2,
+        "updated_at": "2026-02-13",
+        "updated_by": "contrib-brenes",
+        "change_summary": "Added technological description and firing observations.",
+        "reviewer_comments": null
+      },
+      {
+        "version": 3,
+        "updated_at": "2026-03-16",
+        "updated_by": "contrib-brenes",
+        "change_summary": "Thin section examined; petro-fabric assigned.",
+        "reviewer_comments": "Fabric assignment is consistent with the regional reference group. Type attribution is well supported by the rim profile."
+      },
+      {
+        "version": 4,
+        "updated_at": "2026-04-19",
+        "updated_by": "contrib-brenes",
+        "change_summary": "Chronology narrowed following review.",
+        "reviewer_comments": "Agreed with the narrowed date range. Recommend noting the residual possibility of a later date."
+      }
+    ],
+    "alternate_interpretations": [],
+    "discussion": [],
+    "created_at": "2026-01-10",
+    "updated_at": "2026-04-19"
+  },
+  {
+    "vessel_id": "ves-sc-v-813",
+    "registration_number": "SC-V-813",
+    "name_or_label": "Sitio Conte V-813",
+    "site_id": "site-sitio-conte",
+    "assemblage_id": null,
+    "archaeological_context": "Legacy museum accession, 1940 excavation",
+    "region_id": "reg-pa-coc",
+    "country": "Panama",
+    "period_id": "per-tonosi",
+    "date_bce_ce": "200–550 CE",
+    "date_range_start": 200,
+    "date_range_end": 550,
+    "ware_id": "ware-polychrome",
+    "type_id": "type-tonosi-trichrome",
+    "petro_fabric_id": null,
+    "kiln_workshop_id": null,
+    "morphology": {
+      "shape": "plate",
+      "shape_type": "Shallow open plate",
+      "shape_family": "Open forms",
+      "functional_category": "Serving / mortuary",
+      "vessel_height_cm": 7.0,
+      "max_diameter_cm": 29.5,
+      "rim_diameter_cm": 24.8,
+      "rim_percent_preserved": 38.0,
+      "base_diameter_cm": 13.3,
+      "base_percent_preserved": 67.0,
+      "wall_thickness_mm": 5.4,
+      "rim_thickness_mm": 4.5,
+      "rim_direction": "Out",
+      "rim_angle_deg": 23.0,
+      "rim_shape": "Direct, rounded lip",
+      "base_shape": "Low pedestal",
+      "parts_present": [
+        "Rim",
+        "Body"
+      ]
+    },
+    "technology": {
+      "fabric_description_color": null,
+      "forming_method": null,
+      "primary_finish": null,
+      "secondary_finish": null,
+      "firing_atmosphere": null,
+      "exterior_color": null,
+      "interior_color": null,
+      "core_color": null,
+      "multiple_cores": null,
+      "estimated_firing_temp": null,
+      "hardness": null,
+      "pitch": null,
+      "cooling": null,
+      "surface_core_boundary": null,
+      "inclusion_orientation": "Weakly aligned",
+      "decorative_technique": "Painted — red and black geometric panels on buff ground",
+      "drying_cracks": "None observed"
+    },
+    "images": [
+      {
+        "vessel_image_id": "img-sc-v-813-1",
+        "image_type": "exterior",
+        "media_url": null,
+        "caption": "Sitio Conte V-813 — exterior",
+        "credit": "Diego Brenes",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-sc-v-813-2",
+        "image_type": "interior",
+        "media_url": null,
+        "caption": "Sitio Conte V-813 — interior",
+        "credit": "Diego Brenes",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-sc-v-813-3",
+        "image_type": "profile",
+        "media_url": null,
+        "caption": "Sitio Conte V-813 — profile",
+        "credit": "Diego Brenes",
+        "created_at": "2026-02-01"
+      }
+    ],
+    "bibliography_ids": [
+      "bib-011",
+      "bib-022"
+    ],
+    "contributor_id": "contrib-brenes",
+    "housing_location": "Peabody Museum, Harvard University",
+    "external_data": null,
+    "acknowledgements": "Recorded with the support of the host institution and project field crew.",
+    "privacy_level": "public",
+    "doi_ark_id": null,
+    "stewardship_status": "needs_review",
+    "completeness_percent": 76,
+    "versions": [
+      {
+        "version": 1,
+        "updated_at": "2026-01-10",
+        "updated_by": "contrib-brenes",
+        "change_summary": "Initial draft created from field notes.",
+        "reviewer_comments": null
+      },
+      {
+        "version": 2,
+        "updated_at": "2026-02-13",
+        "updated_by": "contrib-brenes",
+        "change_summary": "Added morphological measurements and fabric description. Requesting review of the type attribution.",
+        "reviewer_comments": null
+      }
+    ],
+    "alternate_interpretations": [
+      {
+        "contributor_id": "contrib-brenes",
+        "suggested_ware": "ware-polychrome",
+        "suggested_type": "type-cubita-polychrome",
+        "reasoning": "Lothrop assigned this to Tonosí Trichrome in 1937, but the scroll motif and the black outlining match Cubita more closely. The 1937 attribution predates the Cubita definition entirely.",
+        "confidence": "probable",
+        "date_added": "2026-02-14"
+      },
+      {
+        "contributor_id": "contrib-ixchel",
+        "suggested_ware": null,
+        "suggested_type": "type-tonosi-trichrome",
+        "reasoning": "I would retain the original attribution. The panel arrangement is closer to published Tonosí examples, and the legacy attribution carries information about the excavated association that we can no longer recover.",
+        "confidence": "possible",
+        "date_added": "2026-02-21"
+      }
+    ],
+    "discussion": [
+      {
+        "contributor_id": "contrib-brenes",
+        "comment": "Flagging that this record comes from a 1940 accession with no field documentation beyond the grave number. Everything downstream of that should be read as provisional.",
+        "date": "2026-02-14",
+        "replies": [
+          {
+            "contributor_id": "contrib-alvarez",
+            "comment": "Agreed. This is exactly the case where keeping both attributions visible is more useful than picking one.",
+            "date": "2026-02-16"
+          },
+          {
+            "contributor_id": "contrib-brenes",
+            "comment": "Both are now recorded as alternate interpretations rather than resolving to a single value.",
+            "date": "2026-02-22"
+          }
+        ]
+      }
+    ],
+    "created_at": "2026-01-10",
+    "updated_at": "2026-02-13"
+  },
+  {
+    "vessel_id": "ves-sc-v-819",
+    "registration_number": "SC-V-819",
+    "name_or_label": "Sitio Conte V-819",
+    "site_id": "site-sitio-conte",
+    "assemblage_id": "asm-sc-graves",
+    "archaeological_context": "Grave 11, fill above interment",
+    "region_id": "reg-pa-coc",
+    "country": "Panama",
+    "period_id": "per-conte",
+    "date_bce_ce": "600–1100 CE",
+    "date_range_start": 600,
+    "date_range_end": 1100,
+    "ware_id": "ware-buff",
+    "type_id": "type-panama-plain",
+    "petro_fabric_id": "pf-vesicular-ash",
+    "kiln_workshop_id": null,
+    "morphology": {
+      "shape": "jar",
+      "shape_type": "Restricted neck jar",
+      "shape_family": "Restricted forms",
+      "functional_category": "Storage / transport",
+      "vessel_height_cm": 25.9,
+      "max_diameter_cm": 28.2,
+      "rim_diameter_cm": 13.2,
+      "rim_percent_preserved": 66.0,
+      "base_diameter_cm": 11.3,
+      "base_percent_preserved": 15.0,
+      "wall_thickness_mm": 8.7,
+      "rim_thickness_mm": 10.9,
+      "rim_direction": "Out",
+      "rim_angle_deg": 26.0,
+      "rim_shape": "Everted, thickened lip",
+      "base_shape": "Round",
+      "parts_present": [
+        "Body",
+        "Base"
+      ]
+    },
+    "technology": {
+      "fabric_description_color": "Reddish-brown paste (5YR 5/4), vesicular, with fine cream inclusions",
+      "forming_method": "Coiling",
+      "primary_finish": "Scraping",
+      "secondary_finish": "Smoothing, slip application, light burnishing",
+      "firing_atmosphere": "Oxidising",
+      "exterior_color": "5YR 6/6 reddish yellow",
+      "interior_color": "5YR 5/4 reddish brown",
+      "core_color": "None visible",
+      "multiple_cores": false,
+      "estimated_firing_temp": "850–950 °C",
+      "hardness": "Hard (Mohs 4)",
+      "pitch": "High",
+      "cooling": "Moderate",
+      "surface_core_boundary": "None — fully oxidised",
+      "inclusion_orientation": "Random",
+      "decorative_technique": "Undecorated, smoothed",
+      "drying_cracks": "None observed"
+    },
+    "images": [
+      {
+        "vessel_image_id": "img-sc-v-819-1",
+        "image_type": "exterior",
+        "media_url": null,
+        "caption": "Sitio Conte V-819 — exterior",
+        "credit": "Diego Brenes",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-sc-v-819-2",
+        "image_type": "interior",
+        "media_url": null,
+        "caption": "Sitio Conte V-819 — interior",
+        "credit": "Diego Brenes",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-sc-v-819-3",
+        "image_type": "profile",
+        "media_url": null,
+        "caption": "Sitio Conte V-819 — profile",
+        "credit": "Diego Brenes",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-sc-v-819-4",
+        "image_type": "rim detail",
+        "media_url": null,
+        "caption": "Sitio Conte V-819 — rim detail",
+        "credit": "Diego Brenes",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-sc-v-819-5",
+        "image_type": "break section",
+        "media_url": null,
+        "caption": "Sitio Conte V-819 — break section",
+        "credit": "Diego Brenes",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-sc-v-819-6",
+        "image_type": "thin section",
+        "media_url": null,
+        "caption": "Sitio Conte V-819 — thin section",
+        "credit": "Diego Brenes",
+        "created_at": "2026-02-01"
+      }
+    ],
+    "bibliography_ids": [
+      "bib-010"
+    ],
+    "contributor_id": "contrib-brenes",
+    "housing_location": "Peabody Museum, Harvard University",
+    "external_data": null,
+    "acknowledgements": "Recorded with the support of the host institution and project field crew.",
+    "privacy_level": "public",
+    "doi_ark_id": "ark:/99999/pacp-sc-v-819",
+    "stewardship_status": "community_reviewed",
+    "completeness_percent": 100,
+    "versions": [
+      {
+        "version": 1,
+        "updated_at": "2026-01-10",
+        "updated_by": "contrib-brenes",
+        "change_summary": "Initial record created.",
+        "reviewer_comments": null
+      },
+      {
+        "version": 2,
+        "updated_at": "2026-02-13",
+        "updated_by": "contrib-brenes",
+        "change_summary": "Added technological description and firing observations.",
+        "reviewer_comments": null
+      },
+      {
+        "version": 3,
+        "updated_at": "2026-03-16",
+        "updated_by": "contrib-brenes",
+        "change_summary": "Thin section examined; petro-fabric assigned.",
+        "reviewer_comments": "Fabric assignment is consistent with the regional reference group. Type attribution is well supported by the rim profile."
+      },
+      {
+        "version": 4,
+        "updated_at": "2026-04-19",
+        "updated_by": "contrib-brenes",
+        "change_summary": "Chronology narrowed following review.",
+        "reviewer_comments": "Agreed with the narrowed date range. Recommend noting the residual possibility of a later date."
+      }
+    ],
+    "alternate_interpretations": [],
+    "discussion": [],
+    "created_at": "2026-01-10",
+    "updated_at": "2026-04-19"
+  },
+  {
+    "vessel_id": "ves-sc-v-824",
+    "registration_number": "SC-V-824",
+    "name_or_label": "Sitio Conte V-824",
+    "site_id": "site-sitio-conte",
+    "assemblage_id": "asm-sc-graves",
+    "archaeological_context": "Uncatalogued museum tray, provenance uncertain",
+    "region_id": "reg-pa-coc",
+    "country": "Panama",
+    "period_id": "per-conte",
+    "date_bce_ce": "900–1100 CE",
+    "date_range_start": 900,
+    "date_range_end": 1100,
+    "ware_id": "ware-polychrome",
+    "type_id": "type-macaracas-polychrome",
+    "petro_fabric_id": null,
+    "kiln_workshop_id": null,
+    "morphology": {
+      "shape": "plate",
+      "shape_type": "Shallow open plate",
+      "shape_family": "Open forms",
+      "functional_category": "Serving / mortuary",
+      "vessel_height_cm": 4.5,
+      "max_diameter_cm": 29.7,
+      "rim_diameter_cm": 32.3,
+      "rim_percent_preserved": 33.0,
+      "base_diameter_cm": null,
+      "base_percent_preserved": null,
+      "wall_thickness_mm": 6.7,
+      "rim_thickness_mm": null,
+      "rim_direction": "Out",
+      "rim_angle_deg": null,
+      "rim_shape": "Direct, rounded lip",
+      "base_shape": "Low pedestal",
+      "parts_present": [
+        "Rim",
+        "Neck",
+        "Body",
+        "Base"
+      ]
+    },
+    "technology": {
+      "fabric_description_color": null,
+      "forming_method": null,
+      "primary_finish": null,
+      "secondary_finish": null,
+      "firing_atmosphere": null,
+      "exterior_color": null,
+      "interior_color": null,
+      "core_color": null,
+      "multiple_cores": null,
+      "estimated_firing_temp": null,
+      "hardness": null,
+      "pitch": null,
+      "cooling": null,
+      "surface_core_boundary": null,
+      "inclusion_orientation": null,
+      "decorative_technique": "Painted — broad panels in red, black and purple on cream",
+      "drying_cracks": null
+    },
+    "images": [],
+    "bibliography_ids": [],
+    "contributor_id": "contrib-vasquez",
+    "housing_location": null,
+    "external_data": null,
+    "acknowledgements": null,
+    "privacy_level": "public",
+    "doi_ark_id": null,
+    "stewardship_status": "draft",
+    "completeness_percent": 52,
+    "versions": [
+      {
+        "version": 1,
+        "updated_at": "2026-01-10",
+        "updated_by": "contrib-vasquez",
+        "change_summary": "Initial draft created from field notes.",
+        "reviewer_comments": null
+      }
+    ],
+    "alternate_interpretations": [],
+    "discussion": [],
+    "created_at": "2026-01-10",
+    "updated_at": "2026-01-10"
+  },
+  {
+    "vessel_id": "ves-sc-v-830",
+    "registration_number": "SC-V-830",
+    "name_or_label": "Sitio Conte V-830",
+    "site_id": "site-sitio-conte",
+    "assemblage_id": "asm-sc-graves",
+    "archaeological_context": "Grave 5, disturbed upper fill",
+    "region_id": "reg-pa-coc",
+    "country": "Panama",
+    "period_id": "per-conte",
+    "date_bce_ce": "600–1100 CE",
+    "date_range_start": 600,
+    "date_range_end": 1100,
+    "ware_id": "ware-buff",
+    "type_id": "type-panama-plain",
+    "petro_fabric_id": "pf-vesicular-ash",
+    "kiln_workshop_id": null,
+    "morphology": {
+      "shape": "bowl",
+      "shape_type": "Open hemispherical bowl",
+      "shape_family": "Open forms",
+      "functional_category": "Serving",
+      "vessel_height_cm": 9.2,
+      "max_diameter_cm": 23.6,
+      "rim_diameter_cm": 19.0,
+      "rim_percent_preserved": 56.0,
+      "base_diameter_cm": 10.8,
+      "base_percent_preserved": 97.0,
+      "wall_thickness_mm": 5.2,
+      "rim_thickness_mm": 8.7,
+      "rim_direction": "Out",
+      "rim_angle_deg": 50.0,
+      "rim_shape": "Everted, rounded lip",
+      "base_shape": "Flat",
+      "parts_present": [
+        "Rim",
+        "Neck",
+        "Body",
+        "Base"
+      ]
+    },
+    "technology": {
+      "fabric_description_color": "Reddish-brown paste (5YR 5/4), vesicular, with fine cream inclusions",
+      "forming_method": "Coiling",
+      "primary_finish": "Scraping",
+      "secondary_finish": "Smoothing, slip application, light burnishing",
+      "firing_atmosphere": "Oxidising",
+      "exterior_color": "5YR 6/6 reddish yellow",
+      "interior_color": "5YR 5/4 reddish brown",
+      "core_color": "None visible",
+      "multiple_cores": false,
+      "estimated_firing_temp": "850–950 °C",
+      "hardness": "Hard (Mohs 4)",
+      "pitch": "High",
+      "cooling": "Moderate",
+      "surface_core_boundary": "None — fully oxidised",
+      "inclusion_orientation": "Parallel to vessel wall",
+      "decorative_technique": "Undecorated, smoothed",
+      "drying_cracks": "None observed"
+    },
+    "images": [
+      {
+        "vessel_image_id": "img-sc-v-830-1",
+        "image_type": "exterior",
+        "media_url": null,
+        "caption": "Sitio Conte V-830 — exterior",
+        "credit": "Diego Brenes",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-sc-v-830-2",
+        "image_type": "interior",
+        "media_url": null,
+        "caption": "Sitio Conte V-830 — interior",
+        "credit": "Diego Brenes",
+        "created_at": "2026-02-01"
+      },
+      {
+        "vessel_image_id": "img-sc-v-830-3",
+        "image_type": "profile",
+        "media_url": null,
+        "caption": "Sitio Conte V-830 — profile",
+        "credit": "Diego Brenes",
+        "created_at": "2026-02-01"
+      }
+    ],
+    "bibliography_ids": [
+      "bib-010"
+    ],
+    "contributor_id": "contrib-brenes",
+    "housing_location": "Universidad de Panamá, ceramic reference collection",
+    "external_data": null,
+    "acknowledgements": "Recorded with the support of the host institution and project field crew.",
+    "privacy_level": "public",
+    "doi_ark_id": null,
+    "stewardship_status": "needs_review",
+    "completeness_percent": 90,
+    "versions": [
+      {
+        "version": 1,
+        "updated_at": "2026-01-10",
+        "updated_by": "contrib-brenes",
+        "change_summary": "Initial draft created from field notes.",
+        "reviewer_comments": null
+      },
+      {
+        "version": 2,
+        "updated_at": "2026-02-13",
+        "updated_by": "contrib-brenes",
+        "change_summary": "Added morphological measurements and fabric description. Requesting review of the type attribution.",
+        "reviewer_comments": null
+      }
+    ],
+    "alternate_interpretations": [],
+    "discussion": [],
+    "created_at": "2026-01-10",
+    "updated_at": "2026-02-13"
+  }
+]

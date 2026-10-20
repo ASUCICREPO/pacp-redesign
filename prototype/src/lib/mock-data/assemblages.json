@@ -1,0 +1,85 @@
+[
+  {
+    "assemblage_id": "asm-lq-terrace-18",
+    "name": "La Quemada Terrace 18 assemblage",
+    "site_id": "site-la-quemada",
+    "type_ids": [
+      "type-zacatecas-red-on-buff",
+      "type-la-quemada-storage"
+    ],
+    "site_context": "Terrace 18, Structures 1–4",
+    "count": 1842,
+    "reference": "Nelson, Darling & Kice 1992",
+    "contributor_id": "contrib-torvinen",
+    "notes": "Dominated by locally produced buff wares; imported material under 2% by sherd count."
+  },
+  {
+    "assemblage_id": "asm-ma-north-platform",
+    "name": "Monte Albán North Platform fill",
+    "site_id": "site-monte-alban",
+    "type_ids": [
+      "type-monte-alban-gray-bowl"
+    ],
+    "site_context": "North Platform, construction fill units 12–19",
+    "count": 3117,
+    "reference": "Caso, Bernal & Acosta 1967",
+    "contributor_id": "contrib-michelaki",
+    "notes": "Sealed fill giving a tight terminus post quem for the grey ware sequence."
+  },
+  {
+    "assemblage_id": "asm-te-tlajinga",
+    "name": "Tlajinga 33 apartment compound",
+    "site_id": "site-teotihuacan",
+    "type_ids": [
+      "type-thin-orange-bowl",
+      "type-teotihuacan-florero"
+    ],
+    "site_context": "Tlajinga 33, floors and sub-floor deposits",
+    "count": 2604,
+    "reference": "Rattray 1990",
+    "contributor_id": "contrib-nelson",
+    "notes": "High Thin Orange frequency relative to other compounds; interpreted as differential access."
+  },
+  {
+    "assemblage_id": "asm-tk-group-g",
+    "name": "Tikal Group G residential midden",
+    "site_id": "site-tikal",
+    "type_ids": [
+      "type-tikal-cream-polychrome"
+    ],
+    "site_context": "Group G, midden east of Structure 5E-55",
+    "count": 987,
+    "reference": "Culbert 1993",
+    "contributor_id": "contrib-ixchel",
+    "notes": "Late Classic serving assemblage with unusually high polychrome representation."
+  },
+  {
+    "assemblage_id": "asm-cp-las-sepulturas",
+    "name": "Las Sepulturas household assemblage",
+    "site_id": "site-copan",
+    "type_ids": [
+      "type-copador-polychrome"
+    ],
+    "site_context": "Group 9N-8, Patios A and B",
+    "count": 1455,
+    "reference": "Beaudry-Corbett 1994; Álvarez 2020",
+    "contributor_id": "contrib-alvarez",
+    "notes": "Copador frequencies drop sharply after the Group 9N-8 abandonment horizon."
+  },
+  {
+    "assemblage_id": "asm-sc-graves",
+    "name": "Sitio Conte mortuary assemblage",
+    "site_id": "site-sitio-conte",
+    "type_ids": [
+      "type-conte-polychrome",
+      "type-cubita-polychrome",
+      "type-macaracas-polychrome",
+      "type-panama-plain"
+    ],
+    "site_context": "Graves 1–32, 1930s Peabody excavations",
+    "count": 743,
+    "reference": "Lothrop 1937; Briggs 1989",
+    "contributor_id": "contrib-brenes",
+    "notes": "Legacy collection; grave associations reconstructed from field notes and not always secure."
+  }
+]

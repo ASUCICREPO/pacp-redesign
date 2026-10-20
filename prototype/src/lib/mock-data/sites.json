@@ -1,0 +1,168 @@
+[
+  {
+    "site_id": "site-la-quemada",
+    "name": "La Quemada",
+    "alt_site_name": [
+      "Chicomóztoc"
+    ],
+    "country": "Mexico",
+    "region_id": "reg-mx-zac",
+    "site_type": "Fortified civic-ceremonial centre",
+    "period_id": "per-epiclassic",
+    "date_bce_ce": "600–900 CE",
+    "site_location": {
+      "lat": 22.4711,
+      "lng": -102.8258
+    },
+    "local_geology": "Rhyolitic tuff and andesite outcrops with residual clays derived from weathered volcanic parent material.",
+    "description": "Hilltop centre in the Malpaso Valley with monumental terraces, a ballcourt and a votive pyramid. Its ceramic assemblage is dominated by locally produced buff and red-on-buff wares with volcanic temper.",
+    "site_project_website": "https://example.org/la-quemada-project",
+    "contributor_id": "contrib-torvinen",
+    "privacy_level": "public"
+  },
+  {
+    "site_id": "site-monte-alban",
+    "name": "Monte Albán",
+    "alt_site_name": [
+      "Danibaan"
+    ],
+    "country": "Mexico",
+    "region_id": "reg-mx-oax",
+    "site_type": "Urban capital",
+    "period_id": "per-classic",
+    "date_bce_ce": "500 BCE–800 CE",
+    "site_location": {
+      "lat": 17.0439,
+      "lng": -96.7677
+    },
+    "local_geology": "Metamorphic gneiss and schist with alluvial clays from the Atoyac drainage.",
+    "description": "Zapotec capital on a levelled mountaintop above the Valley of Oaxaca. Long ceramic sequence anchored by grey wares fired in reducing atmospheres.",
+    "site_project_website": null,
+    "contributor_id": "contrib-michelaki",
+    "privacy_level": "public"
+  },
+  {
+    "site_id": "site-teotihuacan",
+    "name": "Teotihuacan",
+    "alt_site_name": [
+      "Teotihuacán"
+    ],
+    "country": "Mexico",
+    "region_id": "reg-mx-mex",
+    "site_type": "Urban capital",
+    "period_id": "per-early-classic",
+    "date_bce_ce": "100–550 CE",
+    "site_location": {
+      "lat": 19.6925,
+      "lng": -98.8438
+    },
+    "local_geology": "Volcanic ash, pumice and lacustrine clays of the Basin of Mexico.",
+    "description": "Planned Classic-period metropolis and the production or redistribution node for Thin Orange ware found across Mesoamerica.",
+    "site_project_website": null,
+    "contributor_id": "contrib-nelson",
+    "privacy_level": "public"
+  },
+  {
+    "site_id": "site-chichen-itza",
+    "name": "Chichén Itzá",
+    "alt_site_name": [
+      "Chichen Itza"
+    ],
+    "country": "Mexico",
+    "region_id": "reg-mx-yuc",
+    "site_type": "Urban ceremonial centre",
+    "period_id": "per-terminal-classic",
+    "date_bce_ce": "800–1100 CE",
+    "site_location": {
+      "lat": 20.6843,
+      "lng": -88.5678
+    },
+    "local_geology": "Karstic limestone with palygorskite (sascab) deposits used as temper and slip.",
+    "description": "Major Terminal Classic centre in northern Yucatán; assemblages dominated by Sotuta-sphere slate wares.",
+    "site_project_website": null,
+    "contributor_id": "contrib-vasquez",
+    "privacy_level": "public"
+  },
+  {
+    "site_id": "site-tikal",
+    "name": "Tikal",
+    "alt_site_name": [
+      "Yax Mutal"
+    ],
+    "country": "Guatemala",
+    "region_id": "reg-gt-pet",
+    "site_type": "Urban capital",
+    "period_id": "per-late-classic",
+    "date_bce_ce": "350 BCE–900 CE",
+    "site_location": {
+      "lat": 17.222,
+      "lng": -89.6237
+    },
+    "local_geology": "Cretaceous limestone bedrock; calcite and crystalline calcite temper readily available.",
+    "description": "Central Petén capital with a deep stratified sequence and a large corpus of Late Classic polychrome serving vessels.",
+    "site_project_website": null,
+    "contributor_id": "contrib-ixchel",
+    "privacy_level": "public"
+  },
+  {
+    "site_id": "site-copan",
+    "name": "Copán",
+    "alt_site_name": [
+      "Oxwitik"
+    ],
+    "country": "Honduras",
+    "region_id": "reg-hn-cop",
+    "site_type": "Urban capital",
+    "period_id": "per-late-classic",
+    "date_bce_ce": "400–900 CE",
+    "site_location": {
+      "lat": 14.84,
+      "lng": -89.1414
+    },
+    "local_geology": "Ignimbrite and volcanic ash deposits along the Copán River terraces.",
+    "description": "Southeastern Maya capital known for Copador polychromes and volcanic-ash-tempered fine wares.",
+    "site_project_website": null,
+    "contributor_id": "contrib-alvarez",
+    "privacy_level": "public"
+  },
+  {
+    "site_id": "site-cerro-sechin",
+    "name": "Cerro Sechín",
+    "alt_site_name": [
+      "Sechín"
+    ],
+    "country": "Peru",
+    "region_id": "reg-pe-anc",
+    "site_type": "Monumental ceremonial centre",
+    "period_id": "per-initial-peru",
+    "date_bce_ce": "1600–800 BCE",
+    "site_location": {
+      "lat": -9.4772,
+      "lng": -78.2617
+    },
+    "local_geology": "Granodiorite and quartz-rich fluvial sands of the Casma valley.",
+    "description": "Initial Period coastal centre famed for carved stone monoliths; utilitarian assemblages are coarse and largely undecorated.",
+    "site_project_website": null,
+    "contributor_id": "contrib-quispe",
+    "privacy_level": "public"
+  },
+  {
+    "site_id": "site-sitio-conte",
+    "name": "Sitio Conte",
+    "alt_site_name": [],
+    "country": "Panama",
+    "region_id": "reg-pa-coc",
+    "site_type": "Cemetery",
+    "period_id": "per-conte",
+    "date_bce_ce": "700–900 CE",
+    "site_location": {
+      "lat": 8.4667,
+      "lng": -80.4167
+    },
+    "local_geology": "Fine iron-rich alluvial clays of the Río Grande de Coclé floodplain.",
+    "description": "Elite cemetery on the Río Grande de Coclé; the type site for the Conte polychrome style and a key reference assemblage for central Panama.",
+    "site_project_website": null,
+    "contributor_id": "contrib-brenes",
+    "privacy_level": "public"
+  }
+]

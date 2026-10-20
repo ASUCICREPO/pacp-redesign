@@ -1,0 +1,188 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+@import "shadcn/tailwind.css";
+
+@custom-variant dark (&:is(.dark *));
+
+/* ══════════════════════════════════════════════════════════════════════════
+   The original PACP prototype's design tokens, restored.
+
+   Values come from the published Figma Make site, so the restored pages under
+   src/legacy look as they did there. Tailwind v4 is CSS-first — @theme below
+   is the config.
+   ══════════════════════════════════════════════════════════════════════════ */
+
+:root {
+  --font-size: 16px;
+  --background: #faf8f5;
+  --foreground: #2d2520;
+  --card: #ffffff;
+  --card-foreground: #2d2520;
+  --popover: #ffffff;
+  --popover-foreground: #2d2520;
+  --primary: #a0593f;
+  --primary-foreground: #faf8f5;
+  --secondary: #d4a574;
+  --secondary-foreground: #2d2520;
+  --muted: #e8dfd6;
+  --muted-foreground: #6b5d52;
+  --accent: #c87d52;
+  --accent-foreground: #faf8f5;
+  --destructive: #b94a48;
+  --destructive-foreground: #ffffff;
+  --border: rgba(160, 89, 63, 0.15);
+  --input: transparent;
+  --input-background: #f4ede4;
+  --switch-background: #c4b5a5;
+  --font-weight-medium: 500;
+  --font-weight-normal: 400;
+  --ring: #a0593f;
+  --chart-1: #a0593f;
+  --chart-2: #d4a574;
+  --chart-3: #8b6f47;
+  --chart-4: #c87d52;
+  --chart-5: #e8dfd6;
+  --radius: 0.5rem;
+  --sidebar: #faf8f5;
+  --sidebar-foreground: #2d2520;
+  --sidebar-primary: #a0593f;
+  --sidebar-primary-foreground: #faf8f5;
+  --sidebar-accent: #f4ede4;
+  --sidebar-accent-foreground: #2d2520;
+  --sidebar-border: rgba(160, 89, 63, 0.15);
+  --sidebar-ring: #a0593f;
+
+  /* Named brand colours used directly by a few components */
+  --terracotta: #a0593f;
+  --sand: #d4a574;
+  --clay: #8b6f47;
+  --charcoal: #2d2520;
+}
+
+.dark {
+  --background: oklch(0.145 0 0);
+  --foreground: oklch(0.985 0 0);
+  --card: oklch(0.145 0 0);
+  --card-foreground: oklch(0.985 0 0);
+  --popover: oklch(0.145 0 0);
+  --popover-foreground: oklch(0.985 0 0);
+  --primary: oklch(0.985 0 0);
+  --primary-foreground: oklch(0.205 0 0);
+  --secondary: oklch(0.269 0 0);
+  --secondary-foreground: oklch(0.985 0 0);
+  --muted: oklch(0.269 0 0);
+  --muted-foreground: oklch(0.708 0 0);
+  --accent: oklch(0.269 0 0);
+  --accent-foreground: oklch(0.985 0 0);
+  --destructive: oklch(0.396 0.141 25.723);
+  --destructive-foreground: oklch(0.637 0.237 25.331);
+  --border: oklch(0.269 0 0);
+  --input: oklch(0.269 0 0);
+  --ring: oklch(0.439 0 0);
+  --chart-1: oklch(0.488 0.243 264.376);
+  --chart-2: oklch(0.696 0.17 162.48);
+  --chart-3: oklch(0.769 0.188 70.08);
+  --chart-4: oklch(0.627 0.265 303.9);
+  --chart-5: oklch(0.645 0.246 16.439);
+  --sidebar: oklch(0.205 0 0);
+  --sidebar-foreground: oklch(0.985 0 0);
+  --sidebar-primary: oklch(0.488 0.243 264.376);
+  --sidebar-primary-foreground: oklch(0.985 0 0);
+  --sidebar-accent: oklch(0.269 0 0);
+  --sidebar-accent-foreground: oklch(0.985 0 0);
+  --sidebar-border: oklch(0.269 0 0);
+  --sidebar-ring: oklch(0.439 0 0);
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-input-background: var(--input-background);
+  --color-switch-background: var(--switch-background);
+  --color-ring: var(--ring);
+  --color-chart-1: var(--chart-1);
+  --color-chart-2: var(--chart-2);
+  --color-chart-3: var(--chart-3);
+  --color-chart-4: var(--chart-4);
+  --color-chart-5: var(--chart-5);
+  --color-sidebar: var(--sidebar);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-ring: var(--sidebar-ring);
+  --color-terracotta: var(--terracotta);
+  --color-sand: var(--sand);
+  --color-clay: var(--clay);
+  --color-charcoal: var(--charcoal);
+
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+
+  /* Token names used by pages added in the Next.js app (sign-in, onboarding,
+     PDF extraction), pointed at the original palette so they match it. */
+  --color-terracotta-light: var(--accent);
+  --color-terracotta-dark: #7f4530;
+  --color-cream: var(--background);
+  --color-cream-warm: var(--muted);
+  --color-charcoal-muted: var(--muted-foreground);
+  --color-status-draft: #9b9691;
+  --color-status-review: #d4a03f;
+  --color-status-reviewed: var(--primary);
+  --color-status-stewarded: #7f4530;
+}
+
+/* ── Base typography, as in the prototype ───────────────────────────────── */
+@layer base {
+  * {
+    border-color: var(--border);
+    outline-color: color-mix(in oklab, var(--ring) 50%, transparent);
+  }
+
+  html {
+    font-size: var(--font-size);
+  }
+
+  body {
+    background-color: var(--background);
+    color: var(--foreground);
+    /* The prototype's exact stack. next/font registers these faces under their
+       real family names, so naming them directly loads them without pulling
+       in next/font's Arial-based fallback face. */
+    font-family: Inter, -apple-system, BlinkMacSystemFont, sans-serif;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Playfair Display', Georgia, serif;
+  }
+
+  h1 { font-size: var(--text-2xl); font-weight: var(--font-weight-medium); line-height: 1.5; }
+  h2 { font-size: var(--text-xl);  font-weight: var(--font-weight-medium); line-height: 1.5; }
+  h3 { font-size: var(--text-lg);  font-weight: var(--font-weight-medium); line-height: 1.5; }
+
+  input {
+    font-size: var(--text-base);
+    font-weight: var(--font-weight-normal);
+    line-height: 1.5;
+  }
+}

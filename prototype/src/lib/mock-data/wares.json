@@ -1,0 +1,271 @@
+[
+  {
+    "ware_id": "ware-orange",
+    "name": "Orange Ware",
+    "alt_ware_name": [
+      "Naranja"
+    ],
+    "region_id": "reg-mx-mex",
+    "period_id": "per-early-classic",
+    "date_range_start": 200,
+    "date_range_end": 650,
+    "description": "Oxidised orange-paste ware with fine, well-sorted inclusions and thin walls. Frequently burnished; used for serving forms.",
+    "contributor_id": "contrib-nelson",
+    "date_bce_ce": "200–650 CE",
+    "type_ids": [
+      "type-teotihuacan-florero"
+    ],
+    "bibliography_ids": [
+      "bib-006"
+    ],
+    "privacy_level": "public",
+    "stewardship_status": "stewarded"
+  },
+  {
+    "ware_id": "ware-polychrome",
+    "name": "Polychrome Ware",
+    "alt_ware_name": [
+      "Policromo"
+    ],
+    "region_id": "reg-pa-coc",
+    "period_id": "per-conte",
+    "date_range_start": 550,
+    "date_range_end": 1100,
+    "description": "Multi-colour painted ware, typically red, black and purple over a cream or buff slip. Serving and mortuary contexts.",
+    "contributor_id": "contrib-brenes",
+    "date_bce_ce": "550–1100 CE",
+    "type_ids": [
+      "type-cubita-polychrome",
+      "type-tonosi-trichrome",
+      "type-conte-polychrome",
+      "type-macaracas-polychrome"
+    ],
+    "bibliography_ids": [
+      "bib-010",
+      "bib-011",
+      "bib-022"
+    ],
+    "privacy_level": "public",
+    "stewardship_status": "stewarded"
+  },
+  {
+    "ware_id": "ware-buff",
+    "name": "Buff Ware",
+    "alt_ware_name": [],
+    "region_id": "reg-mx-zac",
+    "period_id": "per-epiclassic",
+    "date_range_start": 600,
+    "date_range_end": 900,
+    "description": "Light-firing buff paste ware with moderate volcanic temper. Both utilitarian and decorated red-on-buff variants occur.",
+    "contributor_id": "contrib-torvinen",
+    "date_bce_ce": "600–900 CE",
+    "type_ids": [
+      "type-panama-plain",
+      "type-zacatecas-red-on-buff"
+    ],
+    "bibliography_ids": [
+      "bib-003",
+      "bib-010",
+      "bib-016"
+    ],
+    "privacy_level": "public",
+    "stewardship_status": "stewarded"
+  },
+  {
+    "ware_id": "ware-storage",
+    "name": "Storage Ware",
+    "alt_ware_name": [
+      "Utility Ware"
+    ],
+    "region_id": "reg-mx-zac",
+    "period_id": "per-epiclassic",
+    "date_range_start": 500,
+    "date_range_end": 1000,
+    "description": "Thick-walled coarse ware for bulk storage and transport. Heavy angular temper, minimal surface finishing.",
+    "contributor_id": "contrib-torvinen",
+    "date_bce_ce": "500–1000 CE",
+    "type_ids": [
+      "type-la-quemada-storage"
+    ],
+    "bibliography_ids": [
+      "bib-003",
+      "bib-005"
+    ],
+    "privacy_level": "public",
+    "stewardship_status": "stewarded"
+  },
+  {
+    "ware_id": "ware-fine",
+    "name": "Fine Ware",
+    "alt_ware_name": [],
+    "region_id": "reg-gt-pet",
+    "period_id": "per-late-classic",
+    "date_range_start": 600,
+    "date_range_end": 900,
+    "description": "Highly refined paste with very fine, sparse inclusions; thin walls and polished surfaces. Elite serving contexts.",
+    "contributor_id": "contrib-ixchel",
+    "date_bce_ce": "600–900 CE",
+    "type_ids": [
+      "type-chichen-slate-basin",
+      "type-tikal-cream-polychrome"
+    ],
+    "bibliography_ids": [
+      "bib-008",
+      "bib-014",
+      "bib-019",
+      "bib-024"
+    ],
+    "privacy_level": "public",
+    "stewardship_status": "stewarded"
+  },
+  {
+    "ware_id": "ware-coarse",
+    "name": "Coarse Ware",
+    "alt_ware_name": [],
+    "region_id": "reg-pe-anc",
+    "period_id": "per-initial-peru",
+    "date_range_start": -1600,
+    "date_range_end": -700,
+    "description": "Poorly sorted, coarsely tempered domestic ware. Scraped interiors and irregular firing cores are typical.",
+    "contributor_id": "contrib-quispe",
+    "date_bce_ce": "1600 BCE–-700 CE",
+    "type_ids": [
+      "type-sechin-coarse-olla"
+    ],
+    "bibliography_ids": [
+      "bib-015"
+    ],
+    "privacy_level": "public",
+    "stewardship_status": "stewarded"
+  },
+  {
+    "ware_id": "ware-thin-orange",
+    "name": "Thin Orange Ware",
+    "alt_ware_name": [
+      "Anaranjado Delgado"
+    ],
+    "region_id": "reg-mx-mex",
+    "period_id": "per-early-classic",
+    "date_range_start": 200,
+    "date_range_end": 550,
+    "description": "Distinctive thin-walled orange ware with kaolinitic paste, produced in southern Puebla and distributed via Teotihuacan.",
+    "contributor_id": "contrib-nelson",
+    "date_bce_ce": "200–550 CE",
+    "type_ids": [
+      "type-thin-orange-bowl"
+    ],
+    "bibliography_ids": [
+      "bib-006"
+    ],
+    "privacy_level": "public",
+    "stewardship_status": "stewarded"
+  },
+  {
+    "ware_id": "ware-plumbate",
+    "name": "Plumbate Ware",
+    "alt_ware_name": [
+      "Plomizo"
+    ],
+    "region_id": "reg-gt-pet",
+    "period_id": "per-postclassic",
+    "date_range_start": 900,
+    "date_range_end": 1200,
+    "description": "Vitrified slip ware with a lustrous grey-green surface produced by high-temperature firing. Widely traded in the Postclassic.",
+    "contributor_id": "contrib-ixchel",
+    "date_bce_ce": "900–1200 CE",
+    "type_ids": [
+      "type-plumbate-effigy"
+    ],
+    "bibliography_ids": [
+      "bib-013"
+    ],
+    "privacy_level": "public",
+    "stewardship_status": "stewarded"
+  },
+  {
+    "ware_id": "ware-red-slipped",
+    "name": "Red-Slipped Ware",
+    "alt_ware_name": [
+      "Rojo Engobado"
+    ],
+    "region_id": "reg-hn-cop",
+    "period_id": "per-late-classic",
+    "date_range_start": 400,
+    "date_range_end": 950,
+    "description": "Iron-rich red slip applied over a buff or brown paste, burnished to a soft sheen. Common in domestic serving assemblages.",
+    "contributor_id": "contrib-alvarez",
+    "date_bce_ce": "400–950 CE",
+    "type_ids": [
+      "type-copador-polychrome"
+    ],
+    "bibliography_ids": [
+      "bib-009",
+      "bib-023"
+    ],
+    "privacy_level": "public",
+    "stewardship_status": "stewarded"
+  },
+  {
+    "ware_id": "ware-gray",
+    "name": "Gray Ware",
+    "alt_ware_name": [
+      "Gris"
+    ],
+    "region_id": "reg-mx-oax",
+    "period_id": "per-classic",
+    "date_range_start": -500,
+    "date_range_end": 800,
+    "description": "Reduction-fired grey ware characteristic of the Valley of Oaxaca; even dark cores indicate controlled firing atmospheres.",
+    "contributor_id": "contrib-michelaki",
+    "date_bce_ce": "500 BCE–800 CE",
+    "type_ids": [
+      "type-monte-alban-gray-bowl"
+    ],
+    "bibliography_ids": [
+      "bib-007",
+      "bib-017"
+    ],
+    "privacy_level": "public",
+    "stewardship_status": "stewarded"
+  },
+  {
+    "ware_id": "ware-hohokam-plain",
+    "name": "Hohokam Plainware",
+    "alt_ware_name": [
+      "Hohokam plain ware"
+    ],
+    "region_id": "reg-us-phx",
+    "period_id": "per-sedentary",
+    "date_range_start": 500,
+    "date_range_end": 1450,
+    "description": "Undecorated Hohokam utility ware, separated into types by the temper the potter had to hand — micaceous schist, phyllite, or crushed granitic sand.",
+    "contributor_id": "contrib-torvinen",
+    "date_bce_ce": "500–1450 CE",
+    "type_ids": [
+      "type-gila-plain"
+    ],
+    "bibliography_ids": [],
+    "privacy_level": "public",
+    "stewardship_status": "stewarded"
+  },
+  {
+    "ware_id": "ware-hohokam-red",
+    "name": "Hohokam Redware",
+    "alt_ware_name": [
+      "Hohokam red ware"
+    ],
+    "region_id": "reg-us-phx",
+    "period_id": "per-sedentary",
+    "date_range_start": 700,
+    "date_range_end": 1450,
+    "description": "Slipped red Hohokam serving ware, most often bowls with the slip carried over the interior.",
+    "contributor_id": "contrib-torvinen",
+    "date_bce_ce": "700–1450 CE",
+    "type_ids": [
+      "type-sacaton-red"
+    ],
+    "bibliography_ids": [],
+    "privacy_level": "public",
+    "stewardship_status": "community_reviewed"
+  }
+]

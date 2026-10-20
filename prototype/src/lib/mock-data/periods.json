@@ -1,0 +1,109 @@
+[
+  {
+    "period_id": "per-formative",
+    "term": "Formative",
+    "region_scope": "Pan-American",
+    "date_range_start": -1800,
+    "date_range_end": 250,
+    "description": "Emergence of sedentary village life, early ceramic production, and initial social differentiation.",
+    "periodo_id": "http://n2t.net/ark:/99152/p0qhb66"
+  },
+  {
+    "period_id": "per-preclassic",
+    "term": "Preclassic",
+    "region_scope": "Mesoamerica",
+    "date_range_start": -2000,
+    "date_range_end": 250,
+    "description": "Mesoamerican equivalent of the Formative; first monumental centres and regional ceramic traditions."
+  },
+  {
+    "period_id": "per-early-classic",
+    "term": "Early Classic",
+    "region_scope": "Mesoamerica",
+    "date_range_start": 200,
+    "date_range_end": 600,
+    "description": "Teotihuacan ascendancy and wide circulation of Thin Orange ware across Mesoamerica."
+  },
+  {
+    "period_id": "per-classic",
+    "term": "Classic",
+    "region_scope": "Mesoamerica",
+    "date_range_start": 250,
+    "date_range_end": 900,
+    "description": "Peak of lowland Maya and highland Mexican state formation; highly standardised serving wares."
+  },
+  {
+    "period_id": "per-late-classic",
+    "term": "Late Classic",
+    "region_scope": "Mesoamerica",
+    "date_range_start": 600,
+    "date_range_end": 900,
+    "description": "Regional polychrome traditions proliferate; intensified inter-site exchange."
+  },
+  {
+    "period_id": "per-epiclassic",
+    "term": "Epiclassic",
+    "region_scope": "Mesoamerica",
+    "date_range_start": 600,
+    "date_range_end": 900,
+    "description": "Post-Teotihuacan reorganisation; northern frontier centres such as La Quemada flourish."
+  },
+  {
+    "period_id": "per-terminal-classic",
+    "term": "Terminal Classic",
+    "region_scope": "Mesoamerica",
+    "date_range_start": 800,
+    "date_range_end": 1000,
+    "description": "Political restructuring in the Maya lowlands; slate wares dominate northern Yucatán."
+  },
+  {
+    "period_id": "per-postclassic",
+    "term": "Postclassic",
+    "region_scope": "Mesoamerica",
+    "date_range_start": 900,
+    "date_range_end": 1521,
+    "description": "Widespread trade networks, Plumbate and Fine Orange circulation, new political capitals."
+  },
+  {
+    "period_id": "per-conte",
+    "term": "Conte Phase",
+    "region_scope": "Central Panama",
+    "date_range_start": 700,
+    "date_range_end": 900,
+    "description": "Central Panamanian polychrome horizon associated with the Sitio Conte cemetery."
+  },
+  {
+    "period_id": "per-tonosi",
+    "term": "Tonosí Phase",
+    "region_scope": "Central Panama",
+    "date_range_start": 200,
+    "date_range_end": 550,
+    "description": "Early polychrome development on the Pacific slope of Panama."
+  },
+  {
+    "period_id": "per-initial-peru",
+    "term": "Initial Period",
+    "region_scope": "Andes",
+    "date_range_start": -1800,
+    "date_range_end": -800,
+    "description": "Monumental coastal architecture in Peru; plain and incised utilitarian assemblages."
+  },
+  {
+    "period_id": "per-sedentary",
+    "term": "Sedentary",
+    "region_scope": "US Southwest",
+    "date_range_start": 900,
+    "date_range_end": 1150,
+    "description": "Hohokam Sedentary period; red-on-buff decorated wares at their widest distribution.",
+    "periodo_id": null
+  },
+  {
+    "period_id": "per-hohokam-classic",
+    "term": "Hohokam Classic",
+    "region_scope": "US Southwest",
+    "date_range_start": 1150,
+    "date_range_end": 1450,
+    "description": "Hohokam Classic period; platform mounds, adobe compounds, and the spread of Salado polychromes.",
+    "periodo_id": null
+  }
+]
