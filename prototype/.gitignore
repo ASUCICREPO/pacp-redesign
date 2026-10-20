@@ -40,3 +40,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# The repository root ignores *.js — a CDK rule for compiled TypeScript
+# output. This is a Next.js app whose source includes hand-written .js
+# modules, so re-include them here. Without this, `git add` drops them
+# silently and the build fails on unresolved imports.
+!*.js
