@@ -1,0 +1,186 @@
+[
+  {
+    "contributor_id": "contrib-torvinen",
+    "first_name": "Andrea",
+    "last_name": "Torvinen",
+    "title": "Dr.",
+    "affiliation": "Arizona State University",
+    "orcid": "0000-0002-1825-0097",
+    "email": "a.torvinen@example.edu",
+    "role": "specialist",
+    "expertise_tags": [
+      "Northern Mesoamerica",
+      "Epiclassic ceramics",
+      "Compositional analysis"
+    ],
+    "bio": "Ceramic specialist working on the Epiclassic Malpaso Valley, with a focus on compositional approaches to production organisation on the northern Mesoamerican frontier.",
+    "contribution_stats": {
+      "vessels_contributed": 2,
+      "reviews_given": 0,
+      "discussion_posts": 1,
+      "alternate_interpretations_offered": 0
+    },
+    "joined_at": "2025-09-01"
+  },
+  {
+    "contributor_id": "contrib-michelaki",
+    "first_name": "Konstantina-Eleni",
+    "last_name": "Michelaki",
+    "title": "Dr.",
+    "affiliation": "Arizona State University",
+    "orcid": "0000-0001-5109-3700",
+    "email": "k.michelaki@example.edu",
+    "role": "specialist",
+    "expertise_tags": [
+      "Ceramic petrography",
+      "Technological choice",
+      "Communities of practice"
+    ],
+    "bio": "Petrographer and technologist interested in how potters' choices become visible in fabric, forming and firing evidence.",
+    "contribution_stats": {
+      "vessels_contributed": 2,
+      "reviews_given": 2,
+      "discussion_posts": 1,
+      "alternate_interpretations_offered": 2
+    },
+    "joined_at": "2025-09-01"
+  },
+  {
+    "contributor_id": "contrib-nelson",
+    "first_name": "Ben",
+    "last_name": "Nelson",
+    "title": "Prof.",
+    "affiliation": "Arizona State University",
+    "orcid": "0000-0003-4820-1155",
+    "email": "b.nelson@example.edu",
+    "role": "specialist",
+    "expertise_tags": [
+      "Basin of Mexico",
+      "Thin Orange ware",
+      "Exchange networks"
+    ],
+    "bio": "Works on Classic-period exchange and the circulation of Thin Orange ware beyond the Basin of Mexico.",
+    "contribution_stats": {
+      "vessels_contributed": 3,
+      "reviews_given": 1,
+      "discussion_posts": 1,
+      "alternate_interpretations_offered": 1
+    },
+    "joined_at": "2025-09-01"
+  },
+  {
+    "contributor_id": "contrib-ixchel",
+    "first_name": "Ixchel",
+    "last_name": "Rivera",
+    "title": "Dr.",
+    "affiliation": "Universidad de San Carlos de Guatemala",
+    "orcid": "0000-0002-9931-4410",
+    "email": "i.rivera@example.edu",
+    "role": "specialist",
+    "expertise_tags": [
+      "Maya lowlands",
+      "Late Classic polychromes",
+      "Calcite fabrics"
+    ],
+    "bio": "Lowland Maya ceramicist focused on Late Classic serving assemblages and calcite-tempered production in the Petén.",
+    "contribution_stats": {
+      "vessels_contributed": 3,
+      "reviews_given": 3,
+      "discussion_posts": 1,
+      "alternate_interpretations_offered": 3
+    },
+    "joined_at": "2025-09-01"
+  },
+  {
+    "contributor_id": "contrib-alvarez",
+    "first_name": "Marisol",
+    "last_name": "Álvarez",
+    "title": "Dr.",
+    "affiliation": "Instituto Hondureño de Antropología e Historia",
+    "orcid": "0000-0001-7742-2036",
+    "email": "m.alvarez@example.edu",
+    "role": "crm_archaeologist",
+    "expertise_tags": [
+      "Southeastern Maya periphery",
+      "Copador polychromes",
+      "CRM compliance"
+    ],
+    "bio": "Regional archaeologist balancing compliance survey work with long-term research on Copán valley ceramic production.",
+    "contribution_stats": {
+      "vessels_contributed": 5,
+      "reviews_given": 0,
+      "discussion_posts": 1,
+      "alternate_interpretations_offered": 0
+    },
+    "joined_at": "2025-09-01"
+  },
+  {
+    "contributor_id": "contrib-quispe",
+    "first_name": "Rosa",
+    "last_name": "Quispe",
+    "title": "Dr.",
+    "affiliation": "Pontificia Universidad Católica del Perú",
+    "orcid": "0000-0003-2216-8804",
+    "email": "r.quispe@example.edu",
+    "role": "specialist",
+    "expertise_tags": [
+      "Andean coast",
+      "Initial Period",
+      "Utilitarian wares"
+    ],
+    "bio": "Specialist in Initial Period coastal Peru, working on domestic assemblages and the organisation of household production.",
+    "contribution_stats": {
+      "vessels_contributed": 3,
+      "reviews_given": 0,
+      "discussion_posts": 1,
+      "alternate_interpretations_offered": 0
+    },
+    "joined_at": "2025-09-01"
+  },
+  {
+    "contributor_id": "contrib-brenes",
+    "first_name": "Diego",
+    "last_name": "Brenes",
+    "title": "",
+    "affiliation": "Universidad de Panamá",
+    "orcid": "0000-0002-6613-9982",
+    "email": "d.brenes@example.edu",
+    "role": "graduate_student",
+    "expertise_tags": [
+      "Central Panama",
+      "Coclé polychromes",
+      "Mortuary assemblages"
+    ],
+    "bio": "Doctoral candidate reassessing the Conte–Macaracas transition using legacy museum collections from central Panama.",
+    "contribution_stats": {
+      "vessels_contributed": 7,
+      "reviews_given": 1,
+      "discussion_posts": 2,
+      "alternate_interpretations_offered": 1
+    },
+    "joined_at": "2025-09-01"
+  },
+  {
+    "contributor_id": "contrib-vasquez",
+    "first_name": "Ana",
+    "last_name": "Vásquez",
+    "title": "",
+    "affiliation": "Universidad Nacional Autónoma de México",
+    "orcid": "0000-0001-3348-5527",
+    "email": "a.vasquez@example.edu",
+    "role": "graduate_student",
+    "expertise_tags": [
+      "Northern Yucatán",
+      "Slate wares",
+      "Terminal Classic chronology"
+    ],
+    "bio": "Graduate researcher working on Sotuta-sphere slate wares and the chronology of the Terminal Classic in northern Yucatán.",
+    "contribution_stats": {
+      "vessels_contributed": 5,
+      "reviews_given": 1,
+      "discussion_posts": 1,
+      "alternate_interpretations_offered": 1
+    },
+    "joined_at": "2025-09-01"
+  }
+]

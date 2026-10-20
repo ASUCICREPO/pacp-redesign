@@ -1,0 +1,1095 @@
+{
+  "source": "curated",
+  "note": "Curated by hand from the report for demonstration. Quote verification and totals checks were computed with the same code the live pipeline uses. This is not Claude output.",
+  "document": {
+    "fileName": "pueblo_grande_ssi_vol-3pt-1.pdf",
+    "title": "The Pueblo Grande Project: Ceramics and the Production and Exchange of Pottery in the Central Phoenix Basin, Part One",
+    "totalPages": 489,
+    "pageRange": [
+      1,
+      489
+    ]
+  },
+  "citation": "Abbott, David R. (editor) 1994. The Pueblo Grande Project: Ceramics and the Production and Exchange of Pottery in the Central Phoenix Basin, Part One. Soil Systems Publications in Archaeology No. 20, Vol. 3. tDAR id 4547. doi:10.6067/XCV8XW4H60",
+  "chunks": [
+    [
+      1,
+      20
+    ],
+    [
+      21,
+      40
+    ],
+    [
+      41,
+      60
+    ],
+    [
+      61,
+      80
+    ],
+    [
+      81,
+      100
+    ],
+    [
+      101,
+      120
+    ],
+    [
+      121,
+      140
+    ],
+    [
+      141,
+      160
+    ],
+    [
+      161,
+      180
+    ],
+    [
+      181,
+      200
+    ],
+    [
+      201,
+      220
+    ],
+    [
+      221,
+      240
+    ],
+    [
+      241,
+      260
+    ],
+    [
+      261,
+      280
+    ],
+    [
+      281,
+      300
+    ],
+    [
+      301,
+      320
+    ],
+    [
+      321,
+      340
+    ],
+    [
+      341,
+      360
+    ],
+    [
+      361,
+      380
+    ],
+    [
+      381,
+      400
+    ],
+    [
+      401,
+      420
+    ],
+    [
+      421,
+      440
+    ],
+    [
+      441,
+      460
+    ],
+    [
+      461,
+      480
+    ],
+    [
+      481,
+      489
+    ]
+  ],
+  "items": [
+    {
+      "id": "c1-ceramic_type-0",
+      "kind": "ceramic_type",
+      "title": "Wingfield Plain",
+      "subtitle": "type of Hohokam plainware",
+      "fields": [
+        {
+          "label": "Category",
+          "value": "type"
+        },
+        {
+          "label": "Belongs to",
+          "value": "Hohokam plainware"
+        },
+        {
+          "label": "Diagnostic traits",
+          "value": "Phyllite temper"
+        }
+      ],
+      "pages": [
+        35
+      ],
+      "quote": "The first four temper types are the defining criteria for the traditional type-variety classification of Hohokam plainware",
+      "confidence": "possible",
+      "reasoning": "The report lists four temper types (phyllite, Squaw Peak Schist, micaceous schist, sand) and then four plainware types. Pairing Wingfield Plain with phyllite relies on that list order, which the text implies but does not state row by row — worth confirming against the cited type descriptions.",
+      "verification": "verified",
+      "checks": []
+    },
+    {
+      "id": "c1-ceramic_type-1",
+      "kind": "ceramic_type",
+      "title": "Squaw Peak Plain",
+      "subtitle": "type of Hohokam plainware",
+      "fields": [
+        {
+          "label": "Category",
+          "value": "type"
+        },
+        {
+          "label": "Belongs to",
+          "value": "Hohokam plainware"
+        },
+        {
+          "label": "Diagnostic traits",
+          "value": "Squaw Peak Schist temper"
+        }
+      ],
+      "pages": [
+        35
+      ],
+      "quote": "Wingfield Plain, Squaw Peak Plain, Gila Plain-Gila variety, and Gila Plain-Salt variety",
+      "confidence": "possible",
+      "reasoning": "Temper pairing inferred from the order of the two lists, as with Wingfield Plain. The report later notes that \"white metamorphic grains\" proved to be a variant of Squaw Peak Schist and folded them into this category.",
+      "verification": "verified",
+      "checks": []
+    },
+    {
+      "id": "c1-ceramic_type-2",
+      "kind": "ceramic_type",
+      "title": "Gila Plain, Gila variety",
+      "subtitle": "variety of Gila Plain",
+      "fields": [
+        {
+          "label": "Category",
+          "value": "variety"
+        },
+        {
+          "label": "Belongs to",
+          "value": "Gila Plain"
+        },
+        {
+          "label": "Diagnostic traits",
+          "value": "Micaceous schist temper"
+        }
+      ],
+      "pages": [
+        35
+      ],
+      "quote": "Wingfield Plain, Squaw Peak Plain, Gila Plain-Gila variety, and Gila Plain-Salt variety",
+      "confidence": "possible",
+      "reasoning": "Temper pairing inferred from list order. Recorded as a variety because the report uses the type-variety system explicitly.",
+      "verification": "verified",
+      "checks": []
+    },
+    {
+      "id": "c1-ceramic_type-3",
+      "kind": "ceramic_type",
+      "title": "Sacaton Red",
+      "subtitle": "type of Hohokam redware",
+      "fields": [
+        {
+          "label": "Category",
+          "value": "type"
+        },
+        {
+          "label": "Belongs to",
+          "value": "Hohokam redware"
+        },
+        {
+          "label": "Date or phase",
+          "value": "Typological antecedent to Classic period redware"
+        },
+        {
+          "label": "Diagnostic traits",
+          "value": "Heavy raspberry-red slip, usually on bowl interiors; occasionally slipped on exteriors of jars and bowls"
+        }
+      ],
+      "pages": [
+        35
+      ],
+      "quote": "It is characterized by a heavy, raspberry red slip that is usually applied to the interior surface of bowls.",
+      "confidence": "probable",
+      "reasoning": "Stated directly, with sources (Abbott and Gregory 1988; Gladwin et al. 1937). The exterior-slip exception is also in the text.",
+      "verification": "verified",
+      "checks": []
+    },
+    {
+      "id": "c1-ceramic_type-4",
+      "kind": "ceramic_type",
+      "title": "Phoenix Red",
+      "subtitle": "type of Hohokam redware",
+      "fields": [
+        {
+          "label": "Category",
+          "value": "type"
+        },
+        {
+          "label": "Belongs to",
+          "value": "Hohokam redware"
+        },
+        {
+          "label": "Date or phase",
+          "value": "Largely confined to the late Classic"
+        },
+        {
+          "label": "Diagnostic traits",
+          "value": "Distinct magenta slip; muddy core commonly with a carbon streak; no smudging"
+        }
+      ],
+      "pages": [
+        35
+      ],
+      "quote": "Phoenix Red is largely confined to the late Classic",
+      "confidence": "probable",
+      "reasoning": "Chronology and diagnostic traits are both stated explicitly on this page.",
+      "verification": "verified",
+      "checks": []
+    },
+    {
+      "id": "c19-ceramic_type-5",
+      "kind": "ceramic_type",
+      "title": "Salado Polychrome",
+      "subtitle": "type",
+      "fields": [
+        {
+          "label": "Category",
+          "value": "type"
+        },
+        {
+          "label": "Date or phase",
+          "value": "Civano and Polvorón contexts at Pueblo Grande"
+        },
+        {
+          "label": "Diagnostic traits",
+          "value": "Stylistically and technologically homogeneous at a broad level, but paste composition is heterogeneous"
+        }
+      ],
+      "pages": [
+        398
+      ],
+      "quote": "how Salado Polychrome came to be so widely distributed across the American Southwest",
+      "confidence": "probable",
+      "reasoning": "Chapter 7 opens by setting out a live debate: long-distance trade, migration, local production and competitive emulation have all been proposed. That disagreement is the substance of the record, so it should stay visible rather than be resolved into one explanation.",
+      "verification": "verified",
+      "checks": []
+    },
+    {
+      "id": "c1-assemblage_count-6",
+      "kind": "assemblage_count",
+      "title": "Sacaton component",
+      "subtitle": "Table 2.1",
+      "fields": [
+        {
+          "label": "Source table",
+          "value": "Table 2.1"
+        },
+        {
+          "label": "Plainware",
+          "value": "21,024"
+        },
+        {
+          "label": "Redware",
+          "value": "1,476"
+        },
+        {
+          "label": "Decorated",
+          "value": "1,664"
+        },
+        {
+          "label": "Salado Polychrome",
+          "value": "19"
+        },
+        {
+          "label": "Red/Plain",
+          "value": "132"
+        },
+        {
+          "label": "Stated total",
+          "value": "24,315"
+        }
+      ],
+      "pages": [
+        37
+      ],
+      "quote": "Sacaton 21,024 1,476 1,664 19 132 24,315",
+      "confidence": "probable",
+      "reasoning": "Read from Table 2.1. This table's text layer interleaves row labels into the numbers, so these values come from the page layout rather than text order — the totals check below confirms the reading.",
+      "verification": "partial",
+      "checks": [
+        {
+          "label": "Totals reconcile",
+          "ok": true,
+          "detail": "21,024 + 1,476 + 1,664 + 19 + 132 = 24,315"
+        }
+      ]
+    },
+    {
+      "id": "c1-assemblage_count-7",
+      "kind": "assemblage_count",
+      "title": "Civano component",
+      "subtitle": "Table 2.1",
+      "fields": [
+        {
+          "label": "Source table",
+          "value": "Table 2.1"
+        },
+        {
+          "label": "Plainware",
+          "value": "46,869"
+        },
+        {
+          "label": "Redware",
+          "value": "10,172"
+        },
+        {
+          "label": "Decorated",
+          "value": "1,239"
+        },
+        {
+          "label": "Salado Polychrome",
+          "value": "474"
+        },
+        {
+          "label": "Red/Plain",
+          "value": "608"
+        },
+        {
+          "label": "Stated total",
+          "value": "59,362"
+        }
+      ],
+      "pages": [
+        37
+      ],
+      "quote": "Civano 46,869 10,172 1,239 474 608 59,362",
+      "confidence": "probable",
+      "reasoning": "Read from Table 2.1. This table's text layer interleaves row labels into the numbers, so these values come from the page layout rather than text order — the totals check below confirms the reading.",
+      "verification": "partial",
+      "checks": [
+        {
+          "label": "Totals reconcile",
+          "ok": true,
+          "detail": "46,869 + 10,172 + 1,239 + 474 + 608 = 59,362"
+        }
+      ]
+    },
+    {
+      "id": "c1-assemblage_count-8",
+      "kind": "assemblage_count",
+      "title": "Polvorón component",
+      "subtitle": "Table 2.1",
+      "fields": [
+        {
+          "label": "Source table",
+          "value": "Table 2.1"
+        },
+        {
+          "label": "Plainware",
+          "value": "25,498"
+        },
+        {
+          "label": "Redware",
+          "value": "8,288"
+        },
+        {
+          "label": "Decorated",
+          "value": "538"
+        },
+        {
+          "label": "Salado Polychrome",
+          "value": "889"
+        },
+        {
+          "label": "Red/Plain",
+          "value": "560"
+        },
+        {
+          "label": "Stated total",
+          "value": "35,773"
+        }
+      ],
+      "pages": [
+        37
+      ],
+      "quote": "Polvorón 25,498 8,288 538 889 560 35,773",
+      "confidence": "probable",
+      "reasoning": "Read from Table 2.1. This table's text layer interleaves row labels into the numbers, so these values come from the page layout rather than text order — the totals check below confirms the reading.",
+      "verification": "partial",
+      "checks": [
+        {
+          "label": "Totals reconcile",
+          "ok": true,
+          "detail": "25,498 + 8,288 + 538 + 889 + 560 = 35,773"
+        }
+      ]
+    },
+    {
+      "id": "c1-assemblage_count-9",
+      "kind": "assemblage_count",
+      "title": "All components (Total row)",
+      "subtitle": "Table 2.1",
+      "fields": [
+        {
+          "label": "Source table",
+          "value": "Table 2.1"
+        },
+        {
+          "label": "Plainware",
+          "value": "268,018"
+        },
+        {
+          "label": "Redware",
+          "value": "45,005"
+        },
+        {
+          "label": "Decorated",
+          "value": "11,751"
+        },
+        {
+          "label": "Salado Polychrome",
+          "value": "2,067"
+        },
+        {
+          "label": "Red/Plain",
+          "value": "3,269"
+        },
+        {
+          "label": "Stated total",
+          "value": "330,190"
+        }
+      ],
+      "pages": [
+        37
+      ],
+      "quote": "Total 268,018 45,005 11,751 2,067 3,269 330,190",
+      "confidence": "possible",
+      "reasoning": "Values recorded exactly as printed, but they do not add up. Summing the Redware column's nine rows gives 45,085, not the printed 45,005, while every individual row reconciles and the grand total matches the row totals. The printed 13.7% Redware share also fits 45,085. The printed Redware total is probably a typo in the original report — flagged rather than silently corrected.",
+      "verification": "partial",
+      "checks": [
+        {
+          "label": "Totals do not reconcile",
+          "ok": false,
+          "detail": "Categories sum to 330,110, but the stated total is 330,190. Either a value was misread or the printed table is itself inconsistent — check the page."
+        }
+      ]
+    },
+    {
+      "id": "c8-assemblage_count-10",
+      "kind": "assemblage_count",
+      "title": "Whole and reconstructible bowls, by ware",
+      "subtitle": "Table 5.1",
+      "fields": [
+        {
+          "label": "Source table",
+          "value": "Table 5.1"
+        },
+        {
+          "label": "Plain",
+          "value": "635"
+        },
+        {
+          "label": "Red",
+          "value": "536"
+        },
+        {
+          "label": "Red/Plain?",
+          "value": "23"
+        },
+        {
+          "label": "Red-on-buff",
+          "value": "1"
+        },
+        {
+          "label": "Brown-paste variant",
+          "value": "1"
+        },
+        {
+          "label": "Salado Polychrome",
+          "value": "6"
+        },
+        {
+          "label": "Other intrusives",
+          "value": "1"
+        },
+        {
+          "label": "Stated total",
+          "value": "1,203"
+        }
+      ],
+      "pages": [
+        177
+      ],
+      "quote": "Bowls 635 536 23 1 1 6 1 1,203",
+      "confidence": "probable",
+      "reasoning": "This volume reports whole vessels in aggregate (ware by form) rather than as individual catalogued pots, so they are extracted as assemblage counts, not vessel records. The table's text layer is badly scrambled; values come from the page layout.",
+      "verification": "partial",
+      "checks": [
+        {
+          "label": "Totals reconcile",
+          "ok": true,
+          "detail": "635 + 536 + 23 + 1 + 1 + 6 + 1 = 1,203"
+        }
+      ]
+    },
+    {
+      "id": "c8-assemblage_count-11",
+      "kind": "assemblage_count",
+      "title": "Whole and reconstructible jars, by ware",
+      "subtitle": "Table 5.1",
+      "fields": [
+        {
+          "label": "Source table",
+          "value": "Table 5.1"
+        },
+        {
+          "label": "Plain",
+          "value": "342"
+        },
+        {
+          "label": "Red",
+          "value": "134"
+        },
+        {
+          "label": "Red/Plain?",
+          "value": "11"
+        },
+        {
+          "label": "Red-on-buff",
+          "value": "33"
+        },
+        {
+          "label": "Salado Polychrome",
+          "value": "9"
+        },
+        {
+          "label": "Other intrusives",
+          "value": "6"
+        },
+        {
+          "label": "Stated total",
+          "value": "535"
+        }
+      ],
+      "pages": [
+        177
+      ],
+      "quote": "Jars 342 134 11 33 9 6 535",
+      "confidence": "possible",
+      "reasoning": "The jars row has one empty cell, so assigning its six values to columns depends on reading the column positions on the page. Confirm which ware column is blank before accepting.",
+      "verification": "partial",
+      "checks": [
+        {
+          "label": "Totals reconcile",
+          "ok": true,
+          "detail": "342 + 134 + 11 + 33 + 9 + 6 = 535"
+        }
+      ]
+    },
+    {
+      "id": "c3-site-12",
+      "kind": "site",
+      "title": "La Ciudad",
+      "subtitle": null,
+      "fields": [
+        {
+          "label": "Region",
+          "value": "Central Phoenix Basin"
+        },
+        {
+          "label": "Notes",
+          "value": "Ceramic temper classification compared against the Pueblo Grande sand composition zones"
+        }
+      ],
+      "pages": [
+        69
+      ],
+      "quote": "Table 3.4. Ceramic Temper Classification for La Ciudad.",
+      "confidence": "probable",
+      "reasoning": "Named in a Chapter 3 table title as a comparative collection. No site number is given on this page, so it is left blank rather than looked up.",
+      "verification": "verified",
+      "checks": []
+    },
+    {
+      "id": "c3-site-13",
+      "kind": "site",
+      "title": "La Lomita Pequeña",
+      "subtitle": null,
+      "fields": [
+        {
+          "label": "Region",
+          "value": "Central Phoenix Basin"
+        },
+        {
+          "label": "Notes",
+          "value": "Ceramic temper classification compared against the Pueblo Grande sand composition zones"
+        }
+      ],
+      "pages": [
+        71
+      ],
+      "quote": "Ceramic Temper Classification for La Lomita Pequeña",
+      "confidence": "probable",
+      "reasoning": "Named in a Chapter 3 table title as a comparative collection. No site number is given on this page, so it is left blank rather than looked up.",
+      "verification": "verified",
+      "checks": []
+    },
+    {
+      "id": "c3-site-14",
+      "kind": "site",
+      "title": "Casa Buena",
+      "subtitle": null,
+      "fields": [
+        {
+          "label": "Region",
+          "value": "Central Phoenix Basin"
+        },
+        {
+          "label": "Notes",
+          "value": "Ceramic temper classification compared against the Pueblo Grande sand composition zones"
+        }
+      ],
+      "pages": [
+        73
+      ],
+      "quote": "Ceramic Temper Classification for Casa Buena",
+      "confidence": "probable",
+      "reasoning": "Named in a Chapter 3 table title as a comparative collection. No site number is given on this page, so it is left blank rather than looked up.",
+      "verification": "verified",
+      "checks": []
+    },
+    {
+      "id": "c3-site-15",
+      "kind": "site",
+      "title": "Grand Canal Ruins",
+      "subtitle": null,
+      "fields": [
+        {
+          "label": "Region",
+          "value": "Central Phoenix Basin"
+        },
+        {
+          "label": "Notes",
+          "value": "Ceramic temper classification compared against the Pueblo Grande sand composition zones"
+        }
+      ],
+      "pages": [
+        75
+      ],
+      "quote": "Ceramic Temper Classification for Grand Canal Ruins",
+      "confidence": "probable",
+      "reasoning": "Named in a Chapter 3 table title as a comparative collection. No site number is given on this page, so it is left blank rather than looked up.",
+      "verification": "verified",
+      "checks": []
+    },
+    {
+      "id": "c4-site-16",
+      "kind": "site",
+      "title": "Pueblo Grande",
+      "subtitle": null,
+      "fields": [
+        {
+          "label": "Region",
+          "value": "Central Phoenix Basin"
+        },
+        {
+          "label": "Periods",
+          "value": "Late Sedentary and Classic (Sacaton, Soho, Civano, Polvorón components)"
+        },
+        {
+          "label": "Notes",
+          "value": "The project site; source of the petrographic sample in Table 3.10"
+        }
+      ],
+      "pages": [
+        81
+      ],
+      "quote": "Table 3.10. Pueblo Grande Project Petrographic Sample",
+      "confidence": "probable",
+      "reasoning": "The report's own subject. Its temporal components come from Table 2.1. The ASM site number does not appear in the extracted pages, so it is left blank.",
+      "verification": "verified",
+      "checks": []
+    },
+    {
+      "id": "c3-petrographic_sample-17",
+      "kind": "petrographic_sample",
+      "title": "14:84:2",
+      "subtitle": "Santan Mountains",
+      "fields": [
+        {
+          "label": "Site",
+          "value": "Santan Mountains"
+        },
+        {
+          "label": "Ware / type",
+          "value": "Salt Red"
+        },
+        {
+          "label": "Temper or sand zone",
+          "value": "Camelback Granite?"
+        },
+        {
+          "label": "Notes",
+          "value": "Table 3.9"
+        }
+      ],
+      "pages": [
+        80
+      ],
+      "quote": "14:84:2 Salt Red Camelback Granite?",
+      "confidence": "tentative",
+      "reasoning": "The report itself marks this sand composition zone with a question mark. That uncertainty is carried through as \"tentative\" rather than dropped.",
+      "verification": "verified",
+      "checks": []
+    },
+    {
+      "id": "c3-petrographic_sample-18",
+      "kind": "petrographic_sample",
+      "title": "14:84:4",
+      "subtitle": "Santan Mountains",
+      "fields": [
+        {
+          "label": "Site",
+          "value": "Santan Mountains"
+        },
+        {
+          "label": "Ware / type",
+          "value": "Gila Red"
+        },
+        {
+          "label": "Temper or sand zone",
+          "value": "Micaceous schist"
+        },
+        {
+          "label": "Notes",
+          "value": "Table 3.9"
+        }
+      ],
+      "pages": [
+        80
+      ],
+      "quote": "14:84:4 Gila Red Micaceous schist",
+      "confidence": "probable",
+      "reasoning": "A clean table row. Archaeological classification by Archaeological Consulting Services; sand zone as determined for the Pueblo Grande project, per the table note.",
+      "verification": "verified",
+      "checks": []
+    },
+    {
+      "id": "c3-petrographic_sample-19",
+      "kind": "petrographic_sample",
+      "title": "14:84:6",
+      "subtitle": "Santan Mountains",
+      "fields": [
+        {
+          "label": "Site",
+          "value": "Santan Mountains"
+        },
+        {
+          "label": "Ware / type",
+          "value": "Wingfield Plain"
+        },
+        {
+          "label": "Temper or sand zone",
+          "value": "Squaw Peak Schist"
+        },
+        {
+          "label": "Notes",
+          "value": "Table 3.9"
+        }
+      ],
+      "pages": [
+        80
+      ],
+      "quote": "14:84:6 Wingfield Plain squaw Peak schist",
+      "confidence": "probable",
+      "reasoning": "Worth a second look for a student: Wingfield Plain is normally defined by phyllite temper, but this sherd's sand zone is Squaw Peak Schist. A useful case of a type label and a petrographic result not lining up.",
+      "verification": "verified",
+      "checks": []
+    },
+    {
+      "id": "c3-petrographic_sample-20",
+      "kind": "petrographic_sample",
+      "title": "10:24:7",
+      "subtitle": "Santan Mountains",
+      "fields": [
+        {
+          "label": "Site",
+          "value": "Santan Mountains"
+        },
+        {
+          "label": "Ware / type",
+          "value": "Gila Plain, Salt Variety"
+        },
+        {
+          "label": "Temper or sand zone",
+          "value": "South Mountain Granodiorite"
+        },
+        {
+          "label": "Notes",
+          "value": "Table 3.9"
+        }
+      ],
+      "pages": [
+        80
+      ],
+      "quote": "10:24:7 Gila Plain, Salt Variety South Mountain Granodiorite",
+      "confidence": "probable",
+      "reasoning": "A clean table row from the Santan Mountains collection.",
+      "verification": "verified",
+      "checks": []
+    },
+    {
+      "id": "c4-petrographic_sample-21",
+      "kind": "petrographic_sample",
+      "title": "RMS-5",
+      "subtitle": "Pueblo Grande",
+      "fields": [
+        {
+          "label": "Site",
+          "value": "Pueblo Grande"
+        },
+        {
+          "label": "Ware / type",
+          "value": "Red"
+        },
+        {
+          "label": "Temper or sand zone",
+          "value": "Micaceous Schist"
+        },
+        {
+          "label": "Notes",
+          "value": "Table 3.10"
+        }
+      ],
+      "pages": [
+        81
+      ],
+      "quote": "RMS-5 Pueblo Grande Red Micaceous Schist",
+      "confidence": "possible",
+      "reasoning": "Table 3.10 prints each column as its own block in the text layer, so the sample, site, ware and zone for this row can only be aligned from the page layout. Check the row on the page before accepting.",
+      "verification": "partial",
+      "checks": []
+    },
+    {
+      "id": "c4-petrographic_sample-22",
+      "kind": "petrographic_sample",
+      "title": "SQP-1",
+      "subtitle": "Pueblo Grande",
+      "fields": [
+        {
+          "label": "Site",
+          "value": "Pueblo Grande"
+        },
+        {
+          "label": "Ware / type",
+          "value": "Plain"
+        },
+        {
+          "label": "Temper or sand zone",
+          "value": "Squaw Peak Schist"
+        },
+        {
+          "label": "Notes",
+          "value": "Table 3.10"
+        }
+      ],
+      "pages": [
+        81
+      ],
+      "quote": "SQP-1 Pueblo Grande Plain Squaw Peak Schist",
+      "confidence": "possible",
+      "reasoning": "Table 3.10 prints each column as its own block in the text layer, so the sample, site, ware and zone for this row can only be aligned from the page layout. Check the row on the page before accepting.",
+      "verification": "partial",
+      "checks": []
+    },
+    {
+      "id": "c22-reference-23",
+      "kind": "reference",
+      "title": "Technological Stability and Change in Hohokam Red Wares of the Salt-Gila Aqueduct Area",
+      "subtitle": "Abbott, David R. · 1982",
+      "fields": [
+        {
+          "label": "Authors",
+          "value": "Abbott, David R."
+        },
+        {
+          "label": "Year",
+          "value": "1982"
+        },
+        {
+          "label": "Publication",
+          "value": "Paper presented at the 47th Annual Meeting of the Society for American Archaeology, Minneapolis"
+        }
+      ],
+      "pages": [
+        460
+      ],
+      "quote": "Technological Stability and Change in Hohokam Red Wares of the Salt-Gila Aqueduct Area",
+      "confidence": "probable",
+      "reasoning": "A clean single entry at the top of the reference list.",
+      "verification": "verified",
+      "checks": []
+    },
+    {
+      "id": "c22-reference-24",
+      "kind": "reference",
+      "title": "Form, Function, Technology, and Style in Hohokam Ceramics",
+      "subtitle": "Abbott, David R. · 1988",
+      "fields": [
+        {
+          "label": "Authors",
+          "value": "Abbott, David R."
+        },
+        {
+          "label": "Year",
+          "value": "1988"
+        },
+        {
+          "label": "Publication",
+          "value": "In The 1982-1984 Excavations at Las Colinas: Material Culture, pp. 73-198. Arizona State Museum Archaeological Series No. 162(4). Tucson"
+        }
+      ],
+      "pages": [
+        460
+      ],
+      "quote": "Form, Function, Technology, and Style in Hohokam Ceramics",
+      "confidence": "possible",
+      "reasoning": "Abbott's works from 1983 to 1993 are listed under one name, and the text layer separates all seven years from their titles. 1988 is the fourth year and this is the fourth title; confirm the pairing on the page.",
+      "verification": "verified",
+      "checks": []
+    },
+    {
+      "id": "c22-reference-25",
+      "kind": "reference",
+      "title": "Hohokam Ceramic Wares and Types",
+      "subtitle": "Abbott, David R.; Gregory, David A. · 1988",
+      "fields": [
+        {
+          "label": "Authors",
+          "value": "Abbott, David R.; Gregory, David A."
+        },
+        {
+          "label": "Year",
+          "value": "1988"
+        },
+        {
+          "label": "Publication",
+          "value": "In The 1982-1984 Excavations at Las Colinas: Material Culture"
+        }
+      ],
+      "pages": [
+        460
+      ],
+      "quote": "Hohokam Ceramic Wares and Types. In The 1982-1984 Excavations at Las Colinas",
+      "confidence": "probable",
+      "reasoning": "Cited repeatedly in Chapter 2 as the source for the ware and type definitions. The entry continues onto the next page, so the page range and series details should be completed there.",
+      "verification": "verified",
+      "checks": []
+    },
+    {
+      "id": "c23-reference-26",
+      "kind": "reference",
+      "title": "Intrusive Ceramic Wares and Types",
+      "subtitle": "Beckwith, Kim E. · 1988",
+      "fields": [
+        {
+          "label": "Authors",
+          "value": "Beckwith, Kim E."
+        },
+        {
+          "label": "Year",
+          "value": "1988"
+        },
+        {
+          "label": "Publication",
+          "value": "In The 1982-1984 Excavations at Las Colinas, Vol. 4: Material Culture, pp. 199-256. Arizona State Museum Archaeological Series No. 162. Tucson"
+        }
+      ],
+      "pages": [
+        462
+      ],
+      "quote": "Beckwith, Kim E. 1988 Intrusive Ceramic Wares and Types",
+      "confidence": "possible",
+      "reasoning": "The PDF's text layer reads this author as \"Rim E. Beckwith\", an OCR slip — the same list elsewhere names her \"Kim E. Beckwith\". The printed page is the authority here, which is why the quote does not match the text layer exactly.",
+      "verification": "partial",
+      "checks": []
+    },
+    {
+      "id": "c23-reference-27",
+      "kind": "reference",
+      "title": "Application of Multivariate Techniques to Analytical Data on Aegean Ceramics",
+      "subtitle": "Bieber, A.M., Jr.; Brooks, D. W.; Harbottle, G.; Sayre, E. V. · 1976",
+      "fields": [
+        {
+          "label": "Authors",
+          "value": "Bieber, A.M., Jr.; Brooks, D. W.; Harbottle, G.; Sayre, E. V."
+        },
+        {
+          "label": "Year",
+          "value": "1976"
+        },
+        {
+          "label": "Publication",
+          "value": "Archaeometry 18: 59-74"
+        }
+      ],
+      "pages": [
+        462
+      ],
+      "quote": "Application of Multivariate Techniques to Analytical Data on Aegean Ceramics",
+      "confidence": "probable",
+      "reasoning": "A clean entry. Relevant to the chemical-analysis methods in Chapter 4.",
+      "verification": "verified",
+      "checks": []
+    },
+    {
+      "id": "c23-reference-28",
+      "kind": "reference",
+      "title": "Soils and Geomorphology",
+      "subtitle": "Birkeland, Peter W. · 1984",
+      "fields": [
+        {
+          "label": "Authors",
+          "value": "Birkeland, Peter W."
+        },
+        {
+          "label": "Year",
+          "value": "1984"
+        },
+        {
+          "label": "Publication",
+          "value": "Oxford University Press, New York"
+        }
+      ],
+      "pages": [
+        462
+      ],
+      "quote": "1984 Soils and Geomorphology. Oxford University Press, New York.",
+      "confidence": "probable",
+      "reasoning": "A clean entry.",
+      "verification": "verified",
+      "checks": []
+    }
+  ],
+  "briefs": {
+    "crm_archaeologist": "A regional reference for Hohokam plainware, redware and Salado Polychrome in the central Phoenix Basin. Useful under deadline for the temper-based type definitions in Chapter 2, counts of wares by temporal component (Sacaton through Polvorón) in Table 2.1, and petrographic temper assignments for comparative collections in Chapter 3, which can support defensible attributions for sites in the same basin. The reference list is extensive and ready to cite. Treat sourcing results as interpretations tied to the sand composition zones this project defined.",
+    "graduate_student": "The volume argues that space is the understudied dimension of Hohokam ceramic analysis and sets out to separate production areas using temper petrography, chemical analysis and a whole vessel study. Its synthesis builds a model of late Sedentary and Classic period production and exchange, claiming exchanges can be traced over distances as short as 5 km. Chapter 7 is a good place to examine interpretive disagreement: trade, migration, local production and competitive emulation have all been proposed to explain how Salado Polychrome spread. Worth testing how far the production-area model depends on the sand composition zones.",
+    "undergraduate_student": "Archaeologists studied pottery from Pueblo Grande, a Hohokam village in what is now Phoenix, Arizona, to learn where pots were made and how they moved between communities. Much of the pottery looks similar, so they examined the tiny rock and sand grains mixed into the clay, called temper. Because different areas have different rocks, temper can hint at where a pot was made. The report compares pottery across several time periods and nearby sites, and discusses a well-known decorated style, Salado Polychrome, whose spread is still debated."
+  }
+}

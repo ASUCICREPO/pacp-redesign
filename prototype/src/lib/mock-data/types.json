@@ -1,0 +1,459 @@
+[
+  {
+    "type_id": "type-panama-plain",
+    "name": "Panama Plain",
+    "ware_id": "ware-buff",
+    "region_id": "reg-pa-coc",
+    "period_id": "per-conte",
+    "date_range_start": 600,
+    "date_range_end": 1100,
+    "date_bce_ce": "600–1100 CE",
+    "description": "Undecorated buff-paste bowls and jars with smoothed surfaces. The workhorse domestic type of central Panama.",
+    "alt_type_name": [
+      "Coclé Plain"
+    ],
+    "morphology_text": null,
+    "technology_text": null,
+    "petrofabric_id": "pf-vesicular-ash",
+    "kiln_workshop_id": null,
+    "bibliography_ids": [
+      "bib-010"
+    ],
+    "contributor_id": "contrib-brenes",
+    "discussion": [],
+    "acknowledgements": null,
+    "privacy_level": "public",
+    "stewardship_status": "stewarded"
+  },
+  {
+    "type_id": "type-cubita-polychrome",
+    "name": "Cubita Polychrome",
+    "ware_id": "ware-polychrome",
+    "region_id": "reg-pa-coc",
+    "period_id": "per-conte",
+    "date_range_start": 550,
+    "date_range_end": 700,
+    "date_bce_ce": "550–700 CE",
+    "description": "Early central Panamanian polychrome with black-outlined red curvilinear motifs on a cream slip.",
+    "alt_type_name": [],
+    "morphology_text": null,
+    "technology_text": null,
+    "petrofabric_id": "pf-vesicular-ash",
+    "kiln_workshop_id": null,
+    "bibliography_ids": [
+      "bib-010"
+    ],
+    "contributor_id": "contrib-brenes",
+    "discussion": [],
+    "acknowledgements": null,
+    "privacy_level": "public",
+    "stewardship_status": "stewarded"
+  },
+  {
+    "type_id": "type-tonosi-trichrome",
+    "name": "Tonosí Trichrome",
+    "ware_id": "ware-polychrome",
+    "region_id": "reg-pa-coc",
+    "period_id": "per-tonosi",
+    "date_range_start": 200,
+    "date_range_end": 550,
+    "date_bce_ce": "200–550 CE",
+    "description": "Three-colour painted plates and pedestal bowls; red and black on a buff to cream ground.",
+    "alt_type_name": [
+      "Tonosi Trichrome"
+    ],
+    "morphology_text": null,
+    "technology_text": null,
+    "petrofabric_id": "pf-vesicular-ash",
+    "kiln_workshop_id": null,
+    "bibliography_ids": [
+      "bib-011",
+      "bib-022"
+    ],
+    "contributor_id": "contrib-brenes",
+    "discussion": [],
+    "acknowledgements": null,
+    "privacy_level": "public",
+    "stewardship_status": "stewarded"
+  },
+  {
+    "type_id": "type-la-quemada-storage",
+    "name": "La Quemada Storage",
+    "ware_id": "ware-storage",
+    "region_id": "reg-mx-zac",
+    "period_id": "per-epiclassic",
+    "date_range_start": 600,
+    "date_range_end": 900,
+    "date_bce_ce": "600–900 CE",
+    "description": "Large thick-walled ollas with everted rims and heavy volcanic temper, used for bulk storage on terrace platforms.",
+    "alt_type_name": [],
+    "morphology_text": null,
+    "technology_text": null,
+    "petrofabric_id": "pf-volcanic-plagioclase",
+    "kiln_workshop_id": null,
+    "bibliography_ids": [
+      "bib-003",
+      "bib-005"
+    ],
+    "contributor_id": "contrib-torvinen",
+    "discussion": [],
+    "acknowledgements": null,
+    "privacy_level": "public",
+    "stewardship_status": "stewarded"
+  },
+  {
+    "type_id": "type-conte-polychrome",
+    "name": "Conte Polychrome",
+    "ware_id": "ware-polychrome",
+    "region_id": "reg-pa-coc",
+    "period_id": "per-conte",
+    "date_range_start": 700,
+    "date_range_end": 900,
+    "date_bce_ce": "700–900 CE",
+    "description": "Classic Coclé polychrome with zoomorphic and dancing-figure motifs in black and red over cream.",
+    "alt_type_name": [
+      "Coclé Polychrome"
+    ],
+    "morphology_text": null,
+    "technology_text": null,
+    "petrofabric_id": "pf-vesicular-ash",
+    "kiln_workshop_id": null,
+    "bibliography_ids": [
+      "bib-010",
+      "bib-011"
+    ],
+    "contributor_id": "contrib-brenes",
+    "discussion": [],
+    "acknowledgements": null,
+    "privacy_level": "public",
+    "stewardship_status": "stewarded"
+  },
+  {
+    "type_id": "type-macaracas-polychrome",
+    "name": "Macaracas Polychrome",
+    "ware_id": "ware-polychrome",
+    "region_id": "reg-pa-coc",
+    "period_id": "per-conte",
+    "date_range_start": 900,
+    "date_range_end": 1100,
+    "date_bce_ce": "900–1100 CE",
+    "description": "Late Coclé polychrome; broader panels and purple additions distinguish it from Conte.",
+    "alt_type_name": [],
+    "morphology_text": null,
+    "technology_text": null,
+    "petrofabric_id": "pf-vesicular-ash",
+    "kiln_workshop_id": null,
+    "bibliography_ids": [
+      "bib-010",
+      "bib-022"
+    ],
+    "contributor_id": "contrib-brenes",
+    "discussion": [],
+    "acknowledgements": null,
+    "privacy_level": "public",
+    "stewardship_status": "stewarded"
+  },
+  {
+    "type_id": "type-thin-orange-bowl",
+    "name": "Thin Orange Hemispherical Bowl",
+    "ware_id": "ware-thin-orange",
+    "region_id": "reg-mx-mex",
+    "period_id": "per-early-classic",
+    "date_range_start": 200,
+    "date_range_end": 550,
+    "date_bce_ce": "200–550 CE",
+    "description": "Thin-walled hemispherical bowls in kaolinitic orange paste, often with ring bases. A Teotihuacan-period trade marker.",
+    "alt_type_name": [],
+    "morphology_text": null,
+    "technology_text": null,
+    "petrofabric_id": "pf-fine-orange-paste",
+    "kiln_workshop_id": null,
+    "bibliography_ids": [
+      "bib-006"
+    ],
+    "contributor_id": "contrib-nelson",
+    "discussion": [],
+    "acknowledgements": null,
+    "privacy_level": "public",
+    "stewardship_status": "stewarded"
+  },
+  {
+    "type_id": "type-plumbate-effigy",
+    "name": "Plumbate Effigy Jar",
+    "ware_id": "ware-plumbate",
+    "region_id": "reg-gt-pet",
+    "period_id": "per-postclassic",
+    "date_range_start": 900,
+    "date_range_end": 1200,
+    "date_bce_ce": "900–1200 CE",
+    "description": "Modelled effigy jars with vitrified grey-green slip; long-distance Postclassic exchange item.",
+    "alt_type_name": [
+      "Tohil Plumbate"
+    ],
+    "morphology_text": null,
+    "technology_text": null,
+    "petrofabric_id": "pf-calcareous",
+    "kiln_workshop_id": null,
+    "bibliography_ids": [
+      "bib-013"
+    ],
+    "contributor_id": "contrib-ixchel",
+    "discussion": [],
+    "acknowledgements": null,
+    "privacy_level": "public",
+    "stewardship_status": "stewarded"
+  },
+  {
+    "type_id": "type-monte-alban-gray-bowl",
+    "name": "Monte Albán Grayware Bowl",
+    "ware_id": "ware-gray",
+    "region_id": "reg-mx-oax",
+    "period_id": "per-classic",
+    "date_range_start": -200,
+    "date_range_end": 800,
+    "date_bce_ce": "200–800 BCE",
+    "description": "Reduction-fired grey bowls with incised basal bands; a Zapotec chronological anchor.",
+    "alt_type_name": [
+      "G-12 Bowl"
+    ],
+    "morphology_text": null,
+    "technology_text": null,
+    "petrofabric_id": "pf-micaceous",
+    "kiln_workshop_id": null,
+    "bibliography_ids": [
+      "bib-007",
+      "bib-017"
+    ],
+    "contributor_id": "contrib-michelaki",
+    "discussion": [],
+    "acknowledgements": null,
+    "privacy_level": "public",
+    "stewardship_status": "stewarded"
+  },
+  {
+    "type_id": "type-teotihuacan-florero",
+    "name": "Teotihuacan Florero",
+    "ware_id": "ware-orange",
+    "region_id": "reg-mx-mex",
+    "period_id": "per-early-classic",
+    "date_range_start": 200,
+    "date_range_end": 600,
+    "date_bce_ce": "200–600 CE",
+    "description": "Small flaring-necked jars used in ritual deposits; thin walls and burnished exteriors.",
+    "alt_type_name": [
+      "Florero"
+    ],
+    "morphology_text": null,
+    "technology_text": null,
+    "petrofabric_id": "pf-fine-orange-paste",
+    "kiln_workshop_id": null,
+    "bibliography_ids": [
+      "bib-006"
+    ],
+    "contributor_id": "contrib-nelson",
+    "discussion": [],
+    "acknowledgements": null,
+    "privacy_level": "public",
+    "stewardship_status": "stewarded"
+  },
+  {
+    "type_id": "type-chichen-slate-basin",
+    "name": "Chichén Slate Ware Basin",
+    "ware_id": "ware-fine",
+    "region_id": "reg-mx-yuc",
+    "period_id": "per-terminal-classic",
+    "date_range_start": 800,
+    "date_range_end": 1100,
+    "date_bce_ce": "800–1100 CE",
+    "description": "Wide open basins with a waxy grey slate slip and palygorskite-bearing paste. Sotuta ceramic sphere.",
+    "alt_type_name": [
+      "Dzitas Slate"
+    ],
+    "morphology_text": null,
+    "technology_text": null,
+    "petrofabric_id": "pf-calcareous",
+    "kiln_workshop_id": null,
+    "bibliography_ids": [
+      "bib-014",
+      "bib-024"
+    ],
+    "contributor_id": "contrib-vasquez",
+    "discussion": [],
+    "acknowledgements": null,
+    "privacy_level": "public",
+    "stewardship_status": "stewarded"
+  },
+  {
+    "type_id": "type-tikal-cream-polychrome",
+    "name": "Tikal Cream Polychrome",
+    "ware_id": "ware-fine",
+    "region_id": "reg-gt-pet",
+    "period_id": "per-late-classic",
+    "date_range_start": 600,
+    "date_range_end": 900,
+    "date_bce_ce": "600–900 CE",
+    "description": "Cylinder vases and dishes with cream ground and red-brown glyphic bands. Elite Late Classic serving ware.",
+    "alt_type_name": [],
+    "morphology_text": null,
+    "technology_text": null,
+    "petrofabric_id": "pf-calcareous",
+    "kiln_workshop_id": null,
+    "bibliography_ids": [
+      "bib-008",
+      "bib-019"
+    ],
+    "contributor_id": "contrib-ixchel",
+    "discussion": [],
+    "acknowledgements": null,
+    "privacy_level": "public",
+    "stewardship_status": "stewarded"
+  },
+  {
+    "type_id": "type-copador-polychrome",
+    "name": "Copador Polychrome",
+    "ware_id": "ware-red-slipped",
+    "region_id": "reg-hn-cop",
+    "period_id": "per-late-classic",
+    "date_range_start": 600,
+    "date_range_end": 900,
+    "date_bce_ce": "600–900 CE",
+    "description": "Southeastern Maya polychrome with pseudo-glyphic bands and dancing figures; volcanic ash temper.",
+    "alt_type_name": [
+      "Copador"
+    ],
+    "morphology_text": null,
+    "technology_text": null,
+    "petrofabric_id": "pf-vesicular-ash",
+    "kiln_workshop_id": null,
+    "bibliography_ids": [
+      "bib-009",
+      "bib-023"
+    ],
+    "contributor_id": "contrib-alvarez",
+    "discussion": [],
+    "acknowledgements": null,
+    "privacy_level": "public",
+    "stewardship_status": "stewarded"
+  },
+  {
+    "type_id": "type-sechin-coarse-olla",
+    "name": "Sechín Coarse Olla",
+    "ware_id": "ware-coarse",
+    "region_id": "reg-pe-anc",
+    "period_id": "per-initial-peru",
+    "date_range_start": -1600,
+    "date_range_end": -800,
+    "date_bce_ce": "1600–800 BCE",
+    "description": "Neckless and short-necked cooking ollas with quartz-rich temper and heavily sooted exteriors.",
+    "alt_type_name": [],
+    "morphology_text": null,
+    "technology_text": null,
+    "petrofabric_id": "pf-coarse-quartz",
+    "kiln_workshop_id": null,
+    "bibliography_ids": [
+      "bib-015"
+    ],
+    "contributor_id": "contrib-quispe",
+    "discussion": [],
+    "acknowledgements": null,
+    "privacy_level": "public",
+    "stewardship_status": "stewarded"
+  },
+  {
+    "type_id": "type-zacatecas-red-on-buff",
+    "name": "Zacatecas Red-on-Buff",
+    "ware_id": "ware-buff",
+    "region_id": "reg-mx-zac",
+    "period_id": "per-epiclassic",
+    "date_range_start": 600,
+    "date_range_end": 900,
+    "date_bce_ce": "600–900 CE",
+    "description": "Buff-paste bowls with red-painted geometric bands below the rim; the diagnostic decorated type of the Malpaso Valley.",
+    "alt_type_name": [
+      "Malpaso Red-on-Buff"
+    ],
+    "morphology_text": null,
+    "technology_text": null,
+    "petrofabric_id": "pf-volcanic-plagioclase",
+    "kiln_workshop_id": null,
+    "bibliography_ids": [
+      "bib-003",
+      "bib-016"
+    ],
+    "contributor_id": "contrib-torvinen",
+    "discussion": [],
+    "acknowledgements": null,
+    "privacy_level": "public",
+    "stewardship_status": "stewarded"
+  },
+  {
+    "type_id": "type-gila-plain",
+    "name": "Gila Plain",
+    "ware_id": "ware-hohokam-plain",
+    "region_id": "reg-us-phx",
+    "period_id": "per-sedentary",
+    "date_range_start": 500,
+    "date_range_end": 1450,
+    "date_bce_ce": "500–1450 CE",
+    "description": "The dominant Hohokam plainware of the Phoenix Basin, defined by micaceous schist temper. Published varieties separate the Gila and Salt river sources.",
+    "alt_type_name": [
+      "Gila Plain, Gila variety"
+    ],
+    "morphology_text": "Jars and bowls; thick-walled storage and cooking forms predominate.",
+    "technology_text": "Paddle-and-anvil thinning; micaceous schist temper visible as bright flecks on broken edges.",
+    "petrofabric_id": null,
+    "kiln_workshop_id": null,
+    "bibliography_ids": [],
+    "contributor_id": "contrib-torvinen",
+    "discussion": null,
+    "acknowledgements": null,
+    "privacy_level": "public",
+    "stewardship_status": "stewarded"
+  },
+  {
+    "type_id": "type-sacaton-red",
+    "name": "Sacaton Red",
+    "ware_id": "ware-hohokam-red",
+    "region_id": "reg-us-phx",
+    "period_id": "per-sedentary",
+    "date_range_start": 900,
+    "date_range_end": 1150,
+    "date_bce_ce": "900–1150 CE",
+    "description": "Sedentary period Hohokam redware carrying a heavy raspberry-red slip, usually on bowl interiors.",
+    "alt_type_name": [],
+    "morphology_text": "Bowls, occasionally jars.",
+    "technology_text": "Slip applied over a smoothed surface and lightly polished.",
+    "petrofabric_id": null,
+    "kiln_workshop_id": null,
+    "bibliography_ids": [],
+    "contributor_id": "contrib-torvinen",
+    "discussion": null,
+    "acknowledgements": null,
+    "privacy_level": "public",
+    "stewardship_status": "community_reviewed"
+  },
+  {
+    "type_id": "type-salado-polychrome",
+    "name": "Salado Polychrome",
+    "ware_id": null,
+    "region_id": "reg-us-phx",
+    "period_id": "per-hohokam-classic",
+    "date_range_start": 1280,
+    "date_range_end": 1450,
+    "date_bce_ce": "1280–1450 CE",
+    "description": "Classic period polychrome group (Pinto, Gila and Tonto) found across the Hohokam Classic Southwest; technologically homogeneous at a broad level but variable in paste and paint.",
+    "alt_type_name": [
+      "Roosevelt Red Ware"
+    ],
+    "morphology_text": "Bowls and jars with black-on-white designs over a red slip.",
+    "technology_text": "White slip and black organic paint over a red-slipped body.",
+    "petrofabric_id": null,
+    "kiln_workshop_id": null,
+    "bibliography_ids": [],
+    "contributor_id": "contrib-torvinen",
+    "discussion": null,
+    "acknowledgements": null,
+    "privacy_level": "public",
+    "stewardship_status": "needs_review"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "region_id": "reg-mx-zac",
+    "country": "Mexico",
+    "name": "Zacatecas",
+    "subregion": "North-Central Mexico",
+    "description": "Semi-arid highland basins on the northern Mesoamerican frontier; volcanic geology with rhyolitic and andesitic outcrops."
+  },
+  {
+    "region_id": "reg-mx-oax",
+    "country": "Mexico",
+    "name": "Oaxaca",
+    "subregion": "Valley of Oaxaca",
+    "description": "Highland valley system with metamorphic and alluvial clay sources; long ceramic sequence centred on Monte Albán."
+  },
+  {
+    "region_id": "reg-mx-mex",
+    "country": "Mexico",
+    "name": "State of Mexico",
+    "subregion": "Basin of Mexico",
+    "description": "High-altitude lacustrine basin; volcanic ash and pumice-rich clays used throughout the Classic period."
+  },
+  {
+    "region_id": "reg-mx-yuc",
+    "country": "Mexico",
+    "name": "Yucatán",
+    "subregion": "Northern Maya Lowlands",
+    "description": "Karstic limestone plain; calcareous clays and palygorskite temper characterise the regional slate wares."
+  },
+  {
+    "region_id": "reg-gt-pet",
+    "country": "Guatemala",
+    "name": "Petén",
+    "subregion": "Central Maya Lowlands",
+    "description": "Tropical lowland karst with dense Classic-period settlement; calcite-tempered fabrics dominate."
+  },
+  {
+    "region_id": "reg-hn-cop",
+    "country": "Honduras",
+    "name": "Copán",
+    "subregion": "Southeastern Maya Periphery",
+    "description": "River valley on the southeastern Maya frontier; volcanic ash tempers common in fine serving wares."
+  },
+  {
+    "region_id": "reg-pe-anc",
+    "country": "Peru",
+    "name": "Ancash",
+    "subregion": "North-Central Coast",
+    "description": "Coastal desert valleys backed by the Cordillera Negra; granodioritic and quartz-rich sands."
+  },
+  {
+    "region_id": "reg-pa-coc",
+    "country": "Panama",
+    "name": "Coclé",
+    "subregion": "Central Panama",
+    "description": "Pacific-slope river plains; fine iron-rich clays supporting the central Panamanian polychrome tradition."
+  },
+  {
+    "region_id": "reg-us-phx",
+    "country": "United States",
+    "name": "Phoenix Basin",
+    "subregion": "Sonoran Desert, Arizona",
+    "description": "Lower Salt and middle Gila river valleys; Hohokam canal irrigation communities on alluvial fans with schist and phyllite sources in the flanking ranges."
+  }
+]
