@@ -346,15 +346,20 @@ export function DraftRecordDetail({ draft }) {
             <div className="bg-card border border-border rounded-lg p-4">
               <h3 className="text-xs uppercase tracking-wider text-primary mb-3 font-semibold">Source</h3>
               <p className="text-sm text-foreground leading-relaxed">
-                Extracted from <span className="font-medium">{source.document.fileName}</span>
-                {item.pages.length > 0 && <> · page {item.pages.join(', ')}</>} · uploaded by {draft.reviewed_by} ·{' '}
-                {formatDate(draft.accepted_at)}
+                {source.method === 'bulk_upload' ? 'Imported from' : 'Extracted from'}{' '}
+                <span className="font-medium">{source.document.fileName}</span>
+                {source.method === 'bulk_upload'
+                  ? source.row != null && <> · row {source.row}</>
+                  : item.pages.length > 0 && <> · page {item.pages.join(', ')}</>}{' '}
+                · uploaded by {draft.reviewed_by} · {formatDate(draft.accepted_at)}
               </p>
               {source.citation && <p className="text-xs text-muted-foreground mt-3">{source.citation}</p>}
               <p className="text-xs text-muted-foreground mt-3">
                 {source.method === 'curated_demo'
                   ? 'Prepared by hand from the report as an example.'
-                  : 'Proposed by AI from the PDF and accepted by a reviewer.'}{' '}
+                  : source.method === 'bulk_upload'
+                    ? 'Imported from a spreadsheet row and accepted by a reviewer. No AI was involved.'
+                    : 'Proposed by AI from the PDF and accepted by a reviewer.'}{' '}
                 This trail stays with the record through every status change.
               </p>
             </div>

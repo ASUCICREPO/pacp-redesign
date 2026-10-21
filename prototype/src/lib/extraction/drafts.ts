@@ -29,7 +29,9 @@ export interface ExtractedDraft {
     document: DocumentMeta;
     citation: string | null;
     /** How the candidate was produced — kept honest about AI involvement. */
-    method: 'ai_assisted' | 'curated_demo';
+    method: 'ai_assisted' | 'curated_demo' | 'bulk_upload';
+    /** For a spreadsheet import, the row it came from. */
+    row?: number;
   };
   reviewed_by: string;
   accepted_at: string;
